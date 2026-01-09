@@ -3,5 +3,5 @@ fifa_world_cup_history.csv,Fifa World Cup History,Sports,Soccer,World Cup,https:
 f1_history.csv,F1 History,Sports,Motorsport,Formula 1,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/f1_history.csv
 world_war1_history.csv,World War 1 History,History,World War,World War 1,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/world_war1_history.csv
 world_war2_history.csv,World War 2 History,History,World War,World War 2,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/world_war2_history.csv
-azure_basic.csv,Azure Basic,Technology,Cloud,Azure,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/azure_basic.csv
-aws_basic.csv,AWS Basic,Technology,Cloud,AWS,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/aws_basic.csv
+azure_basic.csv,Azure Basics,Technology,Cloud,Azure,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/azure_basics.csv
+aws_basic.csv,AWS Basics,Technology,Cloud,AWS,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/aws_basics.csv
