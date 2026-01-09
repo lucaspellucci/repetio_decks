@@ -1,5 +1,5 @@
-filename,description,category,subcategory1,subcategory2
-fifa_world_cup_history.csv,Fifa World Cup History,Sports,Soccer,World Cup
-f1_history.csv,F1 History,Sports,Motorsport,Formula 1
-world_war1_history.csv,World War 1 History,History,World War,World War 1
-world_war2_history.csv,World War 2 History,History,World War,World War 2
+filename,description,category,subcategory1,subcategory2,url
+fifa_world_cup_history.csv,Fifa World Cup History,Sports,Soccer,World Cup,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/fifa_world_cup_history.csv
+f1_history.csv,F1 History,Sports,Motorsport,Formula 1,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/f1_history.csv
+world_war1_history.csv,World War 1 History,History,World War,World War 1,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/world_war1_history.csv
+world_war2_history.csv,World War 2 History,History,World War,World War 2,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/world_war2_history.csv
