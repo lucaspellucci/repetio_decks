@@ -1,14 +1,14 @@
-filename,version,description,category,subcategory1,subcategory2,url
-fifa_world_cup_history.csv,1.0,Fifa World Cup History,Sports,Soccer,World Cup,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/fifa_world_cup_history.csv
-f1_history.csv,1.0,F1 History,Sports,Motorsport,Formula 1,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/f1_history.csv
-world_war1_history.csv,1.0,World War 1 History,History,World War,World War 1,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/world_war1_history.csv
-world_war2_history.csv,1.0,World War 2 History,History,World War,World War 2,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/world_war2_history.csv
-azure_basic.csv,1.0,Azure Basics,Technology,Cloud,Azure,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/azure_basics.csv
-aws_basic.csv,1.0,AWS Basics,Technology,Cloud,AWS,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/aws_basics.csv
-aws2azure.csv,1.0,AWS to Azure,Technology,Cloud,Azure,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/aws2azure.csv
-azure2aws.csv,1.0,Azure to AWS,Technology,Cloud,AWS,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/azure2aws.csv
-az_900_azure_fundamentals.csv,1.0,Azure Fundamentals,Technology,Cloud,Azure,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/az_900_azure_fundamentals.csv
-ai_900_azure_ai_fundamentals.csv,1.0,Azure AI Fundamentals,Technology,Cloud,Azure,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/ai_900_azure_ai_fundamentals.csv
-aws_cloud_pratictioner.csv,1.0,AWS Cloud Practitioner,Technology,Cloud,AWS,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/aws_cloud_pratictioner.csv
-aws_ai_pratictioner.csv,1.0,AWS AI Practitioner,Technology,Cloud,AWS,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/aws_ai_pratictioner.csv
-stoicism.csv,1.0,Stoicism,Philosophy,Stoicism,Stoicism,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/stoicism.csv
+filename,version,description,category,subcategory1,subcategory2,url,language
+fifa_world_cup_history.csv,1.0,Fifa World Cup History,Sports,Soccer,World Cup,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/fifa_world_cup_history.csv,en
+f1_history.csv,1.0,F1 History,Sports,Motorsport,Formula 1,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/f1_history.csv,en
+world_war1_history.csv,1.0,World War 1 History,History,World War,World War 1,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/world_war1_history.csv,en
+world_war2_history.csv,1.0,World War 2 History,History,World War,World War 2,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/world_war2_history.csv,en
+azure_basic.csv,1.0,Azure Basics,Technology,Cloud,Azure,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/azure_basics.csv,en
+aws_basic.csv,1.0,AWS Basics,Technology,Cloud,AWS,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/aws_basics.csv,en
+aws2azure.csv,1.0,AWS to Azure,Technology,Cloud,Azure,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/aws2azure.csv,en
+azure2aws.csv,1.0,Azure to AWS,Technology,Cloud,AWS,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/azure2aws.csv,en
+az_900_azure_fundamentals.csv,1.0,Azure Fundamentals,Technology,Cloud,Azure,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/az_900_azure_fundamentals.csv,en
+ai_900_azure_ai_fundamentals.csv,1.0,Azure AI Fundamentals,Technology,Cloud,Azure,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/ai_900_azure_ai_fundamentals.csv,en
+aws_cloud_pratictioner.csv,1.0,AWS Cloud Practitioner,Technology,Cloud,AWS,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/aws_cloud_pratictioner.csv,en
+aws_ai_pratictioner.csv,1.0,AWS AI Practitioner,Technology,Cloud,AWS,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/aws_ai_pratictioner.csv,en
+stoicism.csv,1.0,Stoicism,Philosophy,Stoicism,Stoicism,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/stoicism.csv,en
