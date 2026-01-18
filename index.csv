@@ -17,3 +17,4 @@ aws_ai_practitioner.csv,1.0,AWS AI Practitioner,Technology,Cloud,AWS,https://raw
 stoicism.csv,1.0,Stoicism,Philosophy,Stoicism,Stoicism,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/stoicism.csv,en
 travel_english_to_portuguese.csv,1.0,Travel English to Portuguese,Languages,Portuguese,Travel,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/travel_english_to_portuguese.csv,en
 travel_portuguese_to_english.csv,1.0,Travel Portuguese to English,Languages,Portuguese,Travel,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/travel_portuguese_to_english.csv,pt
+world_capitals.csv,1.0,World Capitals,Geography,Countries,Capitals,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/world_capitals.csv,en
