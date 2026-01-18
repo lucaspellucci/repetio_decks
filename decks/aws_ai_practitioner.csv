@@ -1,79 +1,79 @@
 front,back
-What is AWS AI,AWS AI is a set of services that enable machine learning and AI capabilities without deep ML expertise
-What is Machine Learning,Machine Learning is a subset of AI that enables systems to learn patterns from data
-What is Deep Learning,Deep Learning is a type of ML using neural networks with multiple layers
-What is Generative AI,Generative AI creates new content such as text images audio or code
-What is Amazon SageMaker,A fully managed service to build train and deploy ML models
-What is Amazon Rekognition,AWS service for image and video analysis
-What is Amazon Comprehend,AWS NLP service for text analysis
-What is Amazon Textract,AWS service to extract text and data from documents
-What is Amazon Transcribe,Converts speech to text
-What is Amazon Translate,Provides real time language translation
-What is Amazon Polly,Converts text to lifelike speech
-What is Amazon Lex,Service to build conversational chatbots
-What is Amazon Kendra,Intelligent enterprise search service
-What is Amazon Bedrock,Service to build generative AI apps using foundation models
-What are Foundation Models,Large pre trained models that can be adapted to many tasks
-What is a use case of Rekognition,Face detection object recognition and content moderation
-What is NLP,Natural Language Processing enables machines to understand human language
-What is Computer Vision,AI field that enables machines to interpret images and video
-What is Supervised Learning,ML approach using labeled data
-What is Unsupervised Learning,ML approach using unlabeled data
-What is Reinforcement Learning,ML approach where agents learn through rewards and penalties
-What is Training Data,Data used to teach a machine learning model
-What is Inference,Process of making predictions with a trained model
-What is Model Deployment,Making a trained model available for use
-What is Feature Engineering,Process of selecting and transforming input variables
-What is Overfitting,Model performs well on training data but poorly on new data
-What is Underfitting,Model is too simple to capture patterns in data
-What is Bias in AI,Systematic error that leads to unfair outcomes
-What is Explainable AI,Ability to understand how a model makes decisions
-What is Responsible AI,AI developed with fairness transparency and accountability
-What is Data Labeling,Process of tagging data for supervised learning
-What is Amazon Augmented AI,Human review service for ML predictions
-What is AWS Shared Responsibility Model,AWS manages cloud security customer manages data and usage
-What is IAM in AWS,Identity and Access Management for controlling permissions
-What is Least Privilege,Granting only required permissions
-What is Encryption,Protecting data by converting it into unreadable form
-What is Data at Rest,Stored data such as in S3 or databases
-What is Data in Transit,Data moving across networks
-What is Model Drift,Model performance degradation over time
-What is Monitoring in ML,Tracking model performance and data quality
-What is Amazon CloudWatch,Monitoring and observability service
-What is AWS Well Architected Framework,Best practices for designing AWS workloads
-Which pillar includes sustainability,Sustainability pillar
-Which pillar covers security,Security pillar
-What is Cost Optimization,Reducing unnecessary cloud spending
-What is Scalability,Ability to handle increased workload
-What is Availability,Ensuring systems remain accessible
-What is Latency,Time taken to respond to a request
-What is Batch Inference,Predictions made on large datasets at once
-What is Real Time Inference,Predictions made instantly per request
-What is Zero Shot Learning,Model performs tasks without task specific training
-What is Prompt Engineering,Designing prompts to guide generative AI outputs
-What is Token in GenAI,Smallest unit of text processed by models
-What is Temperature in GenAI,Controls randomness of model output
-What is Hallucination in AI,Model generating incorrect or fabricated information
-What is Fine Tuning,Training a pre trained model with custom data
-What is Embedding,Numeric representation of text or data
-What is Vector Database,Database optimized for similarity search
-What is Retrieval Augmented Generation,Combines search results with generative AI
-What is Amazon OpenSearch,Search and analytics service
-What is Amazon S3,Object storage service
-What is Amazon EC2,Virtual compute service
-What is AWS Lambda,Serverless compute service
-What is Serverless,No server management required by user
-What is API,Interface for communication between software
-What is SDK,Software Development Kit
-What is CLI,Command Line Interface
-What is Edge AI,AI processing close to data source
-What is IoT,Internet of Things
-What is MLOps,Practices for managing ML lifecycle
-What is CI CD,Continuous Integration and Continuous Deployment
-What is Data Privacy,Protecting personal and sensitive information
-What is Compliance,Meeting regulatory requirements
-What is AWS Artifact,Access to compliance reports
-What is Amazon GuardDuty,Threat detection service
-What is Amazon Macie,Data security and privacy service
-What is Cloud Computing,On demand delivery of IT resources
-What is Pay as You Go,Pay only for what you use
+What is AWS AI?,AWS AI is a set of services that enable machine learning and AI capabilities without deep ML expertise
+What is Machine Learning?,Machine Learning is a subset of AI that enables systems to learn patterns from data
+What is Deep Learning?,Deep Learning is a type of ML using neural networks with multiple layers
+What is Generative AI?,Generative AI creates new content such as text images audio or code
+What is Amazon SageMaker?,A fully managed service to build train and deploy ML models
+What is Amazon Rekognition?,AWS service for image and video analysis
+What is Amazon Comprehend?,AWS NLP service for text analysis
+What is Amazon Textract?,AWS service to extract text and data from documents
+What is Amazon Transcribe?,Converts speech to text
+What is Amazon Translate?,Provides real time language translation
+What is Amazon Polly?,Converts text to lifelike speech
+What is Amazon Lex?,Service to build conversational chatbots
+What is Amazon Kendra?,Intelligent enterprise search service
+What is Amazon Bedrock?,Service to build generative AI apps using foundation models
+What are Foundation Models?,Large pre trained models that can be adapted to many tasks
+What is a use case of Rekognition?,Face detection object recognition and content moderation
+What is NLP?,Natural Language Processing enables machines to understand human language
+What is Computer Vision?,AI field that enables machines to interpret images and video
+What is Supervised Learning?,ML approach using labeled data
+What is Unsupervised Learning?,ML approach using unlabeled data
+What is Reinforcement Learning?,ML approach where agents learn through rewards and penalties
+What is Training Data?,Data used to teach a machine learning model
+What is Inference?,Process of making predictions with a trained model
+What is Model Deployment?,Making a trained model available for use
+What is Feature Engineering?,Process of selecting and transforming input variables
+What is Overfitting?,Model performs well on training data but poorly on new data
+What is Underfitting?,Model is too simple to capture patterns in data
+What is Bias in AI?,Systematic error that leads to unfair outcomes
+What is Explainable AI?,Ability to understand how a model makes decisions
+What is Responsible AI?,AI developed with fairness transparency and accountability
+What is Data Labeling?,Process of tagging data for supervised learning
+What is Amazon Augmented AI?,Human review service for ML predictions
+What is AWS Shared Responsibility Model?,AWS manages cloud security customer manages data and usage
+What is IAM in AWS?,Identity and Access Management for controlling permissions
+What is Least Privilege?,Granting only required permissions
+What is Encryption?,Protecting data by converting it into unreadable form
+What is Data at Rest?,Stored data such as in S3 or databases
+What is Data in Transit?,Data moving across networks
+What is Model Drift?,Model performance degradation over time
+What is Monitoring in ML?,Tracking model performance and data quality
+What is Amazon CloudWatch?,Monitoring and observability service
+What is AWS Well Architected Framework?,Best practices for designing AWS workloads
+Which pillar includes sustainability?,Sustainability pillar
+Which pillar covers security?,Security pillar
+What is Cost Optimization?,Reducing unnecessary cloud spending
+What is Scalability?,Ability to handle increased workload
+What is Availability?,Ensuring systems remain accessible
+What is Latency?,Time taken to respond to a request
+What is Batch Inference?,Predictions made on large datasets at once
+What is Real Time Inference?,Predictions made instantly per request
+What is Zero Shot Learning?,Model performs tasks without task specific training
+What is Prompt Engineering?,Designing prompts to guide generative AI outputs
+What is Token in GenAI?,Smallest unit of text processed by models
+What is Temperature in GenAI?,Controls randomness of model output
+What is Hallucination in AI?,Model generating incorrect or fabricated information
+What is Fine Tuning?,Training a pre trained model with custom data
+What is Embedding?,Numeric representation of text or data
+What is Vector Database?,Database optimized for similarity search
+What is Retrieval Augmented Generation?,Combines search results with generative AI
+What is Amazon OpenSearch?,Search and analytics service
+What is Amazon S3?,Object storage service
+What is Amazon EC2?,Virtual compute service
+What is AWS Lambda?,Serverless compute service
+What is Serverless?,No server management required by user
+What is API?,Interface for communication between software
+What is SDK?,Software Development Kit
+What is CLI?,Command Line Interface
+What is Edge AI?,AI processing close to data source
+What is IoT?,Internet of Things
+What is MLOps?,Practices for managing ML lifecycle
+What is CI CD?,Continuous Integration and Continuous Deployment
+What is Data Privacy?,Protecting personal and sensitive information
+What is Compliance?,Meeting regulatory requirements
+What is AWS Artifact?,Access to compliance reports
+What is Amazon GuardDuty?,Threat detection service
+What is Amazon Macie?,Data security and privacy service
+What is Cloud Computing?,On demand delivery of IT resources
+What is Pay as You Go?,Pay only for what you use
