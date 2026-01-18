@@ -3,6 +3,7 @@ fifa_world_cup_history.csv,1.0,Fifa World Cup History,Sports,Soccer,World Cup,ht
 f1_history.csv,1.0,F1 History,Sports,Motorsport,Formula 1,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/f1_history.csv,en
 world_war1_history.csv,1.0,World War 1 History,History,World War,World War 1,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/world_war1_history.csv,en
 world_war2_history.csv,1.0,World War 2 History,History,World War,World War 2,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/world_war2_history.csv,en
+industrial_revolution.csv,1.0,Industrial Revolution,History,Modern History,Industrial Revolution,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/industrial_revolution.csv,en
 azure_basics.csv,1.0,Azure Basics,Technology,Cloud,Azure,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/azure_basics.csv,en
 aws_basics.csv,1.0,AWS Basics,Technology,Cloud,AWS,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/aws_basics.csv,en
 aws_to_azure.csv,1.0,AWS to Azure,Technology,Cloud,Azure,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/aws_to_azure.csv,en
