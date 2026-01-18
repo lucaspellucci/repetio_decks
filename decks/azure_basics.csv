@@ -14,7 +14,7 @@ What is an Azure availability set?,A way to ensure VMs are distributed across fa
 What is Azure Virtual Machine?,A scalable on demand compute resource
 What OS types does Azure VM support?,Windows and Linux
 What is Azure App Service?,A PaaS for hosting web apps APIs and mobile backends
-What languages are supported by Azure App Service?,.NET Java Node.js Python PHP
+What languages are supported by Azure App Service?,".NET, Java, Node.js, Python, PHP"
 What is Azure Functions?,A serverless compute service
 What triggers Azure Functions?,HTTP timers queues blobs and events
 What is Azure Blob Storage?,Object storage for unstructured data

@@ -2,7 +2,7 @@ front,back
 What is Azure AI?,A collection of AI services and tools provided by Microsoft Azure
 What is the Azure AI Fundamentals certification?,An entry-level certification validating basic knowledge of AI concepts and Azure AI services
 What exam code is Azure AI Fundamentals?,AI-900
-What are the main AI workload types?,Machine Learning, Computer Vision, NLP, and Conversational AI
+What are the main AI workload types?,"Machine Learning, Computer Vision, NLP, and Conversational AI"
 What is machine learning?,A technique where models learn patterns from data
 What is supervised learning?,Training a model using labeled data
 What is unsupervised learning?,Finding patterns in unlabeled data
@@ -22,7 +22,7 @@ What is recall?,The ratio of true positives to actual positives
 What is overfitting?,When a model performs well on training data but poorly on new data
 What is underfitting?,When a model fails to capture patterns in data
 What is Azure Cognitive Services?,Prebuilt AI services accessible via APIs
-What are the main categories of Cognitive Services?,Vision, Speech, Language, and Decision
+What are the main categories of Cognitive Services?,"Vision, Speech, Language, and Decision"
 What is Computer Vision?,AI that interprets images and videos
 What is Azure Computer Vision?,A service that analyzes images for objects and text
 What is image classification?,Assigning categories to images
@@ -31,10 +31,10 @@ What is OCR?,Optical Character Recognition to extract text from images
 What is Azure Face service?,A service for face detection and analysis
 What is responsible AI?,Ethical and fair use of artificial intelligence
 What is NLP?,Natural Language Processing for understanding text and language
-What is Azure Text Analytics?,A service for sentiment, key phrases, and entity detection
-What is sentiment analysis?,Determining positive, negative, or neutral tone
+What is Azure Text Analytics?,"A service for sentiment, key phrases, and entity detection"
+What is sentiment analysis?,"Determining positive, negative, or neutral tone"
 What is key phrase extraction?,Identifying important words or phrases
-What is named entity recognition?,Detecting people, places, and organizations in text
+What is named entity recognition?,"Detecting people, places, and organizations in text"
 What is language detection?,Identifying the language of text
 What is Azure Translator?,A service for translating text between languages
 What is speech recognition?,Converting spoken language into text

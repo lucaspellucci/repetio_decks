@@ -112,7 +112,7 @@ Azure Container Apps,AWS App Runner / ECS with Fargate
 Azure Spring Apps,AWS Elastic Beanstalk (Java) / App Runner
 Azure App Configuration,AWS AppConfig
 Azure SignalR Service,Amazon API Gateway (WebSocket) + AWS AppSync
-Azure Cognitive Services (general),AWS AI Services (e.g., Rekognition/Comprehend/Polly)
+Azure Cognitive Services (general),"AWS AI Services (e.g., Rekognition/Comprehend/Polly)"
 Azure OpenAI Service,Amazon Bedrock (managed foundation models)
 Azure Machine Learning,AWS SageMaker
 Azure Form Recognizer,AWS Textract
