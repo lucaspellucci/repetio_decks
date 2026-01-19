@@ -23,3 +23,5 @@ demographics.csv,1.0,Demographics,Geography,Demographics,Population,https://raw.
 chemistry.csv,1.0,Chemistry,Science,Chemistry,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/chemistry.csv,en
 biology.csv,1.0,Biology,Science,Biology,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/biology.csv,en
 astronomy.csv,1.0,Astronomy,Science,Astronomy,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/astronomy.csv,en
+physics.csv,1.0,Physics,Science,Physics,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/physics.csv,en
+quantum_physics.csv,1.0,Quantum Physics,Science,Physics,Quantum,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/quantum_physics.csv,en
