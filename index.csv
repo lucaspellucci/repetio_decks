@@ -18,3 +18,8 @@ stoicism.csv,1.0,Stoicism,Philosophy,Stoicism,Stoicism,https://raw.githubusercon
 travel_english_to_portuguese.csv,1.0,Travel English to Portuguese,Languages,Portuguese,Travel,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/travel_english_to_portuguese.csv,en
 travel_portuguese_to_english.csv,1.0,Travel Portuguese to English,Languages,Portuguese,Travel,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/travel_portuguese_to_english.csv,pt
 world_capitals.csv,1.0,World Capitals,Geography,Countries,Capitals,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/world_capitals.csv,en
+countries.csv,1.0,Countries,Geography,Countries,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/countries.csv,en
+demographics.csv,1.0,Demographics,Geography,Demographics,Population,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/demographics.csv,en
+chemistry.csv,1.0,Chemistry,Science,Chemistry,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/chemistry.csv,en
+biology.csv,1.0,Biology,Science,Biology,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/biology.csv,en
+astronomy.csv,1.0,Astronomy,Science,Astronomy,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/astronomy.csv,en
