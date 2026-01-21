@@ -1,93 +1,93 @@
 filename,version,description,category,subcategory1,subcategory2,url,language
 fifa_world_cup_history.csv,1.0,Fifa World Cup History,Sports,Soccer,World Cup,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/fifa_world_cup_history.csv,en
-fifa_world_cup_history_pt.csv,1.0,História da Copa do Mundo FIFA,Sports,Soccer,World Cup,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/fifa_world_cup_history_pt.csv,pt
-fifa_world_cup_history_es.csv,1.0,Historia de la Copa Mundial de la FIFA,Sports,Soccer,World Cup,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/fifa_world_cup_history_es.csv,es
+fifa_world_cup_history_pt.csv,1.0,História da Copa do Mundo FIFA,Esportes,Futebol,Copa do Mundo,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/fifa_world_cup_history_pt.csv,pt
+fifa_world_cup_history_es.csv,1.0,Historia de la Copa Mundial de la FIFA,Deportes,Fútbol,Copa del Mundo,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/fifa_world_cup_history_es.csv,es
 f1_history.csv,1.0,F1 History,Sports,Motorsport,Formula 1,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/f1_history.csv,en
-f1_history_pt.csv,1.0,História da F1,Sports,Motorsport,Formula 1,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/f1_history_pt.csv,pt
-f1_history_es.csv,1.0,Historia de la F1,Sports,Motorsport,Formula 1,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/f1_history_es.csv,es
+f1_history_pt.csv,1.0,História da F1,Esportes,Automobilismo,Fórmula 1,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/f1_history_pt.csv,pt
+f1_history_es.csv,1.0,Historia de la F1,Deportes,Automovilismo,Fórmula 1,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/f1_history_es.csv,es
 olympics.csv,1.0,Olympics,Sports,Olympics,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/olympics.csv,en
-olympics_pt.csv,1.0,Olimpíadas,Sports,Olympics,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/olympics_pt.csv,pt
-olympics_es.csv,1.0,Juegos Olímpicos,Sports,Olympics,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/olympics_es.csv,es
+olympics_pt.csv,1.0,Olimpíadas,Esportes,Olimpíadas,Geral,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/olympics_pt.csv,pt
+olympics_es.csv,1.0,Juegos Olímpicos,Deportes,Juegos Olímpicos,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/olympics_es.csv,es
 basketball.csv,1.0,Basketball,Sports,Basketball,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/basketball.csv,en
-basketball_pt.csv,1.0,Basquete,Sports,Basketball,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/basketball_pt.csv,pt
-basketball_es.csv,1.0,Baloncesto,Sports,Basketball,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/basketball_es.csv,es
+basketball_pt.csv,1.0,Basquete,Esportes,Basquete,Geral,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/basketball_pt.csv,pt
+basketball_es.csv,1.0,Baloncesto,Deportes,Baloncesto,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/basketball_es.csv,es
 tennis.csv,1.0,Tennis,Sports,Tennis,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/tennis.csv,en
-tennis_pt.csv,1.0,Tênis,Sports,Tennis,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/tennis_pt.csv,pt
-tennis_es.csv,1.0,Tenis,Sports,Tennis,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/tennis_es.csv,es
+tennis_pt.csv,1.0,Tênis,Esportes,Tênis,Geral,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/tennis_pt.csv,pt
+tennis_es.csv,1.0,Tenis,Deportes,Tenis,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/tennis_es.csv,es
 world_war1_history.csv,1.0,World War 1 History,History,World War,World War 1,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/world_war1_history.csv,en
-world_war1_history_pt.csv,1.0,História da Primeira Guerra Mundial,History,World War,World War 1,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/world_war1_history_pt.csv,pt
-world_war1_history_es.csv,1.0,Historia de la Primera Guerra Mundial,History,World War,World War 1,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/world_war1_history_es.csv,es
+world_war1_history_pt.csv,1.0,História da Primeira Guerra Mundial,História,Guerra Mundial,Primeira Guerra Mundial,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/world_war1_history_pt.csv,pt
+world_war1_history_es.csv,1.0,Historia de la Primera Guerra Mundial,Historia,Guerra Mundial,Primera Guerra Mundial,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/world_war1_history_es.csv,es
 world_war2_history.csv,1.0,World War 2 History,History,World War,World War 2,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/world_war2_history.csv,en
-world_war2_history_pt.csv,1.0,História da Segunda Guerra Mundial,History,World War,World War 2,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/world_war2_history_pt.csv,pt
-world_war2_history_es.csv,1.0,Historia de la Segunda Guerra Mundial,History,World War,World War 2,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/world_war2_history_es.csv,es
+world_war2_history_pt.csv,1.0,História da Segunda Guerra Mundial,História,Guerra Mundial,Segunda Guerra Mundial,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/world_war2_history_pt.csv,pt
+world_war2_history_es.csv,1.0,Historia de la Segunda Guerra Mundial,Historia,Guerra Mundial,Segunda Guerra Mundial,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/world_war2_history_es.csv,es
 industrial_revolution.csv,1.0,Industrial Revolution,History,Modern History,Industrial Revolution,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/industrial_revolution.csv,en
-industrial_revolution_pt.csv,1.0,Revolução Industrial,History,Modern History,Industrial Revolution,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/industrial_revolution_pt.csv,pt
-industrial_revolution_es.csv,1.0,Revolución Industrial,History,Modern History,Industrial Revolution,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/industrial_revolution_es.csv,es
+industrial_revolution_pt.csv,1.0,Revolução Industrial,História,História Moderna,Revolução Industrial,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/industrial_revolution_pt.csv,pt
+industrial_revolution_es.csv,1.0,Revolución Industrial,Historia,Historia Moderna,Revolución Industrial,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/industrial_revolution_es.csv,es
 ancient_civilizations.csv,1.0,Ancient Civilizations,History,Ancient History,Civilizations,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/ancient_civilizations.csv,en
-ancient_civilizations_pt.csv,1.0,Civilizações Antigas,History,Ancient History,Civilizations,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/ancient_civilizations_pt.csv,pt
-ancient_civilizations_es.csv,1.0,Civilizaciones Antiguas,History,Ancient History,Civilizations,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/ancient_civilizations_es.csv,es
+ancient_civilizations_pt.csv,1.0,Civilizações Antigas,História,História Antiga,Civilizações,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/ancient_civilizations_pt.csv,pt
+ancient_civilizations_es.csv,1.0,Civilizaciones Antiguas,Historia,Historia Antigua,Civilizaciones,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/ancient_civilizations_es.csv,es
 middle_ages.csv,1.0,Middle Ages,History,Medieval History,Middle Ages,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/middle_ages.csv,en
-middle_ages_pt.csv,1.0,Idade Média,History,Medieval History,Middle Ages,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/middle_ages_pt.csv,pt
-middle_ages_es.csv,1.0,Edad Media,History,Medieval History,Middle Ages,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/middle_ages_es.csv,es
+middle_ages_pt.csv,1.0,Idade Média,História,História Medieval,Idade Média,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/middle_ages_pt.csv,pt
+middle_ages_es.csv,1.0,Edad Media,Historia,Historia Medieval,Edad Media,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/middle_ages_es.csv,es
 cold_war.csv,1.0,Cold War,History,Modern History,Cold War,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/cold_war.csv,en
-cold_war_pt.csv,1.0,Guerra Fria,History,Modern History,Cold War,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/cold_war_pt.csv,pt
-cold_war_es.csv,1.0,Guerra Fría,History,Modern History,Cold War,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/cold_war_es.csv,es
+cold_war_pt.csv,1.0,Guerra Fria,História,História Moderna,Guerra Fria,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/cold_war_pt.csv,pt
+cold_war_es.csv,1.0,Guerra Fría,Historia,Historia Moderna,Guerra Fría,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/cold_war_es.csv,es
 azure_basics.csv,1.0,Azure Basics,Technology,Cloud,Azure,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/azure_basics.csv,en
-azure_basics_pt.csv,1.0,Fundamentos do Azure,Technology,Cloud,Azure,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/azure_basics_pt.csv,pt
-azure_basics_es.csv,1.0,Fundamentos de Azure,Technology,Cloud,Azure,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/azure_basics_es.csv,es
+azure_basics_pt.csv,1.0,Fundamentos do Azure,Tecnologia,Nuvem,Azure,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/azure_basics_pt.csv,pt
+azure_basics_es.csv,1.0,Fundamentos de Azure,Tecnología,Nube,Azure,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/azure_basics_es.csv,es
 aws_basics.csv,1.0,AWS Basics,Technology,Cloud,AWS,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/aws_basics.csv,en
-aws_basics_pt.csv,1.0,Fundamentos da AWS,Technology,Cloud,AWS,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/aws_basics_pt.csv,pt
-aws_basics_es.csv,1.0,Fundamentos de AWS,Technology,Cloud,AWS,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/aws_basics_es.csv,es
+aws_basics_pt.csv,1.0,Fundamentos da AWS,Tecnologia,Nuvem,AWS,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/aws_basics_pt.csv,pt
+aws_basics_es.csv,1.0,Fundamentos de AWS,Tecnología,Nube,AWS,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/aws_basics_es.csv,es
 aws_to_azure.csv,1.0,AWS to Azure,Technology,Cloud,Azure,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/aws_to_azure.csv,en
-aws_to_azure_pt.csv,1.0,AWS para Azure,Technology,Cloud,Azure,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/aws_to_azure_pt.csv,pt
-aws_to_azure_es.csv,1.0,AWS a Azure,Technology,Cloud,Azure,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/aws_to_azure_es.csv,es
+aws_to_azure_pt.csv,1.0,AWS para Azure,Tecnologia,Nuvem,Azure,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/aws_to_azure_pt.csv,pt
+aws_to_azure_es.csv,1.0,AWS a Azure,Tecnología,Nube,Azure,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/aws_to_azure_es.csv,es
 azure_to_aws.csv,1.0,Azure to AWS,Technology,Cloud,AWS,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/azure_to_aws.csv,en
-azure_to_aws_pt.csv,1.0,Azure para AWS,Technology,Cloud,AWS,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/azure_to_aws_pt.csv,pt
-azure_to_aws_es.csv,1.0,Azure a AWS,Technology,Cloud,AWS,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/azure_to_aws_es.csv,es
+azure_to_aws_pt.csv,1.0,Azure para AWS,Tecnologia,Nuvem,AWS,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/azure_to_aws_pt.csv,pt
+azure_to_aws_es.csv,1.0,Azure a AWS,Tecnología,Nube,AWS,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/azure_to_aws_es.csv,es
 az_900_azure_fundamentals.csv,1.0,Azure Fundamentals,Technology,Cloud,Azure,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/az_900_azure_fundamentals.csv,en
-az_900_azure_fundamentals_pt.csv,1.0,Fundamentos do Azure (AZ-900),Technology,Cloud,Azure,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/az_900_azure_fundamentals_pt.csv,pt
-az_900_azure_fundamentals_es.csv,1.0,Fundamentos de Azure (AZ-900),Technology,Cloud,Azure,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/az_900_azure_fundamentals_es.csv,es
+az_900_azure_fundamentals_pt.csv,1.0,Fundamentos do Azure (AZ-900),Tecnologia,Nuvem,Azure,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/az_900_azure_fundamentals_pt.csv,pt
+az_900_azure_fundamentals_es.csv,1.0,Fundamentos de Azure (AZ-900),Tecnología,Nube,Azure,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/az_900_azure_fundamentals_es.csv,es
 ai_900_azure_ai_fundamentals.csv,1.0,Azure AI Fundamentals,Technology,Cloud,Azure,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/ai_900_azure_ai_fundamentals.csv,en
-ai_900_azure_ai_fundamentals_pt.csv,1.0,Fundamentos de IA do Azure (AI-900),Technology,Cloud,Azure,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/ai_900_azure_ai_fundamentals_pt.csv,pt
-ai_900_azure_ai_fundamentals_es.csv,1.0,Fundamentos de IA de Azure (AI-900),Technology,Cloud,Azure,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/ai_900_azure_ai_fundamentals_es.csv,es
+ai_900_azure_ai_fundamentals_pt.csv,1.0,Fundamentos de IA do Azure (AI-900),Tecnologia,Nuvem,Azure,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/ai_900_azure_ai_fundamentals_pt.csv,pt
+ai_900_azure_ai_fundamentals_es.csv,1.0,Fundamentos de IA de Azure (AI-900),Tecnología,Nube,Azure,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/ai_900_azure_ai_fundamentals_es.csv,es
 aws_ai_practitioner.csv,1.0,AWS AI Practitioner,Technology,Cloud,AWS,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/aws_ai_practitioner.csv,en
-aws_ai_practitioner_pt.csv,1.0,Praticante de IA da AWS,Technology,Cloud,AWS,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/aws_ai_practitioner_pt.csv,pt
-aws_ai_practitioner_es.csv,1.0,Practicante de IA de AWS,Technology,Cloud,AWS,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/aws_ai_practitioner_es.csv,es
+aws_ai_practitioner_pt.csv,1.0,Praticante de IA da AWS,Tecnologia,Nuvem,AWS,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/aws_ai_practitioner_pt.csv,pt
+aws_ai_practitioner_es.csv,1.0,Practicante de IA de AWS,Tecnología,Nube,AWS,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/aws_ai_practitioner_es.csv,es
 stoicism.csv,1.0,Stoicism,Philosophy,Stoicism,Stoicism,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/stoicism.csv,en
-stoicism_pt.csv,1.0,Estoicismo,Philosophy,Stoicism,Stoicism,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/stoicism_pt.csv,pt
-stoicism_es.csv,1.0,Estoicismo,Philosophy,Stoicism,Stoicism,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/stoicism_es.csv,es
+stoicism_pt.csv,1.0,Estoicismo,Filosofia,Estoicismo,Estoicismo,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/stoicism_pt.csv,pt
+stoicism_es.csv,1.0,Estoicismo,Filosofía,Estoicismo,Estoicismo,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/stoicism_es.csv,es
 existentialism.csv,1.0,Existentialism,Philosophy,Existentialism,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/existentialism.csv,en
-existentialism_pt.csv,1.0,Existencialismo,Philosophy,Existentialism,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/existentialism_pt.csv,pt
-existentialism_es.csv,1.0,Existencialismo,Philosophy,Existentialism,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/existentialism_es.csv,es
+existentialism_pt.csv,1.0,Existencialismo,Filosofia,Existencialismo,Geral,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/existentialism_pt.csv,pt
+existentialism_es.csv,1.0,Existencialismo,Filosofía,Existencialismo,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/existentialism_es.csv,es
 logic.csv,1.0,Logic,Philosophy,Logic,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/logic.csv,en
-logic_pt.csv,1.0,Lógica,Philosophy,Logic,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/logic_pt.csv,pt
-logic_es.csv,1.0,Lógica,Philosophy,Logic,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/logic_es.csv,es
+logic_pt.csv,1.0,Lógica,Filosofia,Lógica,Geral,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/logic_pt.csv,pt
+logic_es.csv,1.0,Lógica,Filosofía,Lógica,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/logic_es.csv,es
 ethics.csv,1.0,Ethics,Philosophy,Ethics,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/ethics.csv,en
-ethics_pt.csv,1.0,Ética,Philosophy,Ethics,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/ethics_pt.csv,pt
-ethics_es.csv,1.0,Ética,Philosophy,Ethics,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/ethics_es.csv,es
+ethics_pt.csv,1.0,Ética,Filosofia,Ética,Geral,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/ethics_pt.csv,pt
+ethics_es.csv,1.0,Ética,Filosofía,Ética,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/ethics_es.csv,es
 travel_english_to_portuguese.csv,1.0,Travel English to Portuguese,Languages,Portuguese,Travel,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/travel_english_to_portuguese.csv,en
-travel_portuguese_to_english.csv,1.0,Travel Portuguese to English,Languages,Portuguese,Travel,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/travel_portuguese_to_english.csv,pt
+travel_portuguese_to_english.csv,1.0,Viagem Português para Inglês,Idiomas,Português,Viagem,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/travel_portuguese_to_english.csv,pt
 world_capitals.csv,1.0,World Capitals,Geography,Countries,Capitals,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/world_capitals.csv,en
-world_capitals_pt.csv,1.0,Capitais do Mundo,Geography,Countries,Capitals,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/world_capitals_pt.csv,pt
-world_capitals_es.csv,1.0,Capitales del Mundo,Geography,Countries,Capitals,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/world_capitals_es.csv,es
+world_capitals_pt.csv,1.0,Capitais do Mundo,Geografia,Países,Capitais,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/world_capitals_pt.csv,pt
+world_capitals_es.csv,1.0,Capitales del Mundo,Geografía,Países,Capitales,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/world_capitals_es.csv,es
 countries.csv,1.0,Countries,Geography,Countries,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/countries.csv,en
-countries_pt.csv,1.0,Países,Geography,Countries,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/countries_pt.csv,pt
-countries_es.csv,1.0,Países,Geography,Countries,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/countries_es.csv,es
+countries_pt.csv,1.0,Países,Geografia,Países,Geral,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/countries_pt.csv,pt
+countries_es.csv,1.0,Países,Geografía,Países,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/countries_es.csv,es
 demographics.csv,1.0,Demographics,Geography,Demographics,Population,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/demographics.csv,en
-demographics_pt.csv,1.0,Demografia,Geography,Demographics,Population,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/demographics_pt.csv,pt
-demographics_es.csv,1.0,Demografía,Geography,Demographics,Population,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/demographics_es.csv,es
+demographics_pt.csv,1.0,Demografia,Geografia,Demografia,População,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/demographics_pt.csv,pt
+demographics_es.csv,1.0,Demografía,Geografía,Demografía,Población,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/demographics_es.csv,es
 chemistry.csv,1.0,Chemistry,Science,Chemistry,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/chemistry.csv,en
-chemistry_pt.csv,1.0,Química,Science,Chemistry,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/chemistry_pt.csv,pt
-chemistry_es.csv,1.0,Química,Science,Chemistry,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/chemistry_es.csv,es
+chemistry_pt.csv,1.0,Química,Ciência,Química,Geral,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/chemistry_pt.csv,pt
+chemistry_es.csv,1.0,Química,Ciencia,Química,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/chemistry_es.csv,es
 biology.csv,1.0,Biology,Science,Biology,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/biology.csv,en
-biology_pt.csv,1.0,Biologia,Science,Biology,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/biology_pt.csv,pt
-biology_es.csv,1.0,Biología,Science,Biology,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/biology_es.csv,es
+biology_pt.csv,1.0,Biologia,Ciência,Biologia,Geral,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/biology_pt.csv,pt
+biology_es.csv,1.0,Biología,Ciencia,Biología,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/biology_es.csv,es
 astronomy.csv,1.0,Astronomy,Science,Astronomy,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/astronomy.csv,en
-astronomy_pt.csv,1.0,Astronomia,Science,Astronomy,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/astronomy_pt.csv,pt
-astronomy_es.csv,1.0,Astronomía,Science,Astronomy,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/astronomy_es.csv,es
+astronomy_pt.csv,1.0,Astronomia,Ciência,Astronomia,Geral,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/astronomy_pt.csv,pt
+astronomy_es.csv,1.0,Astronomía,Ciencia,Astronomía,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/astronomy_es.csv,es
 physics.csv,1.0,Physics,Science,Physics,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/physics.csv,en
-physics_pt.csv,1.0,Física,Science,Physics,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/physics_pt.csv,pt
-physics_es.csv,1.0,Física,Science,Physics,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/physics_es.csv,es
+physics_pt.csv,1.0,Física,Ciência,Física,Geral,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/physics_pt.csv,pt
+physics_es.csv,1.0,Física,Ciencia,Física,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/physics_es.csv,es
 quantum_physics.csv,1.0,Quantum Physics,Science,Physics,Quantum,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/quantum_physics.csv,en
-quantum_physics_pt.csv,1.0,Física Quântica,Science,Physics,Quantum,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/quantum_physics_pt.csv,pt
-quantum_physics_es.csv,1.0,Física Cuántica,Science,Physics,Quantum,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/quantum_physics_es.csv,es
+quantum_physics_pt.csv,1.0,Física Quântica,Ciência,Física,Quântica,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/quantum_physics_pt.csv,pt
+quantum_physics_es.csv,1.0,Física Cuántica,Ciencia,Física,Cuántica,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/quantum_physics_es.csv,es
