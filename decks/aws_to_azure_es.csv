@@ -1,0 +1,78 @@
+front,back
+AWS EC2,Azure Virtual Machines
+AWS S3,Azure Blob Storage
+AWS EBS,Azure Managed Disks
+AWS EFS,Azure Files
+AWS Glacier,Azure Archive Storage
+AWS VPC,Azure Virtual Network
+AWS IAM,Azure Active Directory
+AWS CloudFormation,Azure Resource Manager
+AWS CloudWatch,Azure Monitor
+AWS ELB,Azure Load Balancer
+AWS ALB,Azure Application Gateway
+AWS Route 53,Azure DNS
+AWS Lambda,Azure Functions
+AWS ECS,Azure Container Instances
+AWS EKS,Azure Kubernetes Service
+AWS Fargate,Azure Container Instances
+AWS RDS,Azure SQL Database
+AWS Aurora,Azure SQL Database Hyperscale
+AWS DynamoDB,Azure Cosmos DB
+AWS Redshift,Azure Synapse Analytics
+AWS Athena,Azure Synapse Serverless SQL
+AWS Glue,Azure Data Factory
+AWS EMR,Azure HDInsight
+AWS Kinesis Data Streams,Azure Event Hubs
+AWS Kinesis Firehose,Azure Event Hubs Capture
+AWS SQS,Azure Queue Storage
+AWS SNS,Azure Event Grid
+AWS Step Functions,Azure Logic Apps
+AWS API Gateway,Azure API Management
+AWS App Runner,Azure App Service
+AWS Elastic Beanstalk,Azure App Service
+AWS Lightsail,Azure App Service
+AWS CloudTrail,Azure Activity Log
+AWS Config,Azure Policy
+AWS GuardDuty,Microsoft Defender for Cloud
+AWS Security Hub,Microsoft Defender for Cloud
+AWS Shield,Azure DDoS Protection
+AWS WAF,Azure Web Application Firewall
+AWS Secrets Manager,Azure Key Vault
+AWS Parameter Store,Azure App Configuration
+AWS Certificate Manager,Azure App Service Certificates
+AWS KMS,Azure Key Vault
+AWS Systems Manager,Azure Automation
+AWS OpsWorks,Azure Automation State Configuration
+AWS CodeCommit,Azure Repos
+AWS CodeBuild,Azure Pipelines
+AWS CodeDeploy,Azure DevOps Release Pipelines
+AWS CodePipeline,Azure DevOps Pipelines
+AWS X-Ray,Azure Application Insights
+AWS App Mesh,Azure Service Mesh
+AWS MQ,Azure Service Bus
+AWS MSK,Azure Event Hubs Kafka
+AWS ElastiCache,Azure Cache for Redis
+AWS Neptune,Azure Cosmos DB Gremlin API
+AWS OpenSearch,Azure Cognitive Search
+AWS QuickSight,Power BI
+AWS WorkSpaces,Azure Virtual Desktop
+AWS AppStream 2.0,Azure Virtual Desktop
+AWS Snowball,Azure Data Box
+AWS Outposts,Azure Stack
+AWS Local Zones,Azure Edge Zones
+AWS Global Accelerator,Azure Front Door
+AWS Transfer Family,Azure Blob Storage SFTP
+AWS Batch,Azure Batch
+AWS Textract,Azure Form Recognizer
+AWS Rekognition,Azure Computer Vision
+AWS Polly,Azure Text to Speech
+AWS Comprehend,Azure Text Analytics
+AWS Translate,Azure Translator
+AWS Lex,Azure Bot Service
+AWS SageMaker,Azure Machine Learning
+AWS Forecast,Azure AutoML
+AWS Personalize,Azure Personalizer
+AWS Fraud Detector,Azure Anomaly Detector
+AWS IoT Core,Azure IoT Hub
+AWS Greengrass,Azure IoT Edge
+AWS Device Farm,Azure App Center Test

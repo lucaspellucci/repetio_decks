@@ -1,0 +1,82 @@
+front,back
+¿Qué significa AWS?,Amazon Web Services
+¿Qué es AWS?,Una plataforma de computación en la nube que ofrece recursos de TI bajo demanda
+¿Cuáles son los principales modelos de servicio en la nube?,IaaS, PaaS y SaaS
+¿Qué es EC2?,Elastic Compute Cloud - servidores virtuales
+¿Qué es S3?,Simple Storage Service - almacenamiento de objetos
+¿Qué tipo de almacenamiento es S3?,Almacenamiento de objetos
+¿Qué es un bucket S3?,Un contenedor para almacenar objetos en S3
+¿Qué es una instancia EC2?,Un servidor virtual ejecutándose en AWS
+¿Qué es AMI?,Amazon Machine Image usada para lanzar instancias EC2
+¿Qué es Auto Scaling?,Ajusta automáticamente la capacidad EC2
+¿Qué es Elastic Load Balancing?,Distribuye tráfico entre recursos
+¿Qué es IAM?,Identity and Access Management
+¿Qué controla IAM?,Permisos de usuario y acceso a recursos AWS
+¿Qué es un rol IAM?,Un conjunto de permisos asumido por servicios o usuarios
+¿Qué es una Región AWS?,Un área geográfica con múltiples centros de datos
+¿Qué es una Zona de Disponibilidad?,Un centro de datos aislado dentro de una región
+¿Por qué usar múltiples Zonas de Disponibilidad?,Alta disponibilidad y tolerancia a fallos
+¿Qué es VPC?,Virtual Private Cloud - red aislada
+¿Qué es una subnet?,Un rango de direcciones IP en una VPC
+¿Qué es una subnet pública?,Subnet con acceso a internet
+¿Qué es una subnet privada?,Subnet sin acceso directo a internet
+¿Qué es un Internet Gateway?,Permite que los recursos de la VPC accedan a internet
+¿Qué es un NAT Gateway?,Permite internet de salida para subnets privadas
+¿Qué es Route 53?,Servicio de DNS web de AWS
+¿Qué es CloudFront?,Red de Distribución de Contenido (CDN)
+¿Qué es RDS?,Relational Database Service
+¿Qué bases de datos soporta RDS?,MySQL, PostgreSQL, MariaDB, Oracle, SQL Server
+¿Qué es DynamoDB?,Base de datos NoSQL clave-valor totalmente administrada
+¿Qué tipo de base de datos es DynamoDB?,NoSQL
+¿Qué es Redshift?,Servicio de data warehouse
+¿Qué es Lambda?,Servicio de cómputo serverless
+¿Qué significa serverless?,No se requiere gestión de servidores
+¿Qué activa las funciones Lambda?,Eventos de servicios AWS
+¿Qué es CloudWatch?,Servicio de monitoreo y logging
+¿Qué monitorea CloudWatch?,Métricas, logs y alarmas
+¿Qué es CloudTrail?,Rastrea actividad de API de AWS
+¿Qué es Elastic Beanstalk?,PaaS para implementar aplicaciones
+¿Qué lenguajes soporta Elastic Beanstalk?,Java, Python, Node.js, .NET, Go, Ruby, PHP
+¿Qué es ECS?,Elastic Container Service
+¿Qué es EKS?,Elastic Kubernetes Service
+¿Qué es un contenedor?,Un paquete de aplicación ligero y aislado
+¿Qué es Docker?,Plataforma de contenedorización
+¿Qué es Fargate?,Cómputo serverless para contenedores
+¿Qué es AWS Organizations?,Gestionar múltiples cuentas AWS
+¿Qué es AWS Shield?,Servicio de protección contra DDoS
+¿Qué es AWS WAF?,Web Application Firewall
+¿Qué es AWS KMS?,Key Management Service
+¿Qué gestiona KMS?,Claves de cifrado
+¿Qué es AWS Secrets Manager?,Almacena y rota secretos de forma segura
+¿Qué es SQS?,Simple Queue Service
+¿Qué tipo de servicio es SQS?,Cola de mensajes
+¿Qué es SNS?,Simple Notification Service
+¿Qué proporciona SNS?,Mensajería pub/sub
+¿Qué es Step Functions?,Orquestación de flujo de trabajo serverless
+¿Qué es API Gateway?,Crear y gestionar APIs
+¿Qué es AWS Glue?,Servicio de integración de datos ETL
+¿Qué es Athena?,Consultar S3 usando SQL
+¿Qué es EMR?,Elastic MapReduce - procesamiento de big data
+¿Qué es AWS Backup?,Servicio de respaldo centralizado
+¿Qué es Snowball?,Dispositivo de transferencia de datos
+¿Qué es AWS Cost Explorer?,Analizar costos AWS
+¿Qué es una Reserved Instance?,Precio EC2 a largo plazo con descuento
+¿Qué es Spot Instance?,Capacidad EC2 no utilizada a menor costo
+¿Qué es On-Demand Instance?,Instancia EC2 de pago por uso
+¿Qué es el Modelo de Responsabilidad Compartida?,AWS protege la nube, el usuario protege los datos
+¿Qué protege AWS?,Infraestructura, hardware y servicios
+¿Qué es el Well-Architected Framework?,Mejores prácticas para diseño en la nube
+¿Cuáles son los 6 pilares del Well-Architected?,Excelencia Operacional, Seguridad, Confiabilidad, Rendimiento, Costo, Sostenibilidad
+¿Qué es Infrastructure as Code?,Gestionar infraestructura mediante código
+¿Qué es CloudFormation?,Servicio de IaC de AWS
+¿Qué es Terraform?,Herramienta de IaC de terceros
+¿Qué es AWS CDK?,Definir infraestructura en la nube usando lenguajes de programación
+¿Qué es AWS Free Tier?,Uso limitado gratuito de AWS para principiantes
+¿Qué es S3 Glacier?,Almacenamiento de archivo de bajo costo
+¿Qué es AWS Outposts?,Infraestructura AWS local
+¿Qué es AWS Marketplace?,Marketplace de software de terceros
+¿Qué es arquitectura multi-región?,Recursos implementados en múltiples regiones
+¿Qué es alta disponibilidad?,El sistema permanece operativo durante fallos
+¿Qué es tolerancia a fallos?,El sistema continúa a pesar de fallos de componentes
+¿Qué es escalabilidad?,Capacidad de manejar carga aumentada
+¿Qué es elasticidad?,Escalamiento automático basado en demanda

@@ -1,0 +1,31 @@
+front,back
+O que é lógica?,O estudo do raciocínio válido e argumentação
+O que é uma proposição?,Uma declaração que é verdadeira ou falsa
+O que é um argumento válido?,Um argumento onde se as premissas são verdadeiras, a conclusão deve ser verdadeira
+O que é um argumento sólido?,Um argumento válido com premissas realmente verdadeiras
+O que é raciocínio dedutivo?,Raciocinar de premissas gerais para uma conclusão específica com certeza
+O que é raciocínio indutivo?,Raciocinar de observações específicas para conclusões gerais com probabilidade
+O que é um silogismo?,Um argumento lógico com duas premissas e uma conclusão
+O que é modus ponens?,Se P então Q; P é verdadeiro; portanto Q é verdadeiro
+O que é modus tollens?,Se P então Q; Q é falso; portanto P é falso
+O que é a lei da não contradição?,Algo não pode ser verdadeiro e falso ao mesmo tempo
+O que é a lei do terceiro excluído?,Uma proposição deve ser verdadeira ou falsa sem terceira opção
+O que é uma falácia lógica?,Um erro de raciocínio que mina a lógica de um argumento
+O que é ad hominem?,Atacar a pessoa que faz o argumento em vez do argumento em si
+O que é uma falácia do espantalho?,Distorcer o argumento de alguém para torná-lo mais fácil de atacar
+O que é uma falsa dicotomia?,Apresentar apenas duas opções quando existem mais
+O que é raciocínio circular?,Usar a conclusão como premissa no argumento
+O que é um apelo à autoridade?,Argumentar que algo é verdadeiro porque uma figura de autoridade diz
+O que é a falácia da ladeira escorregadia?,Afirmar que um evento inevitavelmente levará a consequências extremas sem justificativa
+O que é uma conjunção em lógica?,Uma declaração composta usando E (verdadeira apenas se ambas as partes forem verdadeiras)
+O que é uma disjunção em lógica?,Uma declaração composta usando OU (verdadeira se pelo menos uma parte for verdadeira)
+O que é negação?,A operação lógica que inverte o valor de verdade de uma proposição
+O que é uma declaração condicional?,Uma declaração se-então (se P então Q)
+O que é a conversa de "se P então Q"?,Se Q então P (não logicamente equivalente ao original)
+O que é a contrapositiva de "se P então Q"?,Se não Q então não P (logicamente equivalente ao original)
+O que é uma tautologia?,Uma declaração que é verdadeira sob todas as interpretações possíveis
+O que é uma contradição?,Uma declaração que é falsa sob todas as interpretações possíveis
+O que é lógica de predicados?,Lógica que analisa a estrutura interna de proposições usando quantificadores e predicados
+O que é o quantificador universal?,Símbolo ∀ significando "para todo" ou "para cada"
+O que é o quantificador existencial?,Símbolo ∃ significando "existe" ou "para algum"
+O que é uma condição necessária?,Uma condição que deve ser verdadeira para que algo mais seja verdadeiro (Q é necessário para P: se P então Q)

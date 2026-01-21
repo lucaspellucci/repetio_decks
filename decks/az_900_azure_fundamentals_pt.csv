@@ -1,0 +1,80 @@
+front,back
+O que é Microsoft Azure?,"Microsoft Azure é uma plataforma de computação em nuvem que fornece serviços como computação, armazenamento e rede."
+O que é computação em nuvem?,Computação em nuvem é a entrega de serviços de computação pela internet em vez de em hardware local.
+Quais são os três principais modelos de serviço em nuvem?,IaaS, PaaS e SaaS.
+O que é IaaS?,Infraestrutura como Serviço fornece máquinas virtuais, rede e armazenamento.
+O que é PaaS?,Plataforma como Serviço fornece uma plataforma para desenvolvedores construírem e implantarem aplicações.
+O que é SaaS?,Software como Serviço entrega software pela internet por assinatura.
+Quais são os três modelos de implantação em nuvem?,Nuvem pública, privada e híbrida.
+O que é uma nuvem pública?,Uma nuvem pública é de propriedade de um provedor de nuvem e compartilhada entre clientes.
+O que é uma nuvem privada?,Uma nuvem privada é dedicada a uma única organização.
+O que é uma nuvem híbrida?,Uma nuvem híbrida combina nuvens públicas e privadas.
+O que é uma região Azure?,Uma região Azure é uma área geográfica com um ou mais data centers.
+O que é uma zona de disponibilidade Azure?,Uma zona de disponibilidade é um data center fisicamente separado dentro de uma região.
+O que é alta disponibilidade?,Alta disponibilidade garante que sistemas permaneçam operacionais com tempo de inatividade mínimo.
+O que é escalabilidade?,Escalabilidade é a capacidade de aumentar ou diminuir recursos conforme necessário.
+O que é elasticidade?,Elasticidade ajusta automaticamente recursos baseado em demanda.
+O que é tolerância a falhas?,Tolerância a falhas permite que sistemas continuem operando quando falhas ocorrem.
+O que é Azure Virtual Machine?,Azure VM é um serviço que fornece recursos de computação virtualizados sob demanda.
+O que é Azure App Service?,Azure App Service é um PaaS para hospedar apps web, APIs e backends móveis.
+O que é Azure Functions?,Azure Functions é um serviço de computação serverless.
+O que é computação serverless?,Computação serverless permite executar código sem gerenciar servidores.
+O que é Azure Storage?,Azure Storage fornece armazenamento em nuvem para objetos de dados, arquivos e filas.
+Quais são os tipos de Azure Storage?,Armazenamento Blob, File, Queue e Table.
+O que é Azure Blob Storage?,Armazenamento Blob armazena dados não estruturados como imagens e vídeos.
+O que é Azure File Storage?,Armazenamento File fornece sistemas de arquivos compartilhados na nuvem.
+O que é Azure Queue Storage?,Armazenamento Queue armazena mensagens para processamento assíncrono.
+O que é Azure Table Storage?,Armazenamento Table armazena dados NoSQL estruturados.
+O que é Azure Virtual Network?,Azure VNet permite comunicação segura entre recursos Azure.
+O que é Azure VPN Gateway?,Conecta redes locais ao Azure.
+O que é Azure ExpressRoute?,ExpressRoute fornece uma conexão privada ao Azure.
+O que é Azure Load Balancer?,Distribui tráfego entre múltiplos recursos.
+O que é Azure Application Gateway?,É um balanceador de carga de tráfego web com roteamento avançado.
+O que é Azure DNS?,Azure DNS hospeda serviços de nome de domínio.
+O que é Azure SQL Database?,Um serviço de banco de dados relacional totalmente gerenciado.
+O que é Azure Cosmos DB?,Um serviço de banco de dados NoSQL distribuído globalmente.
+O que é Azure Marketplace?,Uma loja online para soluções e serviços Azure.
+O que é um Grupo de Recursos Azure?,Um contêiner que mantém recursos Azure relacionados.
+O que é Azure Resource Manager?,É o serviço de implantação e gerenciamento para Azure.
+O que é uma assinatura Azure?,Uma assinatura fornece acesso a serviços Azure e cobrança.
+O que é uma conta Azure?,Uma identidade que permite acesso a assinaturas Azure.
+O que é controle de acesso baseado em função?,RBAC gerencia quem pode acessar recursos Azure.
+O que é Azure Active Directory?,Azure AD é um serviço de identidade e acesso baseado em nuvem.
+O que é autenticação multifator?,MFA requer dois ou mais métodos de verificação.
+O que é Zero Trust?,Um modelo de segurança que não assume confiança implícita.
+O que é Azure Defender?,Uma ferramenta de gerenciamento de segurança para proteção contra ameaças.
+O que é Azure Security Center?,Um sistema unificado de gerenciamento de segurança.
+O que é criptografia?,Criptografia converte dados em um formato seguro.
+O que são dados em repouso?,Dados armazenados em discos ou armazenamento.
+O que são dados em trânsito?,Dados movendo-se entre sistemas.
+O que é Azure Monitor?,Um serviço que coleta e analisa telemetria.
+O que é Azure Advisor?,Um serviço que fornece recomendações de melhores práticas.
+O que é Azure Service Health?,Fornece informações de status e incidentes.
+O que é Azure Cost Management?,Uma ferramenta para monitorar e otimizar gastos em nuvem.
+O que é CapEx?,Despesas de capital - investimento antecipado.
+O que é OpEx?,Despesas operacionais - custos pay-as-you-go.
+O que é precificação baseada em consumo?,Você paga apenas pelo que usa.
+O que é Azure Free Account?,Fornece serviços Azure gratuitos limitados.
+O que é SLA?,Acordo de Nível de Serviço define garantias de uptime.
+Qual é um exemplo de SLA no Azure?,99,9% de garantia de uptime.
+O que acontece se o SLA não for cumprido?,Clientes recebem créditos de serviço.
+O que é conformidade?,Atender requisitos legais e regulatórios.
+O que é Microsoft Trust Center?,Um portal para informações de segurança, conformidade e privacidade.
+O que é Azure Policy?,Um serviço para aplicar padrões organizacionais.
+O que é Azure Blueprints?,Um serviço para implantar ambientes governados.
+O que é tagging no Azure?,Adicionar metadados a recursos.
+O que é Azure DevOps?,Um conjunto de ferramentas de colaboração de desenvolvimento.
+O que é CI/CD?,Integração contínua e entrega contínua.
+O que é Azure Cloud Shell?,Uma ferramenta de linha de comando baseada em navegador.
+O que é Azure Portal?,Uma interface baseada em web para gerenciar Azure.
+O que é Azure CLI?,Uma ferramenta de linha de comando para gerenciar recursos Azure.
+O que é PowerShell no Azure?,Uma linguagem de script para automação.
+O que é par de Regiões Azure?,Duas regiões pareadas para recuperação de desastres.
+O que é recuperação de desastres?,Restaurar sistemas após falhas.
+O que é backup no Azure?,Criar cópias de dados para recuperação.
+O que é Azure Backup?,Um serviço para fazer backup de recursos Azure.
+O que é Azure Site Recovery?,Um serviço de recuperação de desastres.
+O que é modelo de responsabilidade compartilhada?,Segurança é compartilhada entre Azure e cliente.
+O que é responsabilidade do cliente no Azure?,Gerenciamento de dados e acesso.
+O que é responsabilidade da Microsoft no Azure?,Segurança física do data center.
+Qual é o propósito do AZ-900?,Validar conhecimento fundamental de Azure.

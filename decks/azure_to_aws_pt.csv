@@ -1,0 +1,162 @@
+front,back
+Azure Virtual Machines (VMs),Amazon EC2
+Azure VM Scale Sets,EC2 Auto Scaling
+Azure App Service,AWS Elastic Beanstalk
+Azure App Service (Web Apps),AWS App Runner
+Azure Functions,AWS Lambda
+Azure Logic Apps,AWS Step Functions
+Azure Container Instances (ACI),AWS Fargate
+Azure Kubernetes Service (AKS),Amazon EKS
+Azure Container Registry (ACR),Amazon ECR
+Azure Service Fabric,AWS ECS
+Azure Batch,AWS Batch
+Azure API Management,Amazon API Gateway
+Azure Event Grid,Amazon EventBridge
+Azure Event Hubs,Amazon Kinesis Data Streams
+Azure Service Bus,Amazon SQS + Amazon SNS
+Azure Notification Hubs,Amazon SNS (Mobile Push) / Pinpoint
+Azure IoT Hub,AWS IoT Core
+Azure IoT Central,AWS IoT Core + IoT Device Management
+Azure Digital Twins,AWS IoT TwinMaker
+Azure Stream Analytics,Amazon Kinesis Data Analytics
+Azure Data Factory,AWS Glue
+Azure Synapse Analytics,Amazon Redshift
+Azure Databricks,AWS Glue / Amazon EMR (Databricks on AWS also exists)
+Azure HDInsight,Amazon EMR
+Azure Data Lake Storage Gen2,Amazon S3 + Lake Formation
+Azure Blob Storage,Amazon S3
+Azure Files,Amazon EFS
+Azure Disk Storage,Amazon EBS
+Azure Archive Storage,Amazon S3 Glacier
+Azure Storage Queues,Amazon SQS
+Azure Table Storage,Amazon DynamoDB
+Azure Cosmos DB,Amazon DynamoDB
+Azure SQL Database,Amazon RDS (SQL Server/Aurora/RDS)
+Azure SQL Managed Instance,Amazon RDS for SQL Server
+Azure Database for PostgreSQL,Amazon RDS for PostgreSQL / Aurora PostgreSQL
+Azure Database for MySQL,Amazon RDS for MySQL / Aurora MySQL
+Azure Database for MariaDB,Amazon RDS for MariaDB
+Azure Cache for Redis,Amazon ElastiCache for Redis
+Azure Managed Instance for Apache Cassandra,Amazon Keyspaces (for Apache Cassandra)
+Azure Search (Cognitive Search),Amazon OpenSearch Service
+Azure Analysis Services,AWS QuickSight (semantic) / Athena + Glue (modeling)
+Power BI,AWS QuickSight
+Azure Monitor,Amazon CloudWatch
+Azure Log Analytics,CloudWatch Logs + Logs Insights
+Azure Application Insights,AWS X-Ray + CloudWatch
+Azure Advisor,AWS Trusted Advisor
+Azure Service Health,AWS Health Dashboard
+Azure Automation,AWS Systems Manager
+Azure Policy,AWS Organizations SCPs + AWS Config
+Azure Blueprints,AWS Control Tower + Organizations
+Azure Resource Manager (ARM),AWS CloudFormation
+ARM Bicep,AWS CloudFormation (YAML/JSON) / AWS CDK
+Azure DevOps Pipelines,AWS CodePipeline
+Azure DevOps Repos,AWS CodeCommit
+Azure DevOps Artifacts,AWS CodeArtifact
+Azure DevOps Boards,AWS (no direct; use Jira/3rd party)
+GitHub Actions,AWS CodeBuild/CodePipeline (or keep GitHub Actions)
+Azure Key Vault,AWS Secrets Manager + AWS KMS
+Azure Managed Identities,AWS IAM Roles (incl. for service accounts)
+Azure Active Directory (Microsoft Entra ID),AWS IAM Identity Center
+Azure AD B2C,Amazon Cognito
+Azure RBAC,AWS IAM
+Azure MFA (Entra),AWS MFA / IAM Identity Center MFA
+Azure Private Link,AWS PrivateLink
+Azure Virtual Network (VNet),Amazon VPC
+Azure Subnet,Amazon VPC Subnet
+Azure Network Security Groups (NSG),Security Groups + Network ACLs
+Azure Application Gateway,AWS Application Load Balancer (ALB)
+Azure Load Balancer,AWS Network Load Balancer (NLB)
+Azure Front Door,Amazon CloudFront
+Azure Traffic Manager,Amazon Route 53 (routing policies)
+Azure DNS,Amazon Route 53
+Azure VPN Gateway,AWS Site-to-Site VPN
+Azure ExpressRoute,AWS Direct Connect
+Azure Bastion,AWS Systems Manager Session Manager
+Azure DDoS Protection,Shield Advanced
+Azure Firewall,AWS Network Firewall
+Azure Web Application Firewall (WAF),AWS WAF
+Azure NAT Gateway,AWS NAT Gateway
+Azure CDN,Amazon CloudFront
+Azure Peering,VPC Peering / Transit Gateway
+Azure Virtual WAN,AWS Transit Gateway
+Azure Route Server,AWS Transit Gateway (BGP) / EC2 routing appliances
+Azure Functions Premium Plan,AWS Lambda (Provisioned Concurrency)
+Azure Dedicated Host,EC2 Dedicated Hosts
+Azure Spot VMs,EC2 Spot Instances
+Azure Reserved Instances,EC2 Reserved Instances / Savings Plans
+Azure Availability Sets,EC2 placement + Multi-AZ design
+Azure Availability Zones,Availability Zones
+Azure Regions,AWS Regions
+Azure Resource Groups,AWS Resource Tags + Accounts (no exact equivalent)
+Azure Subscription,AWS Account
+Azure Management Groups,AWS Organizations OU
+Azure Landing Zone,AWS Landing Zone / Control Tower
+Azure Cost Management,Cost Explorer + Budgets
+Azure Marketplace,AWS Marketplace
+Azure Portal,AWS Management Console
+Azure CLI,AWS CLI
+Azure Cloud Shell,AWS CloudShell
+Azure Security Center (Defender for Cloud),AWS Security Hub
+Azure Sentinel (Microsoft Sentinel),Amazon Security Lake + GuardDuty + SIEM tooling
+Azure IAM Access Reviews,Identity Center access / IAM Access Analyzer (partial)
+Azure Conditional Access,Identity Center policies (partial) + AWS Verified Access (app access)
+Azure Backup,AWS Backup
+Azure Site Recovery (ASR),AWS Elastic Disaster Recovery
+Azure Recovery Services Vault,AWS Backup Vault
+Azure Managed HSM,AWS CloudHSM
+Azure KMS (Key Vault keys),AWS KMS
+Azure Certificate Manager (Key Vault certs),AWS Certificate Manager (ACM)
+Azure Container Apps,AWS App Runner / ECS with Fargate
+Azure Spring Apps,AWS Elastic Beanstalk (Java) / App Runner
+Azure App Configuration,AWS AppConfig
+Azure SignalR Service,Amazon API Gateway (WebSocket) + AWS AppSync
+Azure Cognitive Services (general),"AWS AI Services (e.g., Rekognition/Comprehend/Polly)"
+Azure OpenAI Service,Amazon Bedrock (managed foundation models)
+Azure Machine Learning,AWS SageMaker
+Azure Form Recognizer,AWS Textract
+Azure Cognitive Vision,Amazon Rekognition
+Azure Text Analytics,Amazon Comprehend
+Azure Speech Services,Amazon Transcribe / Polly
+Azure Translator,Amazon Translate
+Azure Bot Service,Amazon Lex
+Azure Purview,AWS Glue Data Catalog + Lake Formation
+Azure Governance (Policy/Blueprints),AWS Config + Control Tower + Organizations
+Azure Managed Grafana,Amazon Managed Grafana
+Azure Managed Prometheus,Amazon Managed Service for Prometheus
+Azure Arc,AWS Systems Manager (hybrid) + Outposts (partial)
+Azure Stack,AWS Outposts
+Azure Storage Accounts,AWS S3 buckets + EBS/EFS resources (no single container)
+Azure Availability Zone Pairs,Multi-AZ (no fixed pairing concept)
+Azure Dedicated Circuit (ExpressRoute),AWS Direct Connect
+Azure Firewall Manager (policy),AWS Firewall Manager
+Azure Container Networking (CNI in AKS),VPC CNI in EKS
+Azure AD Domain Services,AWS Directory Service (Managed Microsoft AD)
+Azure DNS Private Zones,Route 53 Private Hosted Zones
+Azure Private DNS Resolver,Route 53 Resolver
+Azure Network Watcher,VPC Flow Logs + Reachability Analyzer
+Azure VM Extensions,AWS SSM Agent + Run Command
+Azure Update Management,AWS Systems Manager Patch Manager
+Azure Defender for Servers,Amazon Inspector + GuardDuty
+Azure Defender for Storage,Macie + S3 security tooling
+Azure Database Migration Service (DMS),AWS Database Migration Service
+Azure Migrate,AWS Application Discovery Service + Migration Hub
+Azure Container Storage (CSI),EBS/EFS CSI drivers
+Azure Dedicated SQL Pool (Synapse),Amazon Redshift (RA3) / Spectrum
+Azure Synapse Pipelines,AWS Glue / Step Functions (or MWAA)
+Azure Managed Airflow,AWS Managed Workflows for Apache Airflow (MWAA)
+Azure Redis Enterprise,Amazon ElastiCache (Redis) / MemoryDB for Redis
+Azure Memory-Optimized Tables,Amazon Aurora (memory-optimized options vary)
+Azure Data Explorer (Kusto),Amazon OpenSearch (logs) / Athena (queries) / Timestream (time series)
+Azure Time Series Insights,Amazon Timestream
+Azure WebJobs,AWS Lambda / EventBridge schedules
+Azure Scheduler (legacy),Amazon EventBridge Scheduler
+Azure Chaos Studio,AWS Fault Injection Simulator
+Azure Lighthouse,AWS IAM cross-account access + Organizations
+Azure Confidential Computing (VMs),AWS Nitro Enclaves / Confidential EC2 (where available)
+Azure Dedicated HSM,CloudHSM
+Azure Service Endpoint for Storage,VPC Gateway Endpoint for S3 (closest)
+Azure SQL Elastic Pools,Amazon RDS (read replicas/cluster) / Aurora Serverless
+Azure Synapse Serverless SQL,Athena
+Azure Data Share,AWS Data Exchange
