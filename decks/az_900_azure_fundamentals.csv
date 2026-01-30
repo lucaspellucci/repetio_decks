@@ -1,11 +1,11 @@
 front,back
 What is Microsoft Azure?,"Microsoft Azure is a cloud computing platform that provides services like computing, storage, and networking."
 What is cloud computing?,Cloud computing is the delivery of computing services over the internet instead of on local hardware.
-What are the three main cloud service models?,IaaS PaaS and SaaS.
+What are the three main cloud service models?,IaaS, PaaS, and SaaS.
 What is IaaS?,Infrastructure as a Service provides virtual machines networking and storage.
 What is PaaS?,Platform as a Service provides a platform for developers to build and deploy applications.
 What is SaaS?,Software as a Service delivers software over the internet on a subscription basis.
-What are the three cloud deployment models?,Public private and hybrid cloud.
+What are the three cloud deployment models?,Public, private, and hybrid cloud.
 What is a public cloud?,A public cloud is owned by a cloud provider and shared among customers.
 What is a private cloud?,A private cloud is dedicated to a single organization.
 What is a hybrid cloud?,A hybrid cloud combines public and private clouds.
@@ -20,7 +20,7 @@ What is Azure App Service?,Azure App Service is a PaaS for hosting web apps APIs
 What is Azure Functions?,Azure Functions is a serverless compute service.
 What is serverless computing?,Serverless computing lets you run code without managing servers.
 What is Azure Storage?,Azure Storage provides cloud storage for data objects files and queues.
-What are Azure Storage types?,Blob File Queue and Table storage.
+What are Azure Storage types?,Blob, File, Queue, and Table storage.
 What is Azure Blob Storage?,Blob storage stores unstructured data like images and videos.
 What is Azure File Storage?,File storage provides shared file systems in the cloud.
 What is Azure Queue Storage?,Queue storage stores messages for asynchronous processing.

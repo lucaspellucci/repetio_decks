@@ -1,7 +1,7 @@
 front,back
 What does AWS stand for?,Amazon Web Services
 What is AWS?,A cloud computing platform offering on-demand IT resources
-What are the main cloud service models?,IaaS PaaS and SaaS
+What are the main cloud service models?,IaaS, PaaS, and SaaS
 What is EC2?,Elastic Compute Cloud virtual servers
 What is S3?,Simple Storage Service object storage
 What type of storage is S3?,Object storage
@@ -33,10 +33,10 @@ What is Lambda?,Serverless compute service
 What does serverless mean?,No server management required
 What triggers Lambda functions?,Events from AWS services
 What is CloudWatch?,Monitoring and logging service
-What does CloudWatch monitor?,Metrics logs and alarms
+What does CloudWatch monitor?,Metrics, logs, and alarms
 What is CloudTrail?,Tracks AWS API activity
 What is Elastic Beanstalk?,PaaS for deploying applications
-What languages does Elastic Beanstalk support?,Java Python Node.js .NET Go Ruby PHP
+What languages does Elastic Beanstalk support?,Java, Python, Node.js, .NET, Go, Ruby, PHP
 What is ECS?,Elastic Container Service
 What is EKS?,Elastic Kubernetes Service
 What is a container?,A lightweight isolated application package
@@ -66,7 +66,7 @@ What is On-Demand Instance?,Pay per use EC2 instance
 What is the Shared Responsibility Model?,AWS secures cloud user secures data
 What does AWS secure?,Infrastructure hardware and services
 What is Well-Architected Framework?,Best practices for cloud design
-What are the 6 pillars of Well-Architected?,Operational Excellence Security Reliability Performance Cost Sustainability
+What are the 6 pillars of Well-Architected?,Operational Excellence, Security, Reliability, Performance, Cost, Sustainability
 What is Infrastructure as Code?,Manage infrastructure via code
 What is CloudFormation?,AWS IaC service
 What is Terraform?,Third-party IaC tool
