@@ -142,3 +142,6 @@ movies_2010s_es.csv,1.0,Películas de los Años 2010,Cultura,Películas,Años 20
 video_games_classics.csv,1.0,Classic Video Games,Pop Culture,Video Games,Classics,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/video_games_classics.csv,en
 video_games_classics_pt.csv,1.0,Videogames Clássicos,Cultura Pop,Videogames,Clássicos,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/video_games_classics_pt.csv,pt
 video_games_classics_es.csv,1.0,Videojuegos Clásicos,Cultura Pop,Videojuegos,Clásicos,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/video_games_classics_es.csv,es
+space_exploration.csv,1.0,Space Exploration,Science,Space,Exploration,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/space_exploration.csv,en
+space_exploration_pt.csv,1.0,Exploração Espacial,Ciência,Espaço,Exploração,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/space_exploration_pt.csv,pt
+space_exploration_es.csv,1.0,Exploración Espacial,Ciencia,Espacio,Exploración,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/space_exploration_es.csv,es
