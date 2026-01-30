@@ -91,3 +91,51 @@ physics_es.csv,1.0,Física,Ciencia,Física,General,https://raw.githubusercontent
 quantum_physics.csv,1.0,Quantum Physics,Science,Physics,Quantum,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/quantum_physics.csv,en
 quantum_physics_pt.csv,1.0,Física Quântica,Ciência,Física,Quântica,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/quantum_physics_pt.csv,pt
 quantum_physics_es.csv,1.0,Física Cuántica,Ciencia,Física,Cuántica,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/quantum_physics_es.csv,es
+literature.csv,1.0,Literature,Culture,Literature,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/literature.csv,en
+literature_pt.csv,1.0,Literatura,Cultura,Literatura,Geral,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/literature_pt.csv,pt
+literature_es.csv,1.0,Literatura,Cultura,Literatura,General,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/literature_es.csv,es
+art_history.csv,1.0,Art History,Culture,Art,History,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/art_history.csv,en
+art_history_pt.csv,1.0,História da Arte,Cultura,Arte,História,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/art_history_pt.csv,pt
+art_history_es.csv,1.0,Historia del Arte,Cultura,Arte,Historia,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/art_history_es.csv,es
+music_1950s.csv,1.0,Music of the 1950s,Culture,Music,1950s,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/music_1950s.csv,en
+music_1950s_pt.csv,1.0,Música dos Anos 1950,Cultura,Música,Anos 1950,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/music_1950s_pt.csv,pt
+music_1950s_es.csv,1.0,Música de los Años 1950,Cultura,Música,Años 1950,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/music_1950s_es.csv,es
+music_1960s.csv,1.0,Music of the 1960s,Culture,Music,1960s,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/music_1960s.csv,en
+music_1960s_pt.csv,1.0,Música dos Anos 1960,Cultura,Música,Anos 1960,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/music_1960s_pt.csv,pt
+music_1960s_es.csv,1.0,Música de los Años 1960,Cultura,Música,Años 1960,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/music_1960s_es.csv,es
+music_1970s.csv,1.0,Music of the 1970s,Culture,Music,1970s,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/music_1970s.csv,en
+music_1970s_pt.csv,1.0,Música dos Anos 1970,Cultura,Música,Anos 1970,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/music_1970s_pt.csv,pt
+music_1970s_es.csv,1.0,Música de los Años 1970,Cultura,Música,Años 1970,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/music_1970s_es.csv,es
+music_1980s.csv,1.0,Music of the 1980s,Culture,Music,1980s,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/music_1980s.csv,en
+music_1980s_pt.csv,1.0,Música dos Anos 1980,Cultura,Música,Anos 1980,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/music_1980s_pt.csv,pt
+music_1980s_es.csv,1.0,Música de los Años 1980,Cultura,Música,Años 1980,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/music_1980s_es.csv,es
+music_1990s.csv,1.0,Music of the 1990s,Culture,Music,1990s,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/music_1990s.csv,en
+music_1990s_pt.csv,1.0,Música dos Anos 1990,Cultura,Música,Anos 1990,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/music_1990s_pt.csv,pt
+music_1990s_es.csv,1.0,Música de los Años 1990,Cultura,Música,Años 1990,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/music_1990s_es.csv,es
+music_2000s.csv,1.0,Music of the 2000s,Culture,Music,2000s,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/music_2000s.csv,en
+music_2000s_pt.csv,1.0,Música dos Anos 2000,Cultura,Música,Anos 2000,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/music_2000s_pt.csv,pt
+music_2000s_es.csv,1.0,Música de los Años 2000,Cultura,Música,Años 2000,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/music_2000s_es.csv,es
+music_2010s.csv,1.0,Music of the 2010s,Culture,Music,2010s,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/music_2010s.csv,en
+music_2010s_pt.csv,1.0,Música dos Anos 2010,Cultura,Música,Anos 2010,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/music_2010s_pt.csv,pt
+music_2010s_es.csv,1.0,Música de los Años 2010,Cultura,Música,Años 2010,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/music_2010s_es.csv,es
+movies_1950s.csv,1.0,Movies of the 1950s,Culture,Movies,1950s,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/movies_1950s.csv,en
+movies_1950s_pt.csv,1.0,Filmes dos Anos 1950,Cultura,Filmes,Anos 1950,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/movies_1950s_pt.csv,pt
+movies_1950s_es.csv,1.0,Películas de los Años 1950,Cultura,Películas,Años 1950,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/movies_1950s_es.csv,es
+movies_1960s.csv,1.0,Movies of the 1960s,Culture,Movies,1960s,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/movies_1960s.csv,en
+movies_1960s_pt.csv,1.0,Filmes dos Anos 1960,Cultura,Filmes,Anos 1960,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/movies_1960s_pt.csv,pt
+movies_1960s_es.csv,1.0,Películas de los Años 1960,Cultura,Películas,Años 1960,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/movies_1960s_es.csv,es
+movies_1970s.csv,1.0,Movies of the 1970s,Culture,Movies,1970s,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/movies_1970s.csv,en
+movies_1970s_pt.csv,1.0,Filmes dos Anos 1970,Cultura,Filmes,Anos 1970,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/movies_1970s_pt.csv,pt
+movies_1970s_es.csv,1.0,Películas de los Años 1970,Cultura,Películas,Años 1970,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/movies_1970s_es.csv,es
+movies_1980s.csv,1.0,Movies of the 1980s,Culture,Movies,1980s,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/movies_1980s.csv,en
+movies_1980s_pt.csv,1.0,Filmes dos Anos 1980,Cultura,Filmes,Anos 1980,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/movies_1980s_pt.csv,pt
+movies_1980s_es.csv,1.0,Películas de los Años 1980,Cultura,Películas,Años 1980,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/movies_1980s_es.csv,es
+movies_1990s.csv,1.0,Movies of the 1990s,Culture,Movies,1990s,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/movies_1990s.csv,en
+movies_1990s_pt.csv,1.0,Filmes dos Anos 1990,Cultura,Filmes,Anos 1990,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/movies_1990s_pt.csv,pt
+movies_1990s_es.csv,1.0,Películas de los Años 1990,Cultura,Películas,Años 1990,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/movies_1990s_es.csv,es
+movies_2000s.csv,1.0,Movies of the 2000s,Culture,Movies,2000s,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/movies_2000s.csv,en
+movies_2000s_pt.csv,1.0,Filmes dos Anos 2000,Cultura,Filmes,Anos 2000,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/movies_2000s_pt.csv,pt
+movies_2000s_es.csv,1.0,Películas de los Años 2000,Cultura,Películas,Años 2000,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/movies_2000s_es.csv,es
+movies_2010s.csv,1.0,Movies of the 2010s,Culture,Movies,2010s,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/movies_2010s.csv,en
+movies_2010s_pt.csv,1.0,Filmes dos Anos 2010,Cultura,Filmes,Anos 2010,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/movies_2010s_pt.csv,pt
+movies_2010s_es.csv,1.0,Películas de los Años 2010,Cultura,Películas,Años 2010,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/movies_2010s_es.csv,es
