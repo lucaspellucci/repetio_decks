@@ -139,3 +139,6 @@ movies_2000s_es.csv,1.0,Películas de los Años 2000,Cultura,Películas,Años 20
 movies_2010s.csv,1.0,Movies of the 2010s,Culture,Movies,2010s,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/movies_2010s.csv,en
 movies_2010s_pt.csv,1.0,Filmes dos Anos 2010,Cultura,Filmes,Anos 2010,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/movies_2010s_pt.csv,pt
 movies_2010s_es.csv,1.0,Películas de los Años 2010,Cultura,Películas,Años 2010,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/movies_2010s_es.csv,es
+video_games_classics.csv,1.0,Classic Video Games,Pop Culture,Video Games,Classics,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/video_games_classics.csv,en
+video_games_classics_pt.csv,1.0,Videogames Clássicos,Cultura Pop,Videogames,Clássicos,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/video_games_classics_pt.csv,pt
+video_games_classics_es.csv,1.0,Videojuegos Clásicos,Cultura Pop,Videojuegos,Clásicos,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/video_games_classics_es.csv,es
