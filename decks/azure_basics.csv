@@ -1,5 +1,5 @@
 front,back
-What is Microsoft Azure?,A cloud computing platform by Microsoft offering IaaS PaaS and SaaS
+What is Microsoft Azure?,A cloud computing platform by Microsoft offering IaaS, PaaS, and SaaS
 What does IaaS stand for?,Infrastructure as a Service
 What does PaaS stand for?,Platform as a Service
 What does SaaS stand for?,Software as a Service
@@ -39,7 +39,7 @@ What is Azure Monitor?,Service for collecting and analyzing telemetry
 What is Azure Log Analytics?,Query based log analysis service
 What is Azure Application Insights?,Performance monitoring for applications
 What is Azure DevOps?,Set of development collaboration tools
-What services are in Azure DevOps?,Repos Pipelines Boards Test Plans Artifacts
+What services are in Azure DevOps?,Repos, Pipelines, Boards, Test Plans, Artifacts
 What is Azure Pipelines?,CI CD service for building and deploying code
 What is Azure Repos?,Git repositories hosting service
 What is Azure Boards?,Agile project management tool
