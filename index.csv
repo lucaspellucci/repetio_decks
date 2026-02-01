@@ -148,3 +148,6 @@ space_exploration_es.csv,1.0,Exploración Espacial,Ciencia,Espacio,Exploración,
 greek_mythology.csv,1.0,Greek Mythology,Culture,Mythology,Greek,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/greek_mythology.csv,en
 greek_mythology_pt.csv,1.0,Mitologia Grega,Cultura,Mitologia,Grega,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/greek_mythology_pt.csv,pt
 greek_mythology_es.csv,1.0,Mitología Griega,Cultura,Mitología,Griega,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/greek_mythology_es.csv,es
+inventions_and_inventors.csv,1.0,Famous Inventions and Inventors,Science,Inventions,History,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/inventions_and_inventors.csv,en
+inventions_and_inventors_pt.csv,1.0,Invenções e Inventores Famosos,Ciência,Invenções,História,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/inventions_and_inventors_pt.csv,pt
+inventions_and_inventors_es.csv,1.0,Inventos e Inventores Famosos,Ciencia,Inventos,Historia,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/inventions_and_inventors_es.csv,es
