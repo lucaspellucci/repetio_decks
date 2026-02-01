@@ -145,3 +145,6 @@ video_games_classics_es.csv,1.0,Videojuegos Clásicos,Cultura Pop,Videojuegos,Cl
 space_exploration.csv,1.0,Space Exploration,Science,Space,Exploration,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/space_exploration.csv,en
 space_exploration_pt.csv,1.0,Exploração Espacial,Ciência,Espaço,Exploração,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/space_exploration_pt.csv,pt
 space_exploration_es.csv,1.0,Exploración Espacial,Ciencia,Espacio,Exploración,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/space_exploration_es.csv,es
+greek_mythology.csv,1.0,Greek Mythology,Culture,Mythology,Greek,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/greek_mythology.csv,en
+greek_mythology_pt.csv,1.0,Mitologia Grega,Cultura,Mitologia,Grega,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/greek_mythology_pt.csv,pt
+greek_mythology_es.csv,1.0,Mitología Griega,Cultura,Mitología,Griega,https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/greek_mythology_es.csv,es
