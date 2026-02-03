@@ -18,15 +18,17 @@ Each deck is a CSV file with two columns:
 - `front` - The question or prompt
 - `back` - The answer
 
+All fields must be wrapped in double quotes.
+
 Example:
 ```csv
-front,back
-What is AWS?,A cloud computing platform offering on-demand IT resources
+"front","back"
+"What is AWS?","A cloud computing platform offering on-demand IT resources"
 ```
 
 ## Index Entry Format
 
-When adding a new deck, create an entry in `index.csv` with these fields:
+When adding a new deck, create an entry in `index.csv` with these fields (all wrapped in double quotes):
 - `filename` - Name of the CSV file
 - `version` - Semantic version (e.g., 1.0)
 - `description` - Human-readable deck name
