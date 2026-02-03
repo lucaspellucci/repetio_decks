@@ -151,3 +151,6 @@
 "inventions_and_inventors.csv","1.0","Famous Inventions and Inventors","Science","Inventions","History","https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/inventions_and_inventors.csv","en"
 "inventions_and_inventors_pt.csv","1.0","Invenções e Inventores Famosos","Ciência","Invenções","História","https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/inventions_and_inventors_pt.csv","pt"
 "inventions_and_inventors_es.csv","1.0","Inventos e Inventores Famosos","Ciencia","Inventos","Historia","https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/inventions_and_inventors_es.csv","es"
+"famous_scientists.csv","1.0","Famous Scientists","Science","Scientists","History","https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/famous_scientists.csv","en"
+"famous_scientists_pt.csv","1.0","Cientistas Famosos","Ciência","Cientistas","História","https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/famous_scientists_pt.csv","pt"
+"famous_scientists_es.csv","1.0","Científicos Famosos","Ciencia","Científicos","Historia","https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/famous_scientists_es.csv","es"
