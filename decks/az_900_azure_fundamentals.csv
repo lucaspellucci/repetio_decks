@@ -1,80 +1,80 @@
-front,back
-What is Microsoft Azure?,"Microsoft Azure is a cloud computing platform that provides services like computing, storage, and networking."
-What is cloud computing?,Cloud computing is the delivery of computing services over the internet instead of on local hardware.
-What are the three main cloud service models?,IaaS, PaaS, and SaaS.
-What is IaaS?,Infrastructure as a Service provides virtual machines networking and storage.
-What is PaaS?,Platform as a Service provides a platform for developers to build and deploy applications.
-What is SaaS?,Software as a Service delivers software over the internet on a subscription basis.
-What are the three cloud deployment models?,Public, private, and hybrid cloud.
-What is a public cloud?,A public cloud is owned by a cloud provider and shared among customers.
-What is a private cloud?,A private cloud is dedicated to a single organization.
-What is a hybrid cloud?,A hybrid cloud combines public and private clouds.
-What is an Azure region?,An Azure region is a geographical area with one or more data centers.
-What is an Azure availability zone?,An availability zone is a physically separate data center within a region.
-What is high availability?,High availability ensures systems remain operational with minimal downtime.
-What is scalability?,Scalability is the ability to increase or decrease resources as needed.
-What is elasticity?,Elasticity automatically adjusts resources based on demand.
-What is fault tolerance?,Fault tolerance allows systems to continue operating when failures occur.
-What is Azure Virtual Machine?,Azure VM is a service that provides on-demand virtualized computing resources.
-What is Azure App Service?,Azure App Service is a PaaS for hosting web apps APIs and mobile backends.
-What is Azure Functions?,Azure Functions is a serverless compute service.
-What is serverless computing?,Serverless computing lets you run code without managing servers.
-What is Azure Storage?,Azure Storage provides cloud storage for data objects files and queues.
-What are Azure Storage types?,Blob, File, Queue, and Table storage.
-What is Azure Blob Storage?,Blob storage stores unstructured data like images and videos.
-What is Azure File Storage?,File storage provides shared file systems in the cloud.
-What is Azure Queue Storage?,Queue storage stores messages for asynchronous processing.
-What is Azure Table Storage?,Table storage stores structured NoSQL data.
-What is Azure Virtual Network?,Azure VNet enables secure communication between Azure resources.
-What is Azure VPN Gateway?,It connects on-premises networks to Azure.
-What is Azure ExpressRoute?,ExpressRoute provides a private connection to Azure.
-What is Azure Load Balancer?,It distributes traffic across multiple resources.
-What is Azure Application Gateway?,It is a web traffic load balancer with advanced routing.
-What is Azure DNS?,Azure DNS hosts domain name services.
-What is Azure SQL Database?,A fully managed relational database service.
-What is Azure Cosmos DB?,A globally distributed NoSQL database service.
-What is Azure Marketplace?,An online store for Azure solutions and services.
-What is Azure Resource Group?,A container that holds related Azure resources.
-What is Azure Resource Manager?,It is the deployment and management service for Azure.
-What is an Azure subscription?,A subscription provides access to Azure services and billing.
-What is an Azure account?,An identity that allows access to Azure subscriptions.
-What is role-based access control?,RBAC manages who can access Azure resources.
-What is Azure Active Directory?,Azure AD is a cloud-based identity and access service.
-What is multi-factor authentication?,MFA requires two or more verification methods.
-What is Zero Trust?,A security model that assumes no implicit trust.
-What is Azure Defender?,A security management tool for threat protection.
-What is Azure Security Center?,A unified security management system.
-What is encryption?,Encryption converts data into a secure format.
-What is data at rest?,Data stored on disks or storage.
-What is data in transit?,Data moving between systems.
-What is Azure Monitor?,A service that collects and analyzes telemetry.
-What is Azure Advisor?,A service that provides best practice recommendations.
-What is Azure Service Health?,It provides status and incident information.
-What is Azure Cost Management?,A tool to monitor and optimize cloud spending.
-What is CapEx?,Capital expenditure upfront investment.
-What is OpEx?,Operational expenditure pay-as-you-go costs.
-What is consumption-based pricing?,You pay only for what you use.
-What is Azure Free Account?,It provides limited free Azure services.
-What is SLA?,Service Level Agreement defines uptime guarantees.
-What is an SLA example in Azure?,99.9 percent uptime guarantee.
-What happens if SLA is not met?,Customers receive service credits.
-What is compliance?,Meeting legal and regulatory requirements.
-What is Microsoft Trust Center?,A portal for security compliance and privacy info.
-What is Azure Policy?,A service to enforce organizational standards.
-What is Azure Blueprints?,A service to deploy governed environments.
-What is tagging in Azure?,Adding metadata to resources.
-What is Azure DevOps?,A set of development collaboration tools.
-What is CI CD?,Continuous integration and continuous delivery.
-What is Azure Cloud Shell?,A browser-based command-line tool.
-What is Azure Portal?,A web-based interface to manage Azure.
-What is Azure CLI?,A command-line tool for managing Azure resources.
-What is PowerShell in Azure?,A scripting language for automation.
-What is Azure Regions Pair?,Two regions paired for disaster recovery.
-What is disaster recovery?,Restoring systems after failures.
-What is backup in Azure?,Creating copies of data for recovery.
-What is Azure Backup?,A service to back up Azure resources.
-What is Azure Site Recovery?,A disaster recovery service.
-What is shared responsibility model?,Security is shared between Azure and customer.
-What is customer responsibility in Azure?,Data and access management.
-What is Microsoft responsibility in Azure?,Physical data center security.
-What is the purpose of AZ-900?,To validate foundational Azure knowledge.
+"front","back"
+"What is Microsoft Azure?","""Microsoft Azure is a cloud computing platform that provides services like computing, storage, and networking."""
+"What is cloud computing?","Cloud computing is the delivery of computing services over the internet instead of on local hardware."
+"What are the three main cloud service models?","IaaS, PaaS, and SaaS."
+"What is IaaS?","Infrastructure as a Service provides virtual machines networking and storage."
+"What is PaaS?","Platform as a Service provides a platform for developers to build and deploy applications."
+"What is SaaS?","Software as a Service delivers software over the internet on a subscription basis."
+"What are the three cloud deployment models?","Public, private, and hybrid cloud."
+"What is a public cloud?","A public cloud is owned by a cloud provider and shared among customers."
+"What is a private cloud?","A private cloud is dedicated to a single organization."
+"What is a hybrid cloud?","A hybrid cloud combines public and private clouds."
+"What is an Azure region?","An Azure region is a geographical area with one or more data centers."
+"What is an Azure availability zone?","An availability zone is a physically separate data center within a region."
+"What is high availability?","High availability ensures systems remain operational with minimal downtime."
+"What is scalability?","Scalability is the ability to increase or decrease resources as needed."
+"What is elasticity?","Elasticity automatically adjusts resources based on demand."
+"What is fault tolerance?","Fault tolerance allows systems to continue operating when failures occur."
+"What is Azure Virtual Machine?","Azure VM is a service that provides on-demand virtualized computing resources."
+"What is Azure App Service?","Azure App Service is a PaaS for hosting web apps APIs and mobile backends."
+"What is Azure Functions?","Azure Functions is a serverless compute service."
+"What is serverless computing?","Serverless computing lets you run code without managing servers."
+"What is Azure Storage?","Azure Storage provides cloud storage for data objects files and queues."
+"What are Azure Storage types?","Blob, File, Queue, and Table storage."
+"What is Azure Blob Storage?","Blob storage stores unstructured data like images and videos."
+"What is Azure File Storage?","File storage provides shared file systems in the cloud."
+"What is Azure Queue Storage?","Queue storage stores messages for asynchronous processing."
+"What is Azure Table Storage?","Table storage stores structured NoSQL data."
+"What is Azure Virtual Network?","Azure VNet enables secure communication between Azure resources."
+"What is Azure VPN Gateway?","It connects on-premises networks to Azure."
+"What is Azure ExpressRoute?","ExpressRoute provides a private connection to Azure."
+"What is Azure Load Balancer?","It distributes traffic across multiple resources."
+"What is Azure Application Gateway?","It is a web traffic load balancer with advanced routing."
+"What is Azure DNS?","Azure DNS hosts domain name services."
+"What is Azure SQL Database?","A fully managed relational database service."
+"What is Azure Cosmos DB?","A globally distributed NoSQL database service."
+"What is Azure Marketplace?","An online store for Azure solutions and services."
+"What is Azure Resource Group?","A container that holds related Azure resources."
+"What is Azure Resource Manager?","It is the deployment and management service for Azure."
+"What is an Azure subscription?","A subscription provides access to Azure services and billing."
+"What is an Azure account?","An identity that allows access to Azure subscriptions."
+"What is role-based access control?","RBAC manages who can access Azure resources."
+"What is Azure Active Directory?","Azure AD is a cloud-based identity and access service."
+"What is multi-factor authentication?","MFA requires two or more verification methods."
+"What is Zero Trust?","A security model that assumes no implicit trust."
+"What is Azure Defender?","A security management tool for threat protection."
+"What is Azure Security Center?","A unified security management system."
+"What is encryption?","Encryption converts data into a secure format."
+"What is data at rest?","Data stored on disks or storage."
+"What is data in transit?","Data moving between systems."
+"What is Azure Monitor?","A service that collects and analyzes telemetry."
+"What is Azure Advisor?","A service that provides best practice recommendations."
+"What is Azure Service Health?","It provides status and incident information."
+"What is Azure Cost Management?","A tool to monitor and optimize cloud spending."
+"What is CapEx?","Capital expenditure upfront investment."
+"What is OpEx?","Operational expenditure pay-as-you-go costs."
+"What is consumption-based pricing?","You pay only for what you use."
+"What is Azure Free Account?","It provides limited free Azure services."
+"What is SLA?","Service Level Agreement defines uptime guarantees."
+"What is an SLA example in Azure?","99.9 percent uptime guarantee."
+"What happens if SLA is not met?","Customers receive service credits."
+"What is compliance?","Meeting legal and regulatory requirements."
+"What is Microsoft Trust Center?","A portal for security compliance and privacy info."
+"What is Azure Policy?","A service to enforce organizational standards."
+"What is Azure Blueprints?","A service to deploy governed environments."
+"What is tagging in Azure?","Adding metadata to resources."
+"What is Azure DevOps?","A set of development collaboration tools."
+"What is CI CD?","Continuous integration and continuous delivery."
+"What is Azure Cloud Shell?","A browser-based command-line tool."
+"What is Azure Portal?","A web-based interface to manage Azure."
+"What is Azure CLI?","A command-line tool for managing Azure resources."
+"What is PowerShell in Azure?","A scripting language for automation."
+"What is Azure Regions Pair?","Two regions paired for disaster recovery."
+"What is disaster recovery?","Restoring systems after failures."
+"What is backup in Azure?","Creating copies of data for recovery."
+"What is Azure Backup?","A service to back up Azure resources."
+"What is Azure Site Recovery?","A disaster recovery service."
+"What is shared responsibility model?","Security is shared between Azure and customer."
+"What is customer responsibility in Azure?","Data and access management."
+"What is Microsoft responsibility in Azure?","Physical data center security."
+"What is the purpose of AZ-900?","To validate foundational Azure knowledge."

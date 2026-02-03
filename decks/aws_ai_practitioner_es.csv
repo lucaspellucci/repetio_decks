@@ -1,79 +1,79 @@
-front,back
-¿Qué es AWS AI?,AWS AI es un conjunto de servicios que habilitan capacidades de machine learning e IA sin experiencia profunda en ML
-¿Qué es Machine Learning?,Machine Learning es un subconjunto de IA que permite que los sistemas aprendan patrones a partir de datos
-¿Qué es Deep Learning?,Deep Learning es un tipo de ML usando redes neuronales con múltiples capas
-¿Qué es IA Generativa?,IA Generativa crea nuevo contenido como texto, imágenes, audio o código
-¿Qué es Amazon SageMaker?,Un servicio totalmente administrado para construir, entrenar e implementar modelos de ML
-¿Qué es Amazon Rekognition?,Servicio AWS para análisis de imagen y video
-¿Qué es Amazon Comprehend?,Servicio AWS de NLP para análisis de texto
-¿Qué es Amazon Textract?,Servicio AWS para extraer texto y datos de documentos
-¿Qué es Amazon Transcribe?,Convierte voz en texto
-¿Qué es Amazon Translate?,Proporciona traducción de idiomas en tiempo real
-¿Qué es Amazon Polly?,Convierte texto en voz realista
-¿Qué es Amazon Lex?,Servicio para construir chatbots conversacionales
-¿Qué es Amazon Kendra?,Servicio de búsqueda empresarial inteligente
-¿Qué es Amazon Bedrock?,Servicio para construir apps de IA generativa usando modelos de fundación
-¿Qué son Modelos de Fundación?,Grandes modelos pre-entrenados que pueden adaptarse a muchas tareas
-¿Cuál es un caso de uso de Rekognition?,Detección facial, reconocimiento de objetos y moderación de contenido
-¿Qué es NLP?,Procesamiento de Lenguaje Natural permite que las máquinas entiendan lenguaje humano
-¿Qué es Visión por Computadora?,Campo de IA que permite que las máquinas interpreten imágenes y video
-¿Qué es Aprendizaje Supervisado?,Enfoque de ML usando datos etiquetados
-¿Qué es Aprendizaje No Supervisado?,Enfoque de ML usando datos no etiquetados
-¿Qué es Aprendizaje por Refuerzo?,Enfoque de ML donde los agentes aprenden a través de recompensas y penalidades
-¿Qué son Datos de Entrenamiento?,Datos usados para enseñar a un modelo de machine learning
-¿Qué es Inferencia?,Proceso de hacer predicciones con un modelo entrenado
-¿Qué es Implementación de Modelo?,Hacer disponible un modelo entrenado para uso
-¿Qué es Ingeniería de Features?,Proceso de seleccionar y transformar variables de entrada
-¿Qué es Overfitting?,El modelo tiene buen rendimiento en datos de entrenamiento pero malo en nuevos datos
-¿Qué es Underfitting?,El modelo es muy simple para capturar patrones en los datos
-¿Qué es Sesgo en IA?,Error sistemático que lleva a resultados injustos
-¿Qué es IA Explicable?,Capacidad de entender cómo un modelo toma decisiones
-¿Qué es IA Responsable?,IA desarrollada con equidad, transparencia y responsabilidad
-¿Qué es Etiquetado de Datos?,Proceso de marcar datos para aprendizaje supervisado
-¿Qué es Amazon Augmented AI?,Servicio de revisión humana para predicciones de ML
-¿Qué es el Modelo de Responsabilidad Compartida de AWS?,AWS administra seguridad de la nube, el cliente administra datos y uso
-¿Qué es IAM en AWS?,Identity and Access Management para controlar permisos
-¿Qué es Menor Privilegio?,Otorgar solo permisos necesarios
-¿Qué es Cifrado?,Proteger datos convirtiéndolos en forma ilegible
-¿Qué son Datos en Reposo?,Datos almacenados como en S3 o bases de datos
-¿Qué son Datos en Tránsito?,Datos moviéndose a través de redes
-¿Qué es Deriva de Modelo?,Degradación del rendimiento del modelo con el tiempo
-¿Qué es Monitoreo en ML?,Rastrear rendimiento del modelo y calidad de datos
-¿Qué es Amazon CloudWatch?,Servicio de monitoreo y observabilidad
-¿Qué es el AWS Well Architected Framework?,Mejores prácticas para diseñar cargas de trabajo AWS
-¿Qué pilar incluye sostenibilidad?,Pilar de sostenibilidad
-¿Qué pilar cubre seguridad?,Pilar de seguridad
-¿Qué es Optimización de Costos?,Reducir gastos innecesarios en la nube
-¿Qué es Escalabilidad?,Capacidad de manejar carga de trabajo aumentada
-¿Qué es Disponibilidad?,Asegurar que los sistemas permanezcan accesibles
-¿Qué es Latencia?,Tiempo tomado para responder a una solicitud
-¿Qué es Inferencia por Lotes?,Predicciones hechas en grandes datasets a la vez
-¿Qué es Inferencia en Tiempo Real?,Predicciones hechas instantáneamente por solicitud
-¿Qué es Zero Shot Learning?,El modelo realiza tareas sin entrenamiento específico para la tarea
-¿Qué es Ingeniería de Prompts?,Diseñar prompts para guiar salidas de IA generativa
-¿Qué es Token en GenAI?,Unidad más pequeña de texto procesada por modelos
-¿Qué es Temperatura en GenAI?,Controla la aleatoriedad de la salida del modelo
-¿Qué es Alucinación en IA?,El modelo genera información incorrecta o fabricada
-¿Qué es Fine Tuning?,Entrenar un modelo pre-entrenado con datos personalizados
-¿Qué es Embedding?,Representación numérica de texto o datos
-¿Qué es Base de Datos Vectorial?,Base de datos optimizada para búsqueda por similitud
-¿Qué es Generación Aumentada por Recuperación?,Combina resultados de búsqueda con IA generativa
-¿Qué es Amazon OpenSearch?,Servicio de búsqueda y análisis
-¿Qué es Amazon S3?,Servicio de almacenamiento de objetos
-¿Qué es Amazon EC2?,Servicio de cómputo virtual
-¿Qué es AWS Lambda?,Servicio de cómputo serverless
-¿Qué es Serverless?,No se requiere administración de servidores por el usuario
-¿Qué es API?,Interfaz para comunicación entre software
-¿Qué es SDK?,Kit de Desarrollo de Software
-¿Qué es CLI?,Interfaz de Línea de Comandos
-¿Qué es Edge AI?,Procesamiento de IA cerca de la fuente de datos
-¿Qué es IoT?,Internet de las Cosas
-¿Qué es MLOps?,Prácticas para administrar el ciclo de vida de ML
-¿Qué es CI/CD?,Integración Continua e Implementación Continua
-¿Qué es Privacidad de Datos?,Proteger información personal y sensible
-¿Qué es Cumplimiento?,Cumplir requisitos regulatorios
-¿Qué es AWS Artifact?,Acceso a reportes de cumplimiento
-¿Qué es Amazon GuardDuty?,Servicio de detección de amenazas
-¿Qué es Amazon Macie?,Servicio de seguridad y privacidad de datos
-¿Qué es Computación en la Nube?,Entrega bajo demanda de recursos de TI
-¿Qué es Pago por Uso?,Paga solo por lo que uses
+"front","back"
+"¿Qué es AWS AI?","AWS AI es un conjunto de servicios que habilitan capacidades de machine learning e IA sin experiencia profunda en ML"
+"¿Qué es Machine Learning?","Machine Learning es un subconjunto de IA que permite que los sistemas aprendan patrones a partir de datos"
+"¿Qué es Deep Learning?","Deep Learning es un tipo de ML usando redes neuronales con múltiples capas"
+"¿Qué es IA Generativa?","IA Generativa crea nuevo contenido como texto, imágenes, audio o código"
+"¿Qué es Amazon SageMaker?","Un servicio totalmente administrado para construir, entrenar e implementar modelos de ML"
+"¿Qué es Amazon Rekognition?","Servicio AWS para análisis de imagen y video"
+"¿Qué es Amazon Comprehend?","Servicio AWS de NLP para análisis de texto"
+"¿Qué es Amazon Textract?","Servicio AWS para extraer texto y datos de documentos"
+"¿Qué es Amazon Transcribe?","Convierte voz en texto"
+"¿Qué es Amazon Translate?","Proporciona traducción de idiomas en tiempo real"
+"¿Qué es Amazon Polly?","Convierte texto en voz realista"
+"¿Qué es Amazon Lex?","Servicio para construir chatbots conversacionales"
+"¿Qué es Amazon Kendra?","Servicio de búsqueda empresarial inteligente"
+"¿Qué es Amazon Bedrock?","Servicio para construir apps de IA generativa usando modelos de fundación"
+"¿Qué son Modelos de Fundación?","Grandes modelos pre-entrenados que pueden adaptarse a muchas tareas"
+"¿Cuál es un caso de uso de Rekognition?","Detección facial, reconocimiento de objetos y moderación de contenido"
+"¿Qué es NLP?","Procesamiento de Lenguaje Natural permite que las máquinas entiendan lenguaje humano"
+"¿Qué es Visión por Computadora?","Campo de IA que permite que las máquinas interpreten imágenes y video"
+"¿Qué es Aprendizaje Supervisado?","Enfoque de ML usando datos etiquetados"
+"¿Qué es Aprendizaje No Supervisado?","Enfoque de ML usando datos no etiquetados"
+"¿Qué es Aprendizaje por Refuerzo?","Enfoque de ML donde los agentes aprenden a través de recompensas y penalidades"
+"¿Qué son Datos de Entrenamiento?","Datos usados para enseñar a un modelo de machine learning"
+"¿Qué es Inferencia?","Proceso de hacer predicciones con un modelo entrenado"
+"¿Qué es Implementación de Modelo?","Hacer disponible un modelo entrenado para uso"
+"¿Qué es Ingeniería de Features?","Proceso de seleccionar y transformar variables de entrada"
+"¿Qué es Overfitting?","El modelo tiene buen rendimiento en datos de entrenamiento pero malo en nuevos datos"
+"¿Qué es Underfitting?","El modelo es muy simple para capturar patrones en los datos"
+"¿Qué es Sesgo en IA?","Error sistemático que lleva a resultados injustos"
+"¿Qué es IA Explicable?","Capacidad de entender cómo un modelo toma decisiones"
+"¿Qué es IA Responsable?","IA desarrollada con equidad, transparencia y responsabilidad"
+"¿Qué es Etiquetado de Datos?","Proceso de marcar datos para aprendizaje supervisado"
+"¿Qué es Amazon Augmented AI?","Servicio de revisión humana para predicciones de ML"
+"¿Qué es el Modelo de Responsabilidad Compartida de AWS?","AWS administra seguridad de la nube, el cliente administra datos y uso"
+"¿Qué es IAM en AWS?","Identity and Access Management para controlar permisos"
+"¿Qué es Menor Privilegio?","Otorgar solo permisos necesarios"
+"¿Qué es Cifrado?","Proteger datos convirtiéndolos en forma ilegible"
+"¿Qué son Datos en Reposo?","Datos almacenados como en S3 o bases de datos"
+"¿Qué son Datos en Tránsito?","Datos moviéndose a través de redes"
+"¿Qué es Deriva de Modelo?","Degradación del rendimiento del modelo con el tiempo"
+"¿Qué es Monitoreo en ML?","Rastrear rendimiento del modelo y calidad de datos"
+"¿Qué es Amazon CloudWatch?","Servicio de monitoreo y observabilidad"
+"¿Qué es el AWS Well Architected Framework?","Mejores prácticas para diseñar cargas de trabajo AWS"
+"¿Qué pilar incluye sostenibilidad?","Pilar de sostenibilidad"
+"¿Qué pilar cubre seguridad?","Pilar de seguridad"
+"¿Qué es Optimización de Costos?","Reducir gastos innecesarios en la nube"
+"¿Qué es Escalabilidad?","Capacidad de manejar carga de trabajo aumentada"
+"¿Qué es Disponibilidad?","Asegurar que los sistemas permanezcan accesibles"
+"¿Qué es Latencia?","Tiempo tomado para responder a una solicitud"
+"¿Qué es Inferencia por Lotes?","Predicciones hechas en grandes datasets a la vez"
+"¿Qué es Inferencia en Tiempo Real?","Predicciones hechas instantáneamente por solicitud"
+"¿Qué es Zero Shot Learning?","El modelo realiza tareas sin entrenamiento específico para la tarea"
+"¿Qué es Ingeniería de Prompts?","Diseñar prompts para guiar salidas de IA generativa"
+"¿Qué es Token en GenAI?","Unidad más pequeña de texto procesada por modelos"
+"¿Qué es Temperatura en GenAI?","Controla la aleatoriedad de la salida del modelo"
+"¿Qué es Alucinación en IA?","El modelo genera información incorrecta o fabricada"
+"¿Qué es Fine Tuning?","Entrenar un modelo pre-entrenado con datos personalizados"
+"¿Qué es Embedding?","Representación numérica de texto o datos"
+"¿Qué es Base de Datos Vectorial?","Base de datos optimizada para búsqueda por similitud"
+"¿Qué es Generación Aumentada por Recuperación?","Combina resultados de búsqueda con IA generativa"
+"¿Qué es Amazon OpenSearch?","Servicio de búsqueda y análisis"
+"¿Qué es Amazon S3?","Servicio de almacenamiento de objetos"
+"¿Qué es Amazon EC2?","Servicio de cómputo virtual"
+"¿Qué es AWS Lambda?","Servicio de cómputo serverless"
+"¿Qué es Serverless?","No se requiere administración de servidores por el usuario"
+"¿Qué es API?","Interfaz para comunicación entre software"
+"¿Qué es SDK?","Kit de Desarrollo de Software"
+"¿Qué es CLI?","Interfaz de Línea de Comandos"
+"¿Qué es Edge AI?","Procesamiento de IA cerca de la fuente de datos"
+"¿Qué es IoT?","Internet de las Cosas"
+"¿Qué es MLOps?","Prácticas para administrar el ciclo de vida de ML"
+"¿Qué es CI/CD?","Integración Continua e Implementación Continua"
+"¿Qué es Privacidad de Datos?","Proteger información personal y sensible"
+"¿Qué es Cumplimiento?","Cumplir requisitos regulatorios"
+"¿Qué es AWS Artifact?","Acceso a reportes de cumplimiento"
+"¿Qué es Amazon GuardDuty?","Servicio de detección de amenazas"
+"¿Qué es Amazon Macie?","Servicio de seguridad y privacidad de datos"
+"¿Qué es Computación en la Nube?","Entrega bajo demanda de recursos de TI"
+"¿Qué es Pago por Uso?","Paga solo por lo que uses"

@@ -1,31 +1,31 @@
-front,back
-What is an atom?,The smallest unit of an element that retains the chemical properties of that element
-What are the three main subatomic particles?,Protons (positive), neutrons (neutral), and electrons (negative)
-What is the periodic table?,A tabular arrangement of chemical elements organized by atomic number and chemical properties
-What is an isotope?,Atoms of the same element with different numbers of neutrons
-What is a molecule?,Two or more atoms bonded together chemically
-What is a covalent bond?,A chemical bond formed by sharing electrons between atoms
-What is an ionic bond?,A chemical bond formed by the transfer of electrons from one atom to another
-What is electronegativity?,A measure of an atom's ability to attract shared electrons in a chemical bond
-What is the pH scale?,A scale from 0-14 measuring how acidic or basic a solution is (7 is neutral)
-What is an acid?,A substance that donates hydrogen ions (H+) in solution
-What is a base?,A substance that accepts hydrogen ions or donates hydroxide ions (OH-)
-What is oxidation?,Loss of electrons or increase in oxidation state
-What is reduction?,Gain of electrons or decrease in oxidation state
-What is a catalyst?,A substance that speeds up a chemical reaction without being consumed
-What is Avogadro's number?,6.022 × 10²³ particles per mole
-What is a mole?,A unit equal to 6.022 × 10²³ particles of a substance
-What is molarity?,Concentration measured in moles of solute per liter of solution
-What is an exothermic reaction?,A reaction that releases heat to its surroundings
-What is an endothermic reaction?,A reaction that absorbs heat from its surroundings
-What is Le Chatelier's principle?,A system at equilibrium will shift to counteract any applied stress
-What is the octet rule?,Atoms tend to gain, lose, or share electrons to have 8 valence electrons
-What is valence?,The combining capacity of an atom based on its electron configuration
-What is an electron shell?,Energy levels where electrons orbit the nucleus
-What are the states of matter?,Solid, liquid, gas, and plasma
-What is sublimation?,The transition from solid directly to gas without passing through liquid
-What is a buffer solution?,A solution that resists changes in pH when acids or bases are added
-What is stoichiometry?,The calculation of reactants and products in chemical reactions
-What is the ideal gas law?,PV = nRT (pressure × volume = moles × gas constant × temperature)
-What is atomic mass?,The weighted average mass of an element's isotopes
-What are noble gases?,Elements in Group 18 with full outer electron shells (helium, neon, argon, etc.)
+"front","back"
+"What is an atom?","The smallest unit of an element that retains the chemical properties of that element"
+"What are the three main subatomic particles?","Protons (positive), neutrons (neutral), and electrons (negative)"
+"What is the periodic table?","A tabular arrangement of chemical elements organized by atomic number and chemical properties"
+"What is an isotope?","Atoms of the same element with different numbers of neutrons"
+"What is a molecule?","Two or more atoms bonded together chemically"
+"What is a covalent bond?","A chemical bond formed by sharing electrons between atoms"
+"What is an ionic bond?","A chemical bond formed by the transfer of electrons from one atom to another"
+"What is electronegativity?","A measure of an atom's ability to attract shared electrons in a chemical bond"
+"What is the pH scale?","A scale from 0-14 measuring how acidic or basic a solution is (7 is neutral)"
+"What is an acid?","A substance that donates hydrogen ions (H+) in solution"
+"What is a base?","A substance that accepts hydrogen ions or donates hydroxide ions (OH-)"
+"What is oxidation?","Loss of electrons or increase in oxidation state"
+"What is reduction?","Gain of electrons or decrease in oxidation state"
+"What is a catalyst?","A substance that speeds up a chemical reaction without being consumed"
+"What is Avogadro's number?","6.022 × 10²³ particles per mole"
+"What is a mole?","A unit equal to 6.022 × 10²³ particles of a substance"
+"What is molarity?","Concentration measured in moles of solute per liter of solution"
+"What is an exothermic reaction?","A reaction that releases heat to its surroundings"
+"What is an endothermic reaction?","A reaction that absorbs heat from its surroundings"
+"What is Le Chatelier's principle?","A system at equilibrium will shift to counteract any applied stress"
+"What is the octet rule?","Atoms tend to gain, lose, or share electrons to have 8 valence electrons"
+"What is valence?","The combining capacity of an atom based on its electron configuration"
+"What is an electron shell?","Energy levels where electrons orbit the nucleus"
+"What are the states of matter?","Solid, liquid, gas, and plasma"
+"What is sublimation?","The transition from solid directly to gas without passing through liquid"
+"What is a buffer solution?","A solution that resists changes in pH when acids or bases are added"
+"What is stoichiometry?","The calculation of reactants and products in chemical reactions"
+"What is the ideal gas law?","PV = nRT (pressure × volume = moles × gas constant × temperature)"
+"What is atomic mass?","The weighted average mass of an element's isotopes"
+"What are noble gases?","Elements in Group 18 with full outer electron shells (helium, neon, argon, etc.)"

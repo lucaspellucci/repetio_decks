@@ -1,79 +1,79 @@
-front,back
-O que é Microsoft Azure?,"Uma plataforma de computação em nuvem da Microsoft oferecendo IaaS, PaaS e SaaS"
-O que significa IaaS?,Infraestrutura como Serviço
-O que significa PaaS?,Plataforma como Serviço
-O que significa SaaS?,Software como Serviço
-O que é uma assinatura Azure?,Um contêiner lógico para recursos Azure e cobrança
-O que é um tenant Azure?,Uma instância dedicada do Azure Active Directory
-O que é o Azure Active Directory?,Serviço de gerenciamento de identidade e acesso na nuvem da Microsoft
-O que é um recurso Azure?,Um item gerenciável como uma VM, conta de armazenamento ou banco de dados
-O que é um grupo de recursos Azure?,Um contêiner lógico para recursos Azure relacionados
-O que é uma região Azure?,Uma área geográfica contendo data centers Azure
-O que é uma zona de disponibilidade Azure?,Locais fisicamente separados dentro de uma região
-O que é um conjunto de disponibilidade Azure?,Uma forma de garantir que VMs sejam distribuídas entre domínios de falha
-O que é Azure Virtual Machine?,Um recurso de computação escalável sob demanda
-Quais tipos de SO o Azure VM suporta?,Windows e Linux
-O que é o Azure App Service?,Um PaaS para hospedar apps web, APIs e backends móveis
-Quais linguagens são suportadas pelo Azure App Service?,".NET, Java, Node.js, Python, PHP"
-O que é Azure Functions?,Um serviço de computação serverless
-O que aciona Azure Functions?,HTTP, timers, filas, blobs e eventos
-O que é Azure Blob Storage?,Armazenamento de objetos para dados não estruturados
-O que é Azure File Storage?,Compartilhamentos de arquivos baseados em nuvem
-O que é Azure Queue Storage?,Armazenamento de mensagens para comunicação assíncrona
-O que é Azure Table Storage?,Armazenamento NoSQL de chave-valor
-O que é Azure Disk Storage?,Armazenamento de blocos para Azure VMs
-O que é Azure SQL Database?,Serviço de banco de dados relacional totalmente gerenciado
-O que é Azure SQL Managed Instance?,Um SQL Server gerenciado com compatibilidade quase total
-O que é Azure Cosmos DB?,Banco de dados NoSQL multimodelo distribuído globalmente
-Quais APIs o Cosmos DB suporta?,Core SQL, MongoDB, Cassandra, Table e Gremlin
-O que é Azure Virtual Network?,Uma rede privada no Azure
-O que é uma subnet no Azure?,Uma faixa segmentada de endereços IP em uma VNet
-O que é Network Security Group?,Um firewall para controlar tráfego de rede
-O que é Azure Load Balancer?,Serviço de balanceamento de carga de camada 4
-O que é Azure Application Gateway?,Balanceador de carga de camada 7 com WAF
-O que é Azure VPN Gateway?,Conexão segura entre Azure e local
-O que é Azure ExpressRoute?,Conexão dedicada privada ao Azure
-O que é Azure Firewall?,Serviço de segurança de rede em nuvem gerenciado
-O que é Azure DNS?,Serviço de hospedagem de domínio usando DNS Microsoft
-O que é Azure Monitor?,Serviço para coletar e analisar telemetria
-O que é Azure Log Analytics?,Serviço de análise de logs baseado em consultas
-O que é Azure Application Insights?,Monitoramento de desempenho para aplicações
-O que é Azure DevOps?,Conjunto de ferramentas de colaboração de desenvolvimento
-Quais serviços estão no Azure DevOps?,Repos, Pipelines, Boards, Test Plans, Artifacts
-O que é Azure Pipelines?,Serviço CI/CD para construir e implantar código
-O que é Azure Repos?,Serviço de hospedagem de repositórios Git
-O que é Azure Boards?,Ferramenta de gerenciamento ágil de projetos
-O que é Azure Artifacts?,Serviço de gerenciamento de pacotes
-O que é Azure Key Vault?,Armazenamento seguro para segredos, chaves e certificados
-O que é Azure Policy?,Serviço para aplicar padrões organizacionais
-O que é Azure Blueprints?,Ferramenta para implantar ambientes em conformidade
-O que é Controle de Acesso Baseado em Função do Azure?,Sistema de autorização para gerenciar acesso
-O que é uma atribuição de função?,Vincular uma função a um usuário, grupo ou service principal
-O que é Azure Bastion?,Acesso seguro RDP e SSH via portal
-O que é Azure Automation?,Serviço para automação de processos e configuração
-O que é Azure Logic Apps?,Serviço de automação de fluxo de trabalho low-code
-O que é Azure Event Grid?,Serviço de roteamento de eventos
-O que é Azure Service Bus?,Serviço de mensageria empresarial
-O que é Azure Event Hubs?,Plataforma de streaming de big data
-O que é Azure Data Factory?,Serviço de ETL e integração de dados
-O que é Azure Synapse Analytics?,Serviço de análise combinando data warehouse e big data
-O que é Azure Data Lake Storage?,Armazenamento otimizado para análise de big data
-O que é Azure Machine Learning?,Serviço para construir, treinar e implantar modelos de ML
-O que é Azure Cognitive Services?,Serviços de IA pré-construídos para visão, fala e linguagem
-O que é Azure Container Registry?,Registro privado de imagens Docker
-O que é Azure Kubernetes Service?,Serviço de orquestração Kubernetes gerenciado
-O que é um contêiner?,Ambiente de aplicação leve e isolado
-O que é Kubernetes?,Plataforma de orquestração de contêineres
-O que é Azure Cloud Shell?,Interface de linha de comando baseada em navegador
-Quais ferramentas estão no Azure Cloud Shell?,Azure CLI e PowerShell
-O que é Azure CLI?,Ferramenta de linha de comando para gerenciar recursos Azure
-O que é Azure PowerShell?,Módulo PowerShell para gerenciamento Azure
-O que é ARM?,Modelo de implantação Azure Resource Manager
-O que é um template ARM?,Arquivo JSON definindo infraestrutura como código
-O que é Bicep?,Linguagem de domínio específico para templates ARM
-O que é Azure Advisor?,Recomendações personalizadas de melhores práticas
-O que é Azure Cost Management?,Ferramenta para monitorar e otimizar gastos em nuvem
-O que é Azure Marketplace?,Loja online para soluções Azure
-O que é Azure SLA?,Acordo de nível de serviço para garantias de uptime
-O que é o modelo de responsabilidade compartilhada Azure?,Divisão de responsabilidades de segurança entre Microsoft e cliente
-O que é Azure Well Architected Framework?,Melhores práticas para confiabilidade, segurança, desempenho, custo e operações
+"front","back"
+"O que é Microsoft Azure?","""Uma plataforma de computação em nuvem da Microsoft oferecendo IaaS, PaaS e SaaS"""
+"O que significa IaaS?","Infraestrutura como Serviço"
+"O que significa PaaS?","Plataforma como Serviço"
+"O que significa SaaS?","Software como Serviço"
+"O que é uma assinatura Azure?","Um contêiner lógico para recursos Azure e cobrança"
+"O que é um tenant Azure?","Uma instância dedicada do Azure Active Directory"
+"O que é o Azure Active Directory?","Serviço de gerenciamento de identidade e acesso na nuvem da Microsoft"
+"O que é um recurso Azure?","Um item gerenciável como uma VM, conta de armazenamento ou banco de dados"
+"O que é um grupo de recursos Azure?","Um contêiner lógico para recursos Azure relacionados"
+"O que é uma região Azure?","Uma área geográfica contendo data centers Azure"
+"O que é uma zona de disponibilidade Azure?","Locais fisicamente separados dentro de uma região"
+"O que é um conjunto de disponibilidade Azure?","Uma forma de garantir que VMs sejam distribuídas entre domínios de falha"
+"O que é Azure Virtual Machine?","Um recurso de computação escalável sob demanda"
+"Quais tipos de SO o Azure VM suporta?","Windows e Linux"
+"O que é o Azure App Service?","Um PaaS para hospedar apps web, APIs e backends móveis"
+"Quais linguagens são suportadas pelo Azure App Service?",""".NET, Java, Node.js, Python, PHP"""
+"O que é Azure Functions?","Um serviço de computação serverless"
+"O que aciona Azure Functions?","HTTP, timers, filas, blobs e eventos"
+"O que é Azure Blob Storage?","Armazenamento de objetos para dados não estruturados"
+"O que é Azure File Storage?","Compartilhamentos de arquivos baseados em nuvem"
+"O que é Azure Queue Storage?","Armazenamento de mensagens para comunicação assíncrona"
+"O que é Azure Table Storage?","Armazenamento NoSQL de chave-valor"
+"O que é Azure Disk Storage?","Armazenamento de blocos para Azure VMs"
+"O que é Azure SQL Database?","Serviço de banco de dados relacional totalmente gerenciado"
+"O que é Azure SQL Managed Instance?","Um SQL Server gerenciado com compatibilidade quase total"
+"O que é Azure Cosmos DB?","Banco de dados NoSQL multimodelo distribuído globalmente"
+"Quais APIs o Cosmos DB suporta?","Core SQL, MongoDB, Cassandra, Table e Gremlin"
+"O que é Azure Virtual Network?","Uma rede privada no Azure"
+"O que é uma subnet no Azure?","Uma faixa segmentada de endereços IP em uma VNet"
+"O que é Network Security Group?","Um firewall para controlar tráfego de rede"
+"O que é Azure Load Balancer?","Serviço de balanceamento de carga de camada 4"
+"O que é Azure Application Gateway?","Balanceador de carga de camada 7 com WAF"
+"O que é Azure VPN Gateway?","Conexão segura entre Azure e local"
+"O que é Azure ExpressRoute?","Conexão dedicada privada ao Azure"
+"O que é Azure Firewall?","Serviço de segurança de rede em nuvem gerenciado"
+"O que é Azure DNS?","Serviço de hospedagem de domínio usando DNS Microsoft"
+"O que é Azure Monitor?","Serviço para coletar e analisar telemetria"
+"O que é Azure Log Analytics?","Serviço de análise de logs baseado em consultas"
+"O que é Azure Application Insights?","Monitoramento de desempenho para aplicações"
+"O que é Azure DevOps?","Conjunto de ferramentas de colaboração de desenvolvimento"
+"Quais serviços estão no Azure DevOps?","Repos, Pipelines, Boards, Test Plans, Artifacts"
+"O que é Azure Pipelines?","Serviço CI/CD para construir e implantar código"
+"O que é Azure Repos?","Serviço de hospedagem de repositórios Git"
+"O que é Azure Boards?","Ferramenta de gerenciamento ágil de projetos"
+"O que é Azure Artifacts?","Serviço de gerenciamento de pacotes"
+"O que é Azure Key Vault?","Armazenamento seguro para segredos, chaves e certificados"
+"O que é Azure Policy?","Serviço para aplicar padrões organizacionais"
+"O que é Azure Blueprints?","Ferramenta para implantar ambientes em conformidade"
+"O que é Controle de Acesso Baseado em Função do Azure?","Sistema de autorização para gerenciar acesso"
+"O que é uma atribuição de função?","Vincular uma função a um usuário, grupo ou service principal"
+"O que é Azure Bastion?","Acesso seguro RDP e SSH via portal"
+"O que é Azure Automation?","Serviço para automação de processos e configuração"
+"O que é Azure Logic Apps?","Serviço de automação de fluxo de trabalho low-code"
+"O que é Azure Event Grid?","Serviço de roteamento de eventos"
+"O que é Azure Service Bus?","Serviço de mensageria empresarial"
+"O que é Azure Event Hubs?","Plataforma de streaming de big data"
+"O que é Azure Data Factory?","Serviço de ETL e integração de dados"
+"O que é Azure Synapse Analytics?","Serviço de análise combinando data warehouse e big data"
+"O que é Azure Data Lake Storage?","Armazenamento otimizado para análise de big data"
+"O que é Azure Machine Learning?","Serviço para construir, treinar e implantar modelos de ML"
+"O que é Azure Cognitive Services?","Serviços de IA pré-construídos para visão, fala e linguagem"
+"O que é Azure Container Registry?","Registro privado de imagens Docker"
+"O que é Azure Kubernetes Service?","Serviço de orquestração Kubernetes gerenciado"
+"O que é um contêiner?","Ambiente de aplicação leve e isolado"
+"O que é Kubernetes?","Plataforma de orquestração de contêineres"
+"O que é Azure Cloud Shell?","Interface de linha de comando baseada em navegador"
+"Quais ferramentas estão no Azure Cloud Shell?","Azure CLI e PowerShell"
+"O que é Azure CLI?","Ferramenta de linha de comando para gerenciar recursos Azure"
+"O que é Azure PowerShell?","Módulo PowerShell para gerenciamento Azure"
+"O que é ARM?","Modelo de implantação Azure Resource Manager"
+"O que é um template ARM?","Arquivo JSON definindo infraestrutura como código"
+"O que é Bicep?","Linguagem de domínio específico para templates ARM"
+"O que é Azure Advisor?","Recomendações personalizadas de melhores práticas"
+"O que é Azure Cost Management?","Ferramenta para monitorar e otimizar gastos em nuvem"
+"O que é Azure Marketplace?","Loja online para soluções Azure"
+"O que é Azure SLA?","Acordo de nível de serviço para garantias de uptime"
+"O que é o modelo de responsabilidade compartilhada Azure?","Divisão de responsabilidades de segurança entre Microsoft e cliente"
+"O que é Azure Well Architected Framework?","Melhores práticas para confiabilidade, segurança, desempenho, custo e operações"

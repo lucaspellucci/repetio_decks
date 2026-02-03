@@ -1,31 +1,31 @@
-front,back
-¿Qué es la Primera Ley de Newton del Movimiento?,Un objeto en reposo permanece en reposo y un objeto en movimiento permanece en movimiento a menos que actúe sobre él una fuerza externa
-¿Qué es la Segunda Ley de Newton del Movimiento?,La fuerza es igual a la masa por la aceleración (F = ma)
-¿Qué es la Tercera Ley de Newton del Movimiento?,Para toda acción hay una reacción igual y opuesta
-¿Qué es la velocidad?,La tasa de cambio de posición con respecto al tiempo (rapidez con dirección)
-¿Qué es la aceleración?,La tasa de cambio de velocidad con respecto al tiempo
-¿Qué es el momento lineal?,Masa por velocidad (p = mv)
-¿Qué es la energía cinética?,Energía del movimiento: EC = ½mv²
-¿Qué es la energía potencial?,Energía almacenada debido a la posición o configuración
-¿Qué es la ley de conservación de la energía?,La energía no puede crearse ni destruirse, solo transformarse de una forma a otra
-¿Qué es la ley de conservación del momento?,El momento total en un sistema cerrado permanece constante
-¿Qué es la fricción?,Una fuerza que se opone al movimiento entre superficies en contacto
-¿Qué es la gravedad?,La fuerza de atracción entre objetos con masa
-¿Qué es la constante gravitacional (G)?,6,674 × 10⁻¹¹ N⋅m²/kg²
-¿Qué es el peso?,La fuerza de la gravedad sobre un objeto (P = mg)
-¿Qué es la masa?,Una medida de la cantidad de materia en un objeto
-¿Qué es el trabajo en física?,Fuerza por desplazamiento en la dirección de la fuerza (W = Fd)
-¿Qué es la potencia?,La tasa de realización de trabajo o transferencia de energía (P = W/t)
-¿Cuál es la unidad de fuerza?,Newton (N)
-¿Cuál es la unidad de energía?,Julio (J)
-¿Cuál es la unidad de potencia?,Vatio (W)
-¿Qué es la presión?,Fuerza por unidad de área (P = F/A)
-¿Qué es la densidad?,Masa por unidad de volumen (ρ = m/V)
-¿Qué es la velocidad terminal?,La velocidad máxima constante de un objeto en caída cuando la resistencia iguala la fuerza gravitacional
-¿Qué es el torque?,Una fuerza rotacional que causa aceleración angular (τ = r × F)
-¿Qué es el momento angular?,El equivalente rotacional del momento lineal (L = Iω)
-¿Qué es la fuerza centrípeta?,Fuerza dirigida hacia el centro del movimiento circular
-¿Qué es el movimiento armónico simple?,Movimiento oscilatorio donde la fuerza restauradora es proporcional al desplazamiento
-¿Cuál es la velocidad del sonido en el aire?,Aproximadamente 343 m/s a temperatura ambiente
-¿Qué es el efecto Doppler?,El cambio en la frecuencia de una onda debido al movimiento relativo entre la fuente y el observador
-¿Qué es la resonancia?,Cuando un sistema oscila con amplitud máxima a su frecuencia natural
+"front","back"
+"¿Qué es la Primera Ley de Newton del Movimiento?","Un objeto en reposo permanece en reposo y un objeto en movimiento permanece en movimiento a menos que actúe sobre él una fuerza externa"
+"¿Qué es la Segunda Ley de Newton del Movimiento?","La fuerza es igual a la masa por la aceleración (F = ma)"
+"¿Qué es la Tercera Ley de Newton del Movimiento?","Para toda acción hay una reacción igual y opuesta"
+"¿Qué es la velocidad?","La tasa de cambio de posición con respecto al tiempo (rapidez con dirección)"
+"¿Qué es la aceleración?","La tasa de cambio de velocidad con respecto al tiempo"
+"¿Qué es el momento lineal?","Masa por velocidad (p = mv)"
+"¿Qué es la energía cinética?","Energía del movimiento: EC = ½mv²"
+"¿Qué es la energía potencial?","Energía almacenada debido a la posición o configuración"
+"¿Qué es la ley de conservación de la energía?","La energía no puede crearse ni destruirse, solo transformarse de una forma a otra"
+"¿Qué es la ley de conservación del momento?","El momento total en un sistema cerrado permanece constante"
+"¿Qué es la fricción?","Una fuerza que se opone al movimiento entre superficies en contacto"
+"¿Qué es la gravedad?","La fuerza de atracción entre objetos con masa"
+"¿Qué es la constante gravitacional (G)?","6,674 × 10⁻¹¹ N⋅m²/kg²"
+"¿Qué es el peso?","La fuerza de la gravedad sobre un objeto (P = mg)"
+"¿Qué es la masa?","Una medida de la cantidad de materia en un objeto"
+"¿Qué es el trabajo en física?","Fuerza por desplazamiento en la dirección de la fuerza (W = Fd)"
+"¿Qué es la potencia?","La tasa de realización de trabajo o transferencia de energía (P = W/t)"
+"¿Cuál es la unidad de fuerza?","Newton (N)"
+"¿Cuál es la unidad de energía?","Julio (J)"
+"¿Cuál es la unidad de potencia?","Vatio (W)"
+"¿Qué es la presión?","Fuerza por unidad de área (P = F/A)"
+"¿Qué es la densidad?","Masa por unidad de volumen (ρ = m/V)"
+"¿Qué es la velocidad terminal?","La velocidad máxima constante de un objeto en caída cuando la resistencia iguala la fuerza gravitacional"
+"¿Qué es el torque?","Una fuerza rotacional que causa aceleración angular (τ = r × F)"
+"¿Qué es el momento angular?","El equivalente rotacional del momento lineal (L = Iω)"
+"¿Qué es la fuerza centrípeta?","Fuerza dirigida hacia el centro del movimiento circular"
+"¿Qué es el movimiento armónico simple?","Movimiento oscilatorio donde la fuerza restauradora es proporcional al desplazamiento"
+"¿Cuál es la velocidad del sonido en el aire?","Aproximadamente 343 m/s a temperatura ambiente"
+"¿Qué es el efecto Doppler?","El cambio en la frecuencia de una onda debido al movimiento relativo entre la fuente y el observador"
+"¿Qué es la resonancia?","Cuando un sistema oscila con amplitud máxima a su frecuencia natural"

@@ -1,31 +1,31 @@
-front,back
-What is a cell?,The basic structural and functional unit of all living organisms
-What are the two main types of cells?,Prokaryotic (no nucleus) and eukaryotic (has nucleus)
-What is DNA?,Deoxyribonucleic acid - the molecule that carries genetic information
-What is RNA?,Ribonucleic acid - helps translate DNA into proteins
-What is the mitochondria?,The organelle that produces ATP (energy) for the cell - the "powerhouse"
-What is photosynthesis?,The process by which plants convert light energy into chemical energy (glucose)
-What is cellular respiration?,The process of breaking down glucose to produce ATP energy
-What is ATP?,Adenosine triphosphate - the main energy currency of cells
-What is mitosis?,Cell division producing two identical daughter cells
-What is meiosis?,Cell division producing four genetically different sex cells (gametes)
-What is a chromosome?,A structure of DNA and proteins containing genetic information
-What is a gene?,A segment of DNA that codes for a specific protein or trait
-What is an allele?,Different versions of the same gene
-What is the difference between genotype and phenotype?,Genotype is genetic makeup; phenotype is observable characteristics
-What is natural selection?,The process where organisms with favorable traits survive and reproduce more
-What is evolution?,Change in inherited characteristics of populations over generations
-What is taxonomy?,The science of classifying and naming organisms
-What are the domains of life?,Bacteria, Archaea, and Eukarya
-What is homeostasis?,The maintenance of stable internal conditions in an organism
-What is the central dogma of molecular biology?,DNA → RNA → Protein (genetic information flow)
-What is an enzyme?,A protein that catalyzes (speeds up) biochemical reactions
-What is the cell membrane made of?,A phospholipid bilayer with embedded proteins
-What is osmosis?,The movement of water across a semipermeable membrane
-What is the difference between aerobic and anaerobic respiration?,Aerobic requires oxygen; anaerobic does not
-What are the four main types of biological macromolecules?,Carbohydrates, lipids, proteins, and nucleic acids
-What is CRISPR?,A gene-editing technology that can modify DNA sequences
-What is biodiversity?,The variety of life forms in a given ecosystem or on Earth
-What is an ecosystem?,A community of organisms interacting with their physical environment
-What is the nitrogen cycle?,The circulation of nitrogen through the atmosphere, soil, and living organisms
-What is a mutation?,A change in the DNA sequence
+"front","back"
+"What is a cell?","The basic structural and functional unit of all living organisms"
+"What are the two main types of cells?","Prokaryotic (no nucleus) and eukaryotic (has nucleus)"
+"What is DNA?","Deoxyribonucleic acid - the molecule that carries genetic information"
+"What is RNA?","Ribonucleic acid - helps translate DNA into proteins"
+"What is the mitochondria?","The organelle that produces ATP (energy) for the cell - the ""powerhouse"""
+"What is photosynthesis?","The process by which plants convert light energy into chemical energy (glucose)"
+"What is cellular respiration?","The process of breaking down glucose to produce ATP energy"
+"What is ATP?","Adenosine triphosphate - the main energy currency of cells"
+"What is mitosis?","Cell division producing two identical daughter cells"
+"What is meiosis?","Cell division producing four genetically different sex cells (gametes)"
+"What is a chromosome?","A structure of DNA and proteins containing genetic information"
+"What is a gene?","A segment of DNA that codes for a specific protein or trait"
+"What is an allele?","Different versions of the same gene"
+"What is the difference between genotype and phenotype?","Genotype is genetic makeup; phenotype is observable characteristics"
+"What is natural selection?","The process where organisms with favorable traits survive and reproduce more"
+"What is evolution?","Change in inherited characteristics of populations over generations"
+"What is taxonomy?","The science of classifying and naming organisms"
+"What are the domains of life?","Bacteria, Archaea, and Eukarya"
+"What is homeostasis?","The maintenance of stable internal conditions in an organism"
+"What is the central dogma of molecular biology?","DNA → RNA → Protein (genetic information flow)"
+"What is an enzyme?","A protein that catalyzes (speeds up) biochemical reactions"
+"What is the cell membrane made of?","A phospholipid bilayer with embedded proteins"
+"What is osmosis?","The movement of water across a semipermeable membrane"
+"What is the difference between aerobic and anaerobic respiration?","Aerobic requires oxygen; anaerobic does not"
+"What are the four main types of biological macromolecules?","Carbohydrates, lipids, proteins, and nucleic acids"
+"What is CRISPR?","A gene-editing technology that can modify DNA sequences"
+"What is biodiversity?","The variety of life forms in a given ecosystem or on Earth"
+"What is an ecosystem?","A community of organisms interacting with their physical environment"
+"What is the nitrogen cycle?","The circulation of nitrogen through the atmosphere, soil, and living organisms"
+"What is a mutation?","A change in the DNA sequence"

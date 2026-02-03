@@ -1,31 +1,31 @@
-front,back
-What is quantum mechanics?,The branch of physics describing behavior of matter and energy at atomic and subatomic scales
-What is Planck's constant?,6.626 × 10⁻³⁴ J⋅s - the fundamental constant relating energy to frequency
-What is wave-particle duality?,The concept that all matter exhibits both wave and particle properties
-What is the Heisenberg Uncertainty Principle?,You cannot simultaneously know both the exact position and momentum of a particle
-What is a photon?,A quantum of light - the smallest discrete amount of electromagnetic radiation
-What is the photoelectric effect?,Emission of electrons when light hits a material proving light's particle nature
-What is quantization?,The restriction of a physical quantity to discrete values rather than continuous
-What is a quantum state?,A mathematical description of a quantum system containing all measurable information
-What is superposition?,A quantum system existing in multiple states simultaneously until measured
-What is quantum entanglement?,When particles become correlated so measuring one instantly affects the other
-What is the Schrödinger equation?,The fundamental equation describing how quantum states evolve over time
-What is Schrödinger's cat?,A thought experiment illustrating superposition - a cat both alive and dead until observed
-What is the wave function (ψ)?,A mathematical function describing the quantum state of a particle
-What is wave function collapse?,The transition from superposition to a definite state upon measurement
-What is the Copenhagen interpretation?,The view that quantum systems don't have definite properties until measured
-What is the many-worlds interpretation?,The view that all possible outcomes of quantum measurements occur in separate universes
-What is quantum tunneling?,When particles pass through barriers they classically couldn't overcome
-What is spin in quantum mechanics?,An intrinsic angular momentum property of particles unrelated to actual rotation
-What are fermions?,Particles with half-integer spin (electrons, protons, neutrons) that obey the Pauli exclusion principle
-What are bosons?,Particles with integer spin (photons, gluons) that can occupy the same quantum state
-What is the Pauli exclusion principle?,No two identical fermions can occupy the same quantum state simultaneously
-What is a qubit?,A quantum bit that can exist in superposition of 0 and 1 states
-What is quantum decoherence?,The loss of quantum behavior when a system interacts with its environment
-What is the de Broglie wavelength?,The wavelength associated with a particle: λ = h/p
-What is the double-slit experiment?,Experiment showing wave-particle duality where particles create interference patterns
-What is quantum field theory?,Framework combining quantum mechanics with special relativity to describe particle physics
-What is the Standard Model?,The theory describing fundamental particles and forces (except gravity)
-What is zero-point energy?,The lowest possible energy a quantum system can have (never exactly zero)
-What is quantum superposition principle?,Any two quantum states can be added to get another valid quantum state
-What is Bell's theorem?,Proves that no local hidden variable theory can reproduce all quantum mechanics predictions
+"front","back"
+"What is quantum mechanics?","The branch of physics describing behavior of matter and energy at atomic and subatomic scales"
+"What is Planck's constant?","6.626 × 10⁻³⁴ J⋅s - the fundamental constant relating energy to frequency"
+"What is wave-particle duality?","The concept that all matter exhibits both wave and particle properties"
+"What is the Heisenberg Uncertainty Principle?","You cannot simultaneously know both the exact position and momentum of a particle"
+"What is a photon?","A quantum of light - the smallest discrete amount of electromagnetic radiation"
+"What is the photoelectric effect?","Emission of electrons when light hits a material proving light's particle nature"
+"What is quantization?","The restriction of a physical quantity to discrete values rather than continuous"
+"What is a quantum state?","A mathematical description of a quantum system containing all measurable information"
+"What is superposition?","A quantum system existing in multiple states simultaneously until measured"
+"What is quantum entanglement?","When particles become correlated so measuring one instantly affects the other"
+"What is the Schrödinger equation?","The fundamental equation describing how quantum states evolve over time"
+"What is Schrödinger's cat?","A thought experiment illustrating superposition - a cat both alive and dead until observed"
+"What is the wave function (ψ)?","A mathematical function describing the quantum state of a particle"
+"What is wave function collapse?","The transition from superposition to a definite state upon measurement"
+"What is the Copenhagen interpretation?","The view that quantum systems don't have definite properties until measured"
+"What is the many-worlds interpretation?","The view that all possible outcomes of quantum measurements occur in separate universes"
+"What is quantum tunneling?","When particles pass through barriers they classically couldn't overcome"
+"What is spin in quantum mechanics?","An intrinsic angular momentum property of particles unrelated to actual rotation"
+"What are fermions?","Particles with half-integer spin (electrons, protons, neutrons) that obey the Pauli exclusion principle"
+"What are bosons?","Particles with integer spin (photons, gluons) that can occupy the same quantum state"
+"What is the Pauli exclusion principle?","No two identical fermions can occupy the same quantum state simultaneously"
+"What is a qubit?","A quantum bit that can exist in superposition of 0 and 1 states"
+"What is quantum decoherence?","The loss of quantum behavior when a system interacts with its environment"
+"What is the de Broglie wavelength?","The wavelength associated with a particle: λ = h/p"
+"What is the double-slit experiment?","Experiment showing wave-particle duality where particles create interference patterns"
+"What is quantum field theory?","Framework combining quantum mechanics with special relativity to describe particle physics"
+"What is the Standard Model?","The theory describing fundamental particles and forces (except gravity)"
+"What is zero-point energy?","The lowest possible energy a quantum system can have (never exactly zero)"
+"What is quantum superposition principle?","Any two quantum states can be added to get another valid quantum state"
+"What is Bell's theorem?","Proves that no local hidden variable theory can reproduce all quantum mechanics predictions"

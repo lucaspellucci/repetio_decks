@@ -1,76 +1,76 @@
-front,back
-What is Azure AI?,A collection of AI services and tools provided by Microsoft Azure
-What is the Azure AI Fundamentals certification?,An entry-level certification validating basic knowledge of AI concepts and Azure AI services
-What exam code is Azure AI Fundamentals?,AI-900
-What are the main AI workload types?,"Machine Learning, Computer Vision, NLP, and Conversational AI"
-What is machine learning?,A technique where models learn patterns from data
-What is supervised learning?,Training a model using labeled data
-What is unsupervised learning?,Finding patterns in unlabeled data
-What is regression?,A machine learning task to predict numerical values
-What is classification?,A machine learning task to predict categories or classes
-What is clustering?,Grouping similar data points without labels
-What is anomaly detection?,Identifying unusual or unexpected data points
-What is Azure Machine Learning?,A cloud service for training and deploying ML models
-What is AutoML?,Automated machine learning that selects models and parameters automatically
-What is a feature?,An input variable used by a machine learning model
-What is a label?,The known outcome or target in supervised learning
-What is model training?,The process of teaching a model using data
-What is model evaluation?,Measuring model performance using metrics
-What is accuracy?,The proportion of correct predictions
-What is precision?,The ratio of true positives to predicted positives
-What is recall?,The ratio of true positives to actual positives
-What is overfitting?,When a model performs well on training data but poorly on new data
-What is underfitting?,When a model fails to capture patterns in data
-What is Azure Cognitive Services?,Prebuilt AI services accessible via APIs
-What are the main categories of Cognitive Services?,"Vision, Speech, Language, and Decision"
-What is Computer Vision?,AI that interprets images and videos
-What is Azure Computer Vision?,A service that analyzes images for objects and text
-What is image classification?,Assigning categories to images
-What is object detection?,Identifying objects and their locations in an image
-What is OCR?,Optical Character Recognition to extract text from images
-What is Azure Face service?,A service for face detection and analysis
-What is responsible AI?,Ethical and fair use of artificial intelligence
-What is NLP?,Natural Language Processing for understanding text and language
-What is Azure Text Analytics?,"A service for sentiment, key phrases, and entity detection"
-What is sentiment analysis?,"Determining positive, negative, or neutral tone"
-What is key phrase extraction?,Identifying important words or phrases
-What is named entity recognition?,"Detecting people, places, and organizations in text"
-What is language detection?,Identifying the language of text
-What is Azure Translator?,A service for translating text between languages
-What is speech recognition?,Converting spoken language into text
-What is speech synthesis?,Converting text into spoken audio
-What is Azure Speech service?,A service for speech-to-text and text-to-speech
-What is Conversational AI?,AI systems that interact via conversation
-What is Azure Bot Service?,A platform for building conversational bots
-What is a chatbot?,An application that simulates human conversation
-What is LUIS?,Language Understanding Intelligent Service for intent detection
-What is intent?,The goal or purpose behind user input
-What is an entity in LUIS?,A specific piece of information extracted from text
-What is QnA Maker?,A service for building question-and-answer bots
-What is a knowledge base?,A structured collection of questions and answers
-What is Azure OpenAI?,A service providing access to large language models
-What is a REST API?,An interface allowing services to communicate over HTTP
-What is a model endpoint?,A URL where a deployed model can be accessed
-What is inferencing?,Using a trained model to make predictions
-What is batch inferencing?,Running predictions on large datasets at once
-What is real-time inferencing?,Running predictions immediately on new data
-What is fairness in AI?,Ensuring models do not produce biased results
-What is reliability in AI?,Ensuring consistent and accurate AI behavior
-What is transparency in AI?,Making AI decisions understandable
-What is privacy in AI?,Protecting personal and sensitive data
-What is security in AI?,Preventing misuse and attacks on AI systems
-What is inclusiveness in AI?,Designing AI that works for everyone
-What is accountability in AI?,Ensuring humans are responsible for AI outcomes
-What is Azure AI Studio?,A unified interface for building AI solutions
-What is a dataset?,A collection of data used for training or testing
-What is data labeling?,Assigning correct outputs to training data
-What is a confusion matrix?,A table showing prediction results vs actual values
-What is true positive?,A correct positive prediction
-What is false positive?,An incorrect positive prediction
-What is false negative?,An incorrect negative prediction
-What is true negative?,A correct negative prediction
-What is cloud computing?,Delivering computing services over the internet
-What is scalability?,Ability to handle increasing workloads
-What is high availability?,Ensuring systems remain operational
-What is cost efficiency?,Paying only for used resources
-What is AI-900 designed for?,Beginners learning AI concepts and Azure services
+"front","back"
+"What is Azure AI?","A collection of AI services and tools provided by Microsoft Azure"
+"What is the Azure AI Fundamentals certification?","An entry-level certification validating basic knowledge of AI concepts and Azure AI services"
+"What exam code is Azure AI Fundamentals?","AI-900"
+"What are the main AI workload types?","""Machine Learning, Computer Vision, NLP, and Conversational AI"""
+"What is machine learning?","A technique where models learn patterns from data"
+"What is supervised learning?","Training a model using labeled data"
+"What is unsupervised learning?","Finding patterns in unlabeled data"
+"What is regression?","A machine learning task to predict numerical values"
+"What is classification?","A machine learning task to predict categories or classes"
+"What is clustering?","Grouping similar data points without labels"
+"What is anomaly detection?","Identifying unusual or unexpected data points"
+"What is Azure Machine Learning?","A cloud service for training and deploying ML models"
+"What is AutoML?","Automated machine learning that selects models and parameters automatically"
+"What is a feature?","An input variable used by a machine learning model"
+"What is a label?","The known outcome or target in supervised learning"
+"What is model training?","The process of teaching a model using data"
+"What is model evaluation?","Measuring model performance using metrics"
+"What is accuracy?","The proportion of correct predictions"
+"What is precision?","The ratio of true positives to predicted positives"
+"What is recall?","The ratio of true positives to actual positives"
+"What is overfitting?","When a model performs well on training data but poorly on new data"
+"What is underfitting?","When a model fails to capture patterns in data"
+"What is Azure Cognitive Services?","Prebuilt AI services accessible via APIs"
+"What are the main categories of Cognitive Services?","""Vision, Speech, Language, and Decision"""
+"What is Computer Vision?","AI that interprets images and videos"
+"What is Azure Computer Vision?","A service that analyzes images for objects and text"
+"What is image classification?","Assigning categories to images"
+"What is object detection?","Identifying objects and their locations in an image"
+"What is OCR?","Optical Character Recognition to extract text from images"
+"What is Azure Face service?","A service for face detection and analysis"
+"What is responsible AI?","Ethical and fair use of artificial intelligence"
+"What is NLP?","Natural Language Processing for understanding text and language"
+"What is Azure Text Analytics?","""A service for sentiment, key phrases, and entity detection"""
+"What is sentiment analysis?","""Determining positive, negative, or neutral tone"""
+"What is key phrase extraction?","Identifying important words or phrases"
+"What is named entity recognition?","""Detecting people, places, and organizations in text"""
+"What is language detection?","Identifying the language of text"
+"What is Azure Translator?","A service for translating text between languages"
+"What is speech recognition?","Converting spoken language into text"
+"What is speech synthesis?","Converting text into spoken audio"
+"What is Azure Speech service?","A service for speech-to-text and text-to-speech"
+"What is Conversational AI?","AI systems that interact via conversation"
+"What is Azure Bot Service?","A platform for building conversational bots"
+"What is a chatbot?","An application that simulates human conversation"
+"What is LUIS?","Language Understanding Intelligent Service for intent detection"
+"What is intent?","The goal or purpose behind user input"
+"What is an entity in LUIS?","A specific piece of information extracted from text"
+"What is QnA Maker?","A service for building question-and-answer bots"
+"What is a knowledge base?","A structured collection of questions and answers"
+"What is Azure OpenAI?","A service providing access to large language models"
+"What is a REST API?","An interface allowing services to communicate over HTTP"
+"What is a model endpoint?","A URL where a deployed model can be accessed"
+"What is inferencing?","Using a trained model to make predictions"
+"What is batch inferencing?","Running predictions on large datasets at once"
+"What is real-time inferencing?","Running predictions immediately on new data"
+"What is fairness in AI?","Ensuring models do not produce biased results"
+"What is reliability in AI?","Ensuring consistent and accurate AI behavior"
+"What is transparency in AI?","Making AI decisions understandable"
+"What is privacy in AI?","Protecting personal and sensitive data"
+"What is security in AI?","Preventing misuse and attacks on AI systems"
+"What is inclusiveness in AI?","Designing AI that works for everyone"
+"What is accountability in AI?","Ensuring humans are responsible for AI outcomes"
+"What is Azure AI Studio?","A unified interface for building AI solutions"
+"What is a dataset?","A collection of data used for training or testing"
+"What is data labeling?","Assigning correct outputs to training data"
+"What is a confusion matrix?","A table showing prediction results vs actual values"
+"What is true positive?","A correct positive prediction"
+"What is false positive?","An incorrect positive prediction"
+"What is false negative?","An incorrect negative prediction"
+"What is true negative?","A correct negative prediction"
+"What is cloud computing?","Delivering computing services over the internet"
+"What is scalability?","Ability to handle increasing workloads"
+"What is high availability?","Ensuring systems remain operational"
+"What is cost efficiency?","Paying only for used resources"
+"What is AI-900 designed for?","Beginners learning AI concepts and Azure services"

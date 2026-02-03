@@ -1,31 +1,31 @@
-front,back
-O que é um átomo?,A menor unidade de um elemento que mantém as propriedades químicas desse elemento
-Quais são as três principais partículas subatômicas?,Prótons (positivos), nêutrons (neutros) e elétrons (negativos)
-O que é a tabela periódica?,Um arranjo tabular de elementos químicos organizados por número atômico e propriedades químicas
-O que é um isótopo?,Átomos do mesmo elemento com diferentes números de nêutrons
-O que é uma molécula?,Dois ou mais átomos ligados quimicamente
-O que é uma ligação covalente?,Uma ligação química formada pelo compartilhamento de elétrons entre átomos
-O que é uma ligação iônica?,Uma ligação química formada pela transferência de elétrons de um átomo para outro
-O que é eletronegatividade?,Uma medida da capacidade de um átomo de atrair elétrons compartilhados em uma ligação química
-O que é a escala de pH?,Uma escala de 0 a 14 que mede quão ácida ou básica é uma solução (7 é neutro)
-O que é um ácido?,Uma substância que doa íons de hidrogênio (H+) em solução
-O que é uma base?,Uma substância que aceita íons de hidrogênio ou doa íons hidróxido (OH-)
-O que é oxidação?,Perda de elétrons ou aumento no estado de oxidação
-O que é redução?,Ganho de elétrons ou diminuição no estado de oxidação
-O que é um catalisador?,Uma substância que acelera uma reação química sem ser consumida
-O que é o número de Avogadro?,6,022 × 10²³ partículas por mol
-O que é um mol?,Uma unidade igual a 6,022 × 10²³ partículas de uma substância
-O que é molaridade?,Concentração medida em mols de soluto por litro de solução
-O que é uma reação exotérmica?,Uma reação que libera calor para o ambiente
-O que é uma reação endotérmica?,Uma reação que absorve calor do ambiente
-O que é o princípio de Le Chatelier?,Um sistema em equilíbrio se deslocará para contrabalançar qualquer estresse aplicado
-O que é a regra do octeto?,Os átomos tendem a ganhar, perder ou compartilhar elétrons para ter 8 elétrons de valência
-O que é valência?,A capacidade de combinação de um átomo baseada em sua configuração eletrônica
-O que é uma camada eletrônica?,Níveis de energia onde os elétrons orbitam o núcleo
-Quais são os estados da matéria?,Sólido, líquido, gasoso e plasma
-O que é sublimação?,A transição direta do sólido para o gás sem passar pelo líquido
-O que é uma solução tampão?,Uma solução que resiste a mudanças no pH quando ácidos ou bases são adicionados
-O que é estequiometria?,O cálculo de reagentes e produtos em reações químicas
-O que é a lei dos gases ideais?,PV = nRT (pressão × volume = mols × constante dos gases × temperatura)
-O que é massa atômica?,A média ponderada da massa dos isótopos de um elemento
-O que são gases nobres?,Elementos do Grupo 18 com camadas eletrônicas externas completas (hélio, neônio, argônio, etc.)
+"front","back"
+"O que é um átomo?","A menor unidade de um elemento que mantém as propriedades químicas desse elemento"
+"Quais são as três principais partículas subatômicas?","Prótons (positivos), nêutrons (neutros) e elétrons (negativos)"
+"O que é a tabela periódica?","Um arranjo tabular de elementos químicos organizados por número atômico e propriedades químicas"
+"O que é um isótopo?","Átomos do mesmo elemento com diferentes números de nêutrons"
+"O que é uma molécula?","Dois ou mais átomos ligados quimicamente"
+"O que é uma ligação covalente?","Uma ligação química formada pelo compartilhamento de elétrons entre átomos"
+"O que é uma ligação iônica?","Uma ligação química formada pela transferência de elétrons de um átomo para outro"
+"O que é eletronegatividade?","Uma medida da capacidade de um átomo de atrair elétrons compartilhados em uma ligação química"
+"O que é a escala de pH?","Uma escala de 0 a 14 que mede quão ácida ou básica é uma solução (7 é neutro)"
+"O que é um ácido?","Uma substância que doa íons de hidrogênio (H+) em solução"
+"O que é uma base?","Uma substância que aceita íons de hidrogênio ou doa íons hidróxido (OH-)"
+"O que é oxidação?","Perda de elétrons ou aumento no estado de oxidação"
+"O que é redução?","Ganho de elétrons ou diminuição no estado de oxidação"
+"O que é um catalisador?","Uma substância que acelera uma reação química sem ser consumida"
+"O que é o número de Avogadro?","6,022 × 10²³ partículas por mol"
+"O que é um mol?","Uma unidade igual a 6,022 × 10²³ partículas de uma substância"
+"O que é molaridade?","Concentração medida em mols de soluto por litro de solução"
+"O que é uma reação exotérmica?","Uma reação que libera calor para o ambiente"
+"O que é uma reação endotérmica?","Uma reação que absorve calor do ambiente"
+"O que é o princípio de Le Chatelier?","Um sistema em equilíbrio se deslocará para contrabalançar qualquer estresse aplicado"
+"O que é a regra do octeto?","Os átomos tendem a ganhar, perder ou compartilhar elétrons para ter 8 elétrons de valência"
+"O que é valência?","A capacidade de combinação de um átomo baseada em sua configuração eletrônica"
+"O que é uma camada eletrônica?","Níveis de energia onde os elétrons orbitam o núcleo"
+"Quais são os estados da matéria?","Sólido, líquido, gasoso e plasma"
+"O que é sublimação?","A transição direta do sólido para o gás sem passar pelo líquido"
+"O que é uma solução tampão?","Uma solução que resiste a mudanças no pH quando ácidos ou bases são adicionados"
+"O que é estequiometria?","O cálculo de reagentes e produtos em reações químicas"
+"O que é a lei dos gases ideais?","PV = nRT (pressão × volume = mols × constante dos gases × temperatura)"
+"O que é massa atômica?","A média ponderada da massa dos isótopos de um elemento"
+"O que são gases nobres?","Elementos do Grupo 18 com camadas eletrônicas externas completas (hélio, neônio, argônio, etc.)"

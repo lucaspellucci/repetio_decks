@@ -1,82 +1,82 @@
-front,back
-What does AWS stand for?,Amazon Web Services
-What is AWS?,A cloud computing platform offering on-demand IT resources
-What are the main cloud service models?,IaaS, PaaS, and SaaS
-What is EC2?,Elastic Compute Cloud virtual servers
-What is S3?,Simple Storage Service object storage
-What type of storage is S3?,Object storage
-What is an S3 bucket?,A container for storing objects in S3
-What is an EC2 instance?,A virtual server running in AWS
-What is AMI?,Amazon Machine Image used to launch EC2 instances
-What is Auto Scaling?,Automatically adjusts EC2 capacity
-What is Elastic Load Balancing?,Distributes traffic across resources
-What is IAM?,Identity and Access Management
-What does IAM control?,User permissions and access to AWS resources
-What is an IAM role?,A set of permissions assumed by services or users
-What is an AWS Region?,A geographic area with multiple data centers
-What is an Availability Zone?,An isolated data center within a region
-Why use multiple Availability Zones?,High availability and fault tolerance
-What is VPC?,Virtual Private Cloud isolated network
-What is a subnet?,A range of IP addresses in a VPC
-What is a public subnet?,Subnet with internet access
-What is a private subnet?,Subnet without direct internet access
-What is an Internet Gateway?,Allows VPC resources to access the internet
-What is a NAT Gateway?,Allows outbound internet for private subnets
-What is Route 53?,AWS DNS web service
-What is CloudFront?,Content Delivery Network CDN
-What is RDS?,Relational Database Service
-What databases does RDS support?,MySQL PostgreSQL MariaDB Oracle SQL Server
-What is DynamoDB?,Fully managed NoSQL key-value database
-What type of database is DynamoDB?,NoSQL
-What is Redshift?,Data warehouse service
-What is Lambda?,Serverless compute service
-What does serverless mean?,No server management required
-What triggers Lambda functions?,Events from AWS services
-What is CloudWatch?,Monitoring and logging service
-What does CloudWatch monitor?,Metrics, logs, and alarms
-What is CloudTrail?,Tracks AWS API activity
-What is Elastic Beanstalk?,PaaS for deploying applications
-What languages does Elastic Beanstalk support?,Java, Python, Node.js, .NET, Go, Ruby, PHP
-What is ECS?,Elastic Container Service
-What is EKS?,Elastic Kubernetes Service
-What is a container?,A lightweight isolated application package
-What is Docker?,Containerization platform
-What is Fargate?,Serverless compute for containers
-What is AWS Organizations?,Manage multiple AWS accounts
-What is AWS Shield?,DDoS protection service
-What is AWS WAF?,Web Application Firewall
-What is AWS KMS?,Key Management Service
-What does KMS manage?,Encryption keys
-What is AWS Secrets Manager?,Stores and rotates secrets securely
-What is SQS?,Simple Queue Service
-What type of service is SQS?,Message queue
-What is SNS?,Simple Notification Service
-What does SNS provide?,Pub sub messaging
-What is Step Functions?,Serverless workflow orchestration
-What is API Gateway?,Create and manage APIs
-What is AWS Glue?,ETL data integration service
-What is Athena?,Query S3 using SQL
-What is EMR?,Elastic MapReduce big data processing
-What is AWS Backup?,Centralized backup service
-What is Snowball?,Data transfer appliance
-What is AWS Cost Explorer?,Analyze AWS costs
-What is a Reserved Instance?,Discounted long-term EC2 pricing
-What is Spot Instance?,Unused EC2 capacity at lower cost
-What is On-Demand Instance?,Pay per use EC2 instance
-What is the Shared Responsibility Model?,AWS secures cloud user secures data
-What does AWS secure?,Infrastructure hardware and services
-What is Well-Architected Framework?,Best practices for cloud design
-What are the 6 pillars of Well-Architected?,Operational Excellence, Security, Reliability, Performance, Cost, Sustainability
-What is Infrastructure as Code?,Manage infrastructure via code
-What is CloudFormation?,AWS IaC service
-What is Terraform?,Third-party IaC tool
-What is AWS CDK?,Define cloud infrastructure using programming languages
-What is AWS Free Tier?,Limited free AWS usage for beginners
-What is S3 Glacier?,Low-cost archival storage
-What is AWS Outposts?,AWS infrastructure on-premises
-What is AWS Marketplace?,Third-party software marketplace
-What is multi-region architecture?,Resources deployed in multiple regions
-What is high availability?,System remains operational during failures
-What is fault tolerance?,System continues despite component failures
-What is scalability?,Ability to handle increased load
-What is elasticity?,Automatic scaling based on demand
+"front","back"
+"What does AWS stand for?","Amazon Web Services"
+"What is AWS?","A cloud computing platform offering on-demand IT resources"
+"What are the main cloud service models?","IaaS, PaaS, and SaaS"
+"What is EC2?","Elastic Compute Cloud virtual servers"
+"What is S3?","Simple Storage Service object storage"
+"What type of storage is S3?","Object storage"
+"What is an S3 bucket?","A container for storing objects in S3"
+"What is an EC2 instance?","A virtual server running in AWS"
+"What is AMI?","Amazon Machine Image used to launch EC2 instances"
+"What is Auto Scaling?","Automatically adjusts EC2 capacity"
+"What is Elastic Load Balancing?","Distributes traffic across resources"
+"What is IAM?","Identity and Access Management"
+"What does IAM control?","User permissions and access to AWS resources"
+"What is an IAM role?","A set of permissions assumed by services or users"
+"What is an AWS Region?","A geographic area with multiple data centers"
+"What is an Availability Zone?","An isolated data center within a region"
+"Why use multiple Availability Zones?","High availability and fault tolerance"
+"What is VPC?","Virtual Private Cloud isolated network"
+"What is a subnet?","A range of IP addresses in a VPC"
+"What is a public subnet?","Subnet with internet access"
+"What is a private subnet?","Subnet without direct internet access"
+"What is an Internet Gateway?","Allows VPC resources to access the internet"
+"What is a NAT Gateway?","Allows outbound internet for private subnets"
+"What is Route 53?","AWS DNS web service"
+"What is CloudFront?","Content Delivery Network CDN"
+"What is RDS?","Relational Database Service"
+"What databases does RDS support?","MySQL PostgreSQL MariaDB Oracle SQL Server"
+"What is DynamoDB?","Fully managed NoSQL key-value database"
+"What type of database is DynamoDB?","NoSQL"
+"What is Redshift?","Data warehouse service"
+"What is Lambda?","Serverless compute service"
+"What does serverless mean?","No server management required"
+"What triggers Lambda functions?","Events from AWS services"
+"What is CloudWatch?","Monitoring and logging service"
+"What does CloudWatch monitor?","Metrics, logs, and alarms"
+"What is CloudTrail?","Tracks AWS API activity"
+"What is Elastic Beanstalk?","PaaS for deploying applications"
+"What languages does Elastic Beanstalk support?","Java, Python, Node.js, .NET, Go, Ruby, PHP"
+"What is ECS?","Elastic Container Service"
+"What is EKS?","Elastic Kubernetes Service"
+"What is a container?","A lightweight isolated application package"
+"What is Docker?","Containerization platform"
+"What is Fargate?","Serverless compute for containers"
+"What is AWS Organizations?","Manage multiple AWS accounts"
+"What is AWS Shield?","DDoS protection service"
+"What is AWS WAF?","Web Application Firewall"
+"What is AWS KMS?","Key Management Service"
+"What does KMS manage?","Encryption keys"
+"What is AWS Secrets Manager?","Stores and rotates secrets securely"
+"What is SQS?","Simple Queue Service"
+"What type of service is SQS?","Message queue"
+"What is SNS?","Simple Notification Service"
+"What does SNS provide?","Pub sub messaging"
+"What is Step Functions?","Serverless workflow orchestration"
+"What is API Gateway?","Create and manage APIs"
+"What is AWS Glue?","ETL data integration service"
+"What is Athena?","Query S3 using SQL"
+"What is EMR?","Elastic MapReduce big data processing"
+"What is AWS Backup?","Centralized backup service"
+"What is Snowball?","Data transfer appliance"
+"What is AWS Cost Explorer?","Analyze AWS costs"
+"What is a Reserved Instance?","Discounted long-term EC2 pricing"
+"What is Spot Instance?","Unused EC2 capacity at lower cost"
+"What is On-Demand Instance?","Pay per use EC2 instance"
+"What is the Shared Responsibility Model?","AWS secures cloud user secures data"
+"What does AWS secure?","Infrastructure hardware and services"
+"What is Well-Architected Framework?","Best practices for cloud design"
+"What are the 6 pillars of Well-Architected?","Operational Excellence, Security, Reliability, Performance, Cost, Sustainability"
+"What is Infrastructure as Code?","Manage infrastructure via code"
+"What is CloudFormation?","AWS IaC service"
+"What is Terraform?","Third-party IaC tool"
+"What is AWS CDK?","Define cloud infrastructure using programming languages"
+"What is AWS Free Tier?","Limited free AWS usage for beginners"
+"What is S3 Glacier?","Low-cost archival storage"
+"What is AWS Outposts?","AWS infrastructure on-premises"
+"What is AWS Marketplace?","Third-party software marketplace"
+"What is multi-region architecture?","Resources deployed in multiple regions"
+"What is high availability?","System remains operational during failures"
+"What is fault tolerance?","System continues despite component failures"
+"What is scalability?","Ability to handle increased load"
+"What is elasticity?","Automatic scaling based on demand"

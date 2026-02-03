@@ -1,102 +1,102 @@
-front,back
-Olá,Hello
-Bom dia,Good morning
-Boa tarde,Good afternoon
-Boa noite,Good evening
-Tchau,Goodbye
-Até logo,See you later
-Por favor,Please
-Obrigado / Obrigada,Thank you
-De nada,You're welcome
-Com licença,Excuse me
-Desculpe,I'm sorry
-Sim,Yes
-Não,No
-Como você está?,How are you?
-Estou bem,I'm fine
-Qual é o seu nome?,What is your name?
-Meu nome é...,My name is...
-Prazer em conhecê-lo,Nice to meet you
-Você fala inglês?,Do you speak English?
-Não falo português,I don't speak Portuguese
-Não entendo,I don't understand
-Pode repetir por favor?,Can you repeat please?
-Pode falar mais devagar?,Can you speak slower?
-Como se diz isso em português?,How do you say this in Portuguese?
-Onde fica o banheiro?,Where is the bathroom?
-Onde fica o hotel?,Where is the hotel?
-Onde fica o aeroporto?,Where is the airport?
-Onde fica a rodoviária?,Where is the bus station?
-Onde fica a estação de trem?,Where is the train station?
-Onde fica o metrô?,Where is the subway?
-Como chego a...?,How do I get to...?
-É longe?,Is it far?
-É perto?,Is it close?
-Vire à esquerda,Turn left
-Vire à direita,Turn right
-Siga em frente,Go straight
-Preciso de um táxi,I need a taxi
-Quanto custa?,How much does it cost?
-Está muito caro,That's too expensive
-Pode me dar um desconto?,Can you give me a discount?
-Gostaria de comprar isso,I would like to buy this
-Aceita cartão de crédito?,Do you accept credit card?
-Onde posso trocar dinheiro?,Where can I exchange money?
-Preciso de ajuda,I need help
-Pode me ajudar?,Can you help me?
-Estou perdido / Estou perdida,I'm lost
-Tenho uma reserva,I have a reservation
-Gostaria de um quarto,I would like a room
-Por uma noite,For one night
-Por duas noites,For two nights
-Que horas é o check-out?,What time is check-out?
-O café da manhã está incluído?,Is breakfast included?
-O ar condicionado não funciona,The air conditioning doesn't work
-Preciso de mais toalhas,I need more towels
-Uma mesa para dois por favor,A table for two please
-Posso ver o cardápio?,Can I see the menu?
-Gostaria de pedir,I would like to order
-O que você recomenda?,What do you recommend?
-Sou vegetariano / Sou vegetariana,I am vegetarian
-Tenho alergia,I have an allergy
-A conta por favor,The check please
-A gorjeta está incluída?,Is the tip included?
-Estava delicioso,It was delicious
-Água,Water
-Cerveja,Beer
-Vinho,Wine
-Café,Coffee
-Chá,Tea
-Suco,Juice
-Pão,Bread
-Arroz,Rice
-Feijão,Beans
-Carne,Meat
-Frango,Chicken
-Peixe,Fish
-Preciso de um médico,I need a doctor
-Preciso de remédio,I need medicine
-Onde fica o hospital?,Where is the hospital?
-Onde fica a farmácia?,Where is the pharmacy?
-Estou me sentindo mal,I feel sick
-Dói aqui,It hurts here
-Chame a polícia,Call the police
-É uma emergência,It's an emergency
-Perdi meu passaporte,I lost my passport
-Perdi minha carteira,I lost my wallet
-Que horas são?,What time is it?
-Hoje,Today
-Amanhã,Tomorrow
-Ontem,Yesterday
-Agora,Now
-Mais tarde,Later
-Uma passagem por favor,One ticket please
-Ida e volta,Round trip
-Só ida,One way
-Que horas sai?,What time does it leave?
-Que horas chega?,What time does it arrive?
-Este lugar está ocupado?,Is this seat taken?
-Onde posso encontrar um supermercado?,Where can I find a supermarket?
-Onde fica a praia?,Where is the beach?
-Posso tirar uma foto?,Can I take a photo?
-Tenha um bom dia,Have a nice day
+"front","back"
+"Olá","Hello"
+"Bom dia","Good morning"
+"Boa tarde","Good afternoon"
+"Boa noite","Good evening"
+"Tchau","Goodbye"
+"Até logo","See you later"
+"Por favor","Please"
+"Obrigado / Obrigada","Thank you"
+"De nada","You're welcome"
+"Com licença","Excuse me"
+"Desculpe","I'm sorry"
+"Sim","Yes"
+"Não","No"
+"Como você está?","How are you?"
+"Estou bem","I'm fine"
+"Qual é o seu nome?","What is your name?"
+"Meu nome é...","My name is..."
+"Prazer em conhecê-lo","Nice to meet you"
+"Você fala inglês?","Do you speak English?"
+"Não falo português","I don't speak Portuguese"
+"Não entendo","I don't understand"
+"Pode repetir por favor?","Can you repeat please?"
+"Pode falar mais devagar?","Can you speak slower?"
+"Como se diz isso em português?","How do you say this in Portuguese?"
+"Onde fica o banheiro?","Where is the bathroom?"
+"Onde fica o hotel?","Where is the hotel?"
+"Onde fica o aeroporto?","Where is the airport?"
+"Onde fica a rodoviária?","Where is the bus station?"
+"Onde fica a estação de trem?","Where is the train station?"
+"Onde fica o metrô?","Where is the subway?"
+"Como chego a...?","How do I get to...?"
+"É longe?","Is it far?"
+"É perto?","Is it close?"
+"Vire à esquerda","Turn left"
+"Vire à direita","Turn right"
+"Siga em frente","Go straight"
+"Preciso de um táxi","I need a taxi"
+"Quanto custa?","How much does it cost?"
+"Está muito caro","That's too expensive"
+"Pode me dar um desconto?","Can you give me a discount?"
+"Gostaria de comprar isso","I would like to buy this"
+"Aceita cartão de crédito?","Do you accept credit card?"
+"Onde posso trocar dinheiro?","Where can I exchange money?"
+"Preciso de ajuda","I need help"
+"Pode me ajudar?","Can you help me?"
+"Estou perdido / Estou perdida","I'm lost"
+"Tenho uma reserva","I have a reservation"
+"Gostaria de um quarto","I would like a room"
+"Por uma noite","For one night"
+"Por duas noites","For two nights"
+"Que horas é o check-out?","What time is check-out?"
+"O café da manhã está incluído?","Is breakfast included?"
+"O ar condicionado não funciona","The air conditioning doesn't work"
+"Preciso de mais toalhas","I need more towels"
+"Uma mesa para dois por favor","A table for two please"
+"Posso ver o cardápio?","Can I see the menu?"
+"Gostaria de pedir","I would like to order"
+"O que você recomenda?","What do you recommend?"
+"Sou vegetariano / Sou vegetariana","I am vegetarian"
+"Tenho alergia","I have an allergy"
+"A conta por favor","The check please"
+"A gorjeta está incluída?","Is the tip included?"
+"Estava delicioso","It was delicious"
+"Água","Water"
+"Cerveja","Beer"
+"Vinho","Wine"
+"Café","Coffee"
+"Chá","Tea"
+"Suco","Juice"
+"Pão","Bread"
+"Arroz","Rice"
+"Feijão","Beans"
+"Carne","Meat"
+"Frango","Chicken"
+"Peixe","Fish"
+"Preciso de um médico","I need a doctor"
+"Preciso de remédio","I need medicine"
+"Onde fica o hospital?","Where is the hospital?"
+"Onde fica a farmácia?","Where is the pharmacy?"
+"Estou me sentindo mal","I feel sick"
+"Dói aqui","It hurts here"
+"Chame a polícia","Call the police"
+"É uma emergência","It's an emergency"
+"Perdi meu passaporte","I lost my passport"
+"Perdi minha carteira","I lost my wallet"
+"Que horas são?","What time is it?"
+"Hoje","Today"
+"Amanhã","Tomorrow"
+"Ontem","Yesterday"
+"Agora","Now"
+"Mais tarde","Later"
+"Uma passagem por favor","One ticket please"
+"Ida e volta","Round trip"
+"Só ida","One way"
+"Que horas sai?","What time does it leave?"
+"Que horas chega?","What time does it arrive?"
+"Este lugar está ocupado?","Is this seat taken?"
+"Onde posso encontrar um supermercado?","Where can I find a supermarket?"
+"Onde fica a praia?","Where is the beach?"
+"Posso tirar uma foto?","Can I take a photo?"
+"Tenha um bom dia","Have a nice day"

@@ -1,31 +1,31 @@
-front,back
-O que é demografia?,O estudo estatístico de populações humanas incluindo tamanho, estrutura e distribuição
-Qual é a população mundial atual (aproximada)?,Cerca de 8 bilhões de pessoas (em 2024)
-O que é taxa de fecundidade?,O número médio de filhos nascidos por mulher ao longo de sua vida
-Qual taxa de fecundidade de reposição é necessária para manter a população?,Aproximadamente 2,1 filhos por mulher
-O que é o modelo de transição demográfica?,Um modelo mostrando como populações mudam de altas taxas de natalidade/mortalidade para baixas taxas à medida que países se desenvolvem
-O que é expectativa de vida?,O número médio de anos que se espera que uma pessoa viva com base nas taxas de mortalidade atuais
-Qual continente tem a maior taxa de crescimento populacional?,África
-O que é razão de dependência?,A proporção da população em idade não produtiva (jovens e idosos) para a população em idade produtiva
-O que é urbanização?,A proporção crescente de uma população vivendo em áreas urbanas
-Qual porcentagem da população mundial vive em áreas urbanas?,Mais de 55% (e aumentando)
-O que é uma pirâmide populacional?,Uma representação gráfica mostrando a distribuição etária e por sexo de uma população
-O que é migração líquida?,A diferença entre imigração (entrada) e emigração (saída) de uma área
-Qual é a idade mediana da população mundial?,Cerca de 30 anos
-Qual país tem a idade mediana mais alta?,Mônaco (aproximadamente 55 anos)
-Qual país tem a idade mediana mais baixa?,Níger (aproximadamente 15 anos)
-O que é taxa de mortalidade infantil?,O número de mortes de bebês menores de um ano por 1.000 nascidos vivos
-O que é um censo?,Uma contagem oficial de uma população tipicamente incluindo informações demográficas
-O que é taxa bruta de natalidade?,O número de nascidos vivos por 1.000 pessoas por ano
-O que é taxa bruta de mortalidade?,O número de mortes por 1.000 pessoas por ano
-O que é crescimento natural?,A taxa de natalidade menos a taxa de mortalidade (excluindo migração)
-Qual é a língua nativa mais falada?,Mandarim chinês (cerca de 920 milhões de falantes nativos)
-Qual é a língua mais falada no geral (incluindo falantes de segunda língua)?,Inglês (aproximadamente 1,5 bilhão de falantes)
-O que é densidade populacional?,O número de pessoas por unidade de área (geralmente por km² ou por milha quadrada)
-O que é o dividendo demográfico?,Potencial de crescimento econômico de mudanças na estrutura etária quando a população em idade produtiva excede os dependentes
-O que é uma população envelhecida?,Uma população com proporção crescente de idosos
-O que é razão de sexos?,A proporção de homens para mulheres em uma população
-O que é migração interna?,Movimento de pessoas dentro das fronteiras de um país
-O que é fuga de cérebros?,Emigração de indivíduos altamente qualificados ou educados de um país
-O que é capacidade de suporte?,O tamanho máximo da população que um ambiente pode sustentar indefinidamente
-O que causa o momento demográfico?,Populações jovens grandes que terão filhos mesmo se as taxas de fecundidade caírem
+"front","back"
+"O que é demografia?","O estudo estatístico de populações humanas incluindo tamanho, estrutura e distribuição"
+"Qual é a população mundial atual (aproximada)?","Cerca de 8 bilhões de pessoas (em 2024)"
+"O que é taxa de fecundidade?","O número médio de filhos nascidos por mulher ao longo de sua vida"
+"Qual taxa de fecundidade de reposição é necessária para manter a população?","Aproximadamente 2,1 filhos por mulher"
+"O que é o modelo de transição demográfica?","Um modelo mostrando como populações mudam de altas taxas de natalidade/mortalidade para baixas taxas à medida que países se desenvolvem"
+"O que é expectativa de vida?","O número médio de anos que se espera que uma pessoa viva com base nas taxas de mortalidade atuais"
+"Qual continente tem a maior taxa de crescimento populacional?","África"
+"O que é razão de dependência?","A proporção da população em idade não produtiva (jovens e idosos) para a população em idade produtiva"
+"O que é urbanização?","A proporção crescente de uma população vivendo em áreas urbanas"
+"Qual porcentagem da população mundial vive em áreas urbanas?","Mais de 55% (e aumentando)"
+"O que é uma pirâmide populacional?","Uma representação gráfica mostrando a distribuição etária e por sexo de uma população"
+"O que é migração líquida?","A diferença entre imigração (entrada) e emigração (saída) de uma área"
+"Qual é a idade mediana da população mundial?","Cerca de 30 anos"
+"Qual país tem a idade mediana mais alta?","Mônaco (aproximadamente 55 anos)"
+"Qual país tem a idade mediana mais baixa?","Níger (aproximadamente 15 anos)"
+"O que é taxa de mortalidade infantil?","O número de mortes de bebês menores de um ano por 1.000 nascidos vivos"
+"O que é um censo?","Uma contagem oficial de uma população tipicamente incluindo informações demográficas"
+"O que é taxa bruta de natalidade?","O número de nascidos vivos por 1.000 pessoas por ano"
+"O que é taxa bruta de mortalidade?","O número de mortes por 1.000 pessoas por ano"
+"O que é crescimento natural?","A taxa de natalidade menos a taxa de mortalidade (excluindo migração)"
+"Qual é a língua nativa mais falada?","Mandarim chinês (cerca de 920 milhões de falantes nativos)"
+"Qual é a língua mais falada no geral (incluindo falantes de segunda língua)?","Inglês (aproximadamente 1,5 bilhão de falantes)"
+"O que é densidade populacional?","O número de pessoas por unidade de área (geralmente por km² ou por milha quadrada)"
+"O que é o dividendo demográfico?","Potencial de crescimento econômico de mudanças na estrutura etária quando a população em idade produtiva excede os dependentes"
+"O que é uma população envelhecida?","Uma população com proporção crescente de idosos"
+"O que é razão de sexos?","A proporção de homens para mulheres em uma população"
+"O que é migração interna?","Movimento de pessoas dentro das fronteiras de um país"
+"O que é fuga de cérebros?","Emigração de indivíduos altamente qualificados ou educados de um país"
+"O que é capacidade de suporte?","O tamanho máximo da população que um ambiente pode sustentar indefinidamente"
+"O que causa o momento demográfico?","Populações jovens grandes que terão filhos mesmo se as taxas de fecundidade caírem"

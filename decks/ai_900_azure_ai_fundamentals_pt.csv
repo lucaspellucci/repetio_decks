@@ -1,76 +1,76 @@
-front,back
-O que é Azure AI?,Uma coleção de serviços e ferramentas de IA fornecidos pelo Microsoft Azure
-O que é a certificação Azure AI Fundamentals?,Uma certificação de nível básico validando conhecimento básico de conceitos de IA e serviços Azure AI
-Qual é o código do exame Azure AI Fundamentals?,AI-900
-Quais são os principais tipos de carga de trabalho de IA?,"Machine Learning, Visão Computacional, NLP e IA Conversacional"
-O que é machine learning?,Uma técnica onde modelos aprendem padrões a partir de dados
-O que é aprendizado supervisionado?,Treinar um modelo usando dados rotulados
-O que é aprendizado não supervisionado?,Encontrar padrões em dados não rotulados
-O que é regressão?,Uma tarefa de machine learning para prever valores numéricos
-O que é classificação?,Uma tarefa de machine learning para prever categorias ou classes
-O que é clustering?,Agrupar pontos de dados similares sem rótulos
-O que é detecção de anomalias?,Identificar pontos de dados incomuns ou inesperados
-O que é Azure Machine Learning?,Um serviço de nuvem para treinar e implantar modelos de ML
-O que é AutoML?,Machine learning automatizado que seleciona modelos e parâmetros automaticamente
-O que é uma feature?,Uma variável de entrada usada por um modelo de machine learning
-O que é um label?,O resultado conhecido ou alvo em aprendizado supervisionado
-O que é treinamento de modelo?,O processo de ensinar um modelo usando dados
-O que é avaliação de modelo?,Medir o desempenho do modelo usando métricas
-O que é acurácia?,A proporção de previsões corretas
-O que é precisão?,A razão de verdadeiros positivos para positivos previstos
-O que é recall?,A razão de verdadeiros positivos para positivos reais
-O que é overfitting?,Quando um modelo tem bom desempenho em dados de treino mas ruim em novos dados
-O que é underfitting?,Quando um modelo falha em capturar padrões nos dados
-O que é Azure Cognitive Services?,Serviços de IA pré-construídos acessíveis via APIs
-Quais são as principais categorias de Cognitive Services?,"Visão, Fala, Linguagem e Decisão"
-O que é Visão Computacional?,IA que interpreta imagens e vídeos
-O que é Azure Computer Vision?,Um serviço que analisa imagens para objetos e texto
-O que é classificação de imagem?,Atribuir categorias a imagens
-O que é detecção de objetos?,Identificar objetos e suas localizações em uma imagem
-O que é OCR?,Reconhecimento Óptico de Caracteres para extrair texto de imagens
-O que é o serviço Azure Face?,Um serviço para detecção e análise facial
-O que é IA responsável?,Uso ético e justo de inteligência artificial
-O que é NLP?,Processamento de Linguagem Natural para entender texto e linguagem
-O que é Azure Text Analytics?,"Um serviço para sentimento, frases-chave e detecção de entidades"
-O que é análise de sentimento?,"Determinar tom positivo, negativo ou neutro"
-O que é extração de frases-chave?,Identificar palavras ou frases importantes
-O que é reconhecimento de entidade nomeada?,"Detectar pessoas, lugares e organizações em texto"
-O que é detecção de idioma?,Identificar o idioma do texto
-O que é Azure Translator?,Um serviço para traduzir texto entre idiomas
-O que é reconhecimento de fala?,Converter linguagem falada em texto
-O que é síntese de fala?,Converter texto em áudio falado
-O que é o serviço Azure Speech?,Um serviço para fala-para-texto e texto-para-fala
-O que é IA Conversacional?,Sistemas de IA que interagem via conversação
-O que é Azure Bot Service?,Uma plataforma para construir bots conversacionais
-O que é um chatbot?,Uma aplicação que simula conversação humana
-O que é LUIS?,Language Understanding Intelligent Service para detecção de intenção
-O que é intenção?,O objetivo ou propósito por trás da entrada do usuário
-O que é uma entidade no LUIS?,Uma peça específica de informação extraída do texto
-O que é QnA Maker?,Um serviço para construir bots de perguntas e respostas
-O que é uma base de conhecimento?,Uma coleção estruturada de perguntas e respostas
-O que é Azure OpenAI?,Um serviço que fornece acesso a modelos de linguagem grandes
-O que é uma REST API?,Uma interface que permite serviços se comunicarem via HTTP
-O que é um endpoint de modelo?,Uma URL onde um modelo implantado pode ser acessado
-O que é inferência?,Usar um modelo treinado para fazer previsões
-O que é inferência em lote?,Executar previsões em grandes conjuntos de dados de uma vez
-O que é inferência em tempo real?,Executar previsões imediatamente em novos dados
-O que é justiça em IA?,Garantir que modelos não produzam resultados tendenciosos
-O que é confiabilidade em IA?,Garantir comportamento de IA consistente e preciso
-O que é transparência em IA?,Tornar decisões de IA compreensíveis
-O que é privacidade em IA?,Proteger dados pessoais e sensíveis
-O que é segurança em IA?,Prevenir uso indevido e ataques a sistemas de IA
-O que é inclusão em IA?,Projetar IA que funcione para todos
-O que é responsabilização em IA?,Garantir que humanos sejam responsáveis pelos resultados da IA
-O que é Azure AI Studio?,Uma interface unificada para construir soluções de IA
-O que é um dataset?,Uma coleção de dados usada para treinamento ou teste
-O que é rotulagem de dados?,Atribuir saídas corretas aos dados de treinamento
-O que é uma matriz de confusão?,Uma tabela mostrando resultados de previsão vs valores reais
-O que é verdadeiro positivo?,Uma previsão positiva correta
-O que é falso positivo?,Uma previsão positiva incorreta
-O que é falso negativo?,Uma previsão negativa incorreta
-O que é verdadeiro negativo?,Uma previsão negativa correta
-O que é computação em nuvem?,Entregar serviços de computação pela internet
-O que é escalabilidade?,Capacidade de lidar com cargas de trabalho crescentes
-O que é alta disponibilidade?,Garantir que sistemas permaneçam operacionais
-O que é eficiência de custo?,Pagar apenas por recursos usados
-Para quem o AI-900 foi projetado?,Iniciantes aprendendo conceitos de IA e serviços Azure
+"front","back"
+"O que é Azure AI?","Uma coleção de serviços e ferramentas de IA fornecidos pelo Microsoft Azure"
+"O que é a certificação Azure AI Fundamentals?","Uma certificação de nível básico validando conhecimento básico de conceitos de IA e serviços Azure AI"
+"Qual é o código do exame Azure AI Fundamentals?","AI-900"
+"Quais são os principais tipos de carga de trabalho de IA?","""Machine Learning, Visão Computacional, NLP e IA Conversacional"""
+"O que é machine learning?","Uma técnica onde modelos aprendem padrões a partir de dados"
+"O que é aprendizado supervisionado?","Treinar um modelo usando dados rotulados"
+"O que é aprendizado não supervisionado?","Encontrar padrões em dados não rotulados"
+"O que é regressão?","Uma tarefa de machine learning para prever valores numéricos"
+"O que é classificação?","Uma tarefa de machine learning para prever categorias ou classes"
+"O que é clustering?","Agrupar pontos de dados similares sem rótulos"
+"O que é detecção de anomalias?","Identificar pontos de dados incomuns ou inesperados"
+"O que é Azure Machine Learning?","Um serviço de nuvem para treinar e implantar modelos de ML"
+"O que é AutoML?","Machine learning automatizado que seleciona modelos e parâmetros automaticamente"
+"O que é uma feature?","Uma variável de entrada usada por um modelo de machine learning"
+"O que é um label?","O resultado conhecido ou alvo em aprendizado supervisionado"
+"O que é treinamento de modelo?","O processo de ensinar um modelo usando dados"
+"O que é avaliação de modelo?","Medir o desempenho do modelo usando métricas"
+"O que é acurácia?","A proporção de previsões corretas"
+"O que é precisão?","A razão de verdadeiros positivos para positivos previstos"
+"O que é recall?","A razão de verdadeiros positivos para positivos reais"
+"O que é overfitting?","Quando um modelo tem bom desempenho em dados de treino mas ruim em novos dados"
+"O que é underfitting?","Quando um modelo falha em capturar padrões nos dados"
+"O que é Azure Cognitive Services?","Serviços de IA pré-construídos acessíveis via APIs"
+"Quais são as principais categorias de Cognitive Services?","""Visão, Fala, Linguagem e Decisão"""
+"O que é Visão Computacional?","IA que interpreta imagens e vídeos"
+"O que é Azure Computer Vision?","Um serviço que analisa imagens para objetos e texto"
+"O que é classificação de imagem?","Atribuir categorias a imagens"
+"O que é detecção de objetos?","Identificar objetos e suas localizações em uma imagem"
+"O que é OCR?","Reconhecimento Óptico de Caracteres para extrair texto de imagens"
+"O que é o serviço Azure Face?","Um serviço para detecção e análise facial"
+"O que é IA responsável?","Uso ético e justo de inteligência artificial"
+"O que é NLP?","Processamento de Linguagem Natural para entender texto e linguagem"
+"O que é Azure Text Analytics?","""Um serviço para sentimento, frases-chave e detecção de entidades"""
+"O que é análise de sentimento?","""Determinar tom positivo, negativo ou neutro"""
+"O que é extração de frases-chave?","Identificar palavras ou frases importantes"
+"O que é reconhecimento de entidade nomeada?","""Detectar pessoas, lugares e organizações em texto"""
+"O que é detecção de idioma?","Identificar o idioma do texto"
+"O que é Azure Translator?","Um serviço para traduzir texto entre idiomas"
+"O que é reconhecimento de fala?","Converter linguagem falada em texto"
+"O que é síntese de fala?","Converter texto em áudio falado"
+"O que é o serviço Azure Speech?","Um serviço para fala-para-texto e texto-para-fala"
+"O que é IA Conversacional?","Sistemas de IA que interagem via conversação"
+"O que é Azure Bot Service?","Uma plataforma para construir bots conversacionais"
+"O que é um chatbot?","Uma aplicação que simula conversação humana"
+"O que é LUIS?","Language Understanding Intelligent Service para detecção de intenção"
+"O que é intenção?","O objetivo ou propósito por trás da entrada do usuário"
+"O que é uma entidade no LUIS?","Uma peça específica de informação extraída do texto"
+"O que é QnA Maker?","Um serviço para construir bots de perguntas e respostas"
+"O que é uma base de conhecimento?","Uma coleção estruturada de perguntas e respostas"
+"O que é Azure OpenAI?","Um serviço que fornece acesso a modelos de linguagem grandes"
+"O que é uma REST API?","Uma interface que permite serviços se comunicarem via HTTP"
+"O que é um endpoint de modelo?","Uma URL onde um modelo implantado pode ser acessado"
+"O que é inferência?","Usar um modelo treinado para fazer previsões"
+"O que é inferência em lote?","Executar previsões em grandes conjuntos de dados de uma vez"
+"O que é inferência em tempo real?","Executar previsões imediatamente em novos dados"
+"O que é justiça em IA?","Garantir que modelos não produzam resultados tendenciosos"
+"O que é confiabilidade em IA?","Garantir comportamento de IA consistente e preciso"
+"O que é transparência em IA?","Tornar decisões de IA compreensíveis"
+"O que é privacidade em IA?","Proteger dados pessoais e sensíveis"
+"O que é segurança em IA?","Prevenir uso indevido e ataques a sistemas de IA"
+"O que é inclusão em IA?","Projetar IA que funcione para todos"
+"O que é responsabilização em IA?","Garantir que humanos sejam responsáveis pelos resultados da IA"
+"O que é Azure AI Studio?","Uma interface unificada para construir soluções de IA"
+"O que é um dataset?","Uma coleção de dados usada para treinamento ou teste"
+"O que é rotulagem de dados?","Atribuir saídas corretas aos dados de treinamento"
+"O que é uma matriz de confusão?","Uma tabela mostrando resultados de previsão vs valores reais"
+"O que é verdadeiro positivo?","Uma previsão positiva correta"
+"O que é falso positivo?","Uma previsão positiva incorreta"
+"O que é falso negativo?","Uma previsão negativa incorreta"
+"O que é verdadeiro negativo?","Uma previsão negativa correta"
+"O que é computação em nuvem?","Entregar serviços de computação pela internet"
+"O que é escalabilidade?","Capacidade de lidar com cargas de trabalho crescentes"
+"O que é alta disponibilidade?","Garantir que sistemas permaneçam operacionais"
+"O que é eficiência de custo?","Pagar apenas por recursos usados"
+"Para quem o AI-900 foi projetado?","Iniciantes aprendendo conceitos de IA e serviços Azure"
