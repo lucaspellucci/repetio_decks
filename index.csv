@@ -169,3 +169,6 @@
 "cocktails.csv","1.0","Famous Cocktails","Lifestyle","Drinks","Cocktails","https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/cocktails.csv","en"
 "cocktails_pt.csv","1.0","Coquetéis Famosos","Estilo de Vida","Bebidas","Coquetéis","https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/cocktails_pt.csv","pt"
 "cocktails_es.csv","1.0","Cócteles Famosos","Estilo de Vida","Bebidas","Cócteles","https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/cocktails_es.csv","es"
+"human_body.csv","1.0","Human Body","Science","Anatomy","General","https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/human_body.csv","en"
+"human_body_pt.csv","1.0","Corpo Humano","Ciência","Anatomia","Geral","https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/human_body_pt.csv","pt"
+"human_body_es.csv","1.0","Cuerpo Humano","Ciencia","Anatomía","General","https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/human_body_es.csv","es"
