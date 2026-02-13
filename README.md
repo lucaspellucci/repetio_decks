@@ -1,6 +1,6 @@
 # 📚 Repetio Decks
 
-Open-source flashcard decks for the [Repetio](https://repetio.com) spaced repetition app.
+Open-source flashcard decks for the [Repetio](https://repetioapp.com) spaced repetition app.
 
 ## What's Inside
 
@@ -41,7 +41,7 @@ Simple CSV with two columns — `front` (question) and `back` (answer):
 ## How to Use
 
 1. Download any deck from the `decks/` folder
-2. Import into [Repetio](https://repetio.com) or any flashcard app that supports CSV
+2. Import into [Repetio](https://repetioapp.com) or any flashcard app that supports CSV
 3. Start learning with spaced repetition!
 
 ### Direct Links
