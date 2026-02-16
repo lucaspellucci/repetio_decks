@@ -190,3 +190,6 @@
 "famous_speeches.csv","1.0","Famous Speeches","History","Speeches","General","https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/famous_speeches.csv","en"
 "famous_speeches_pt.csv","1.0","Discursos Famosos","História","Discursos","Geral","https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/famous_speeches_pt.csv","pt"
 "famous_speeches_es.csv","1.0","Discursos Famosos","Historia","Discursos","General","https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/famous_speeches_es.csv","es"
+"famous_bridges.csv","1.0","Famous Bridges","Geography","Engineering","Bridges","https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/famous_bridges.csv","en"
+"famous_bridges_pt.csv","1.0","Pontes Famosas","Geografia","Engenharia","Pontes","https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/famous_bridges_pt.csv","pt"
+"famous_bridges_es.csv","1.0","Puentes Famosos","Geografía","Ingeniería","Puentes","https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/famous_bridges_es.csv","es"
