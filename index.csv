@@ -193,3 +193,6 @@
 "famous_bridges.csv","1.0","Famous Bridges","Geography","Engineering","Bridges","https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/famous_bridges.csv","en"
 "famous_bridges_pt.csv","1.0","Pontes Famosas","Geografia","Engenharia","Pontes","https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/famous_bridges_pt.csv","pt"
 "famous_bridges_es.csv","1.0","Puentes Famosos","Geografía","Ingeniería","Puentes","https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/famous_bridges_es.csv","es"
+"famous_shipwrecks.csv","1.0","Famous Shipwrecks","History","Maritime","Shipwrecks","https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/famous_shipwrecks.csv","en"
+"famous_shipwrecks_pt.csv","1.0","Naufrágios Famosos","História","Marítimo","Naufrágios","https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/famous_shipwrecks_pt.csv","pt"
+"famous_shipwrecks_es.csv","1.0","Naufragios Famosos","Historia","Marítimo","Naufragios","https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/famous_shipwrecks_es.csv","es"
