@@ -214,3 +214,6 @@
 "sql_essentials.csv","1.0","SQL Essentials","Technology","Databases","SQL","https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/sql_essentials.csv","en"
 "sql_essentials_pt.csv","1.0","Fundamentos de SQL","Tecnologia","Bancos de Dados","SQL","https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/sql_essentials_pt.csv","pt"
 "sql_essentials_es.csv","1.0","Fundamentos de SQL","Tecnología","Bases de Datos","SQL","https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/sql_essentials_es.csv","es"
+"javascript_es6.csv","1.0","JavaScript ES6 Features","Technology","Programming","JavaScript","https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/javascript_es6.csv","en"
+"javascript_es6_pt.csv","1.0","Recursos do JavaScript ES6","Tecnologia","Programação","JavaScript","https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/javascript_es6_pt.csv","pt"
+"javascript_es6_es.csv","1.0","Características de JavaScript ES6","Tecnología","Programación","JavaScript","https://raw.githubusercontent.com/lucaspellucci/repetio_decks/refs/heads/main/decks/javascript_es6_es.csv","es"
